@@ -1,0 +1,7 @@
+<ul id="twitter">
+  <li>
+	<span class="twit">"require:  - play - crud" in dependencies.yml  "module.crud=${play.path}/modules/crud" in application.conf @>em<playframework>/em the deal ???</span>
+    <span class="arrow"></span>
+    <a class="source" href="http://twitter.com/LeMeteore">
+	<img width="32" src="http://a2.twimg.com/profile_images/1456439613/DSC04809_normal.JPG"></a> <span class="said">said 1 hour ago</span>
+  </li>                                                                                                                                                                                                                                                                               </ul>

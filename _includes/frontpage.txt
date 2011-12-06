@@ -1,0 +1,67 @@
+<div class="slider">
+  <div class="container">
+    <div class="row">
+      <div class="span8">
+        <div class="rounded-corner-box">
+          <h2>Epic text, for an epic plugin</h2>
+		  <p>Some more epic text here, some kind of sales pitch. <br/>Scala tooling- evolved.</p>
+		  <p>Some more epic text here, some kind of sales pitch. Some more epic text here, some kind of sales pitch</p>
+	      <br/><a href="#" class="btn large success"><b>Get it now!</b></a>
+	    </div>
+	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
+	  </div>
+      <div class="span8">	
+        <img src="{{ site.baseurl }}/resources/images/eclipse.png" width="425px">
+	  </div>
+	</div>
+  </div>
+</div>
+
+<div class="bottom">
+  <div class="container">
+    <div class="row">
+      <div class="span11">        
+	    <h1>Features</h1>
+	    <div class="row">
+	      <div class="span5">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
+	        <h4>Code Completion</h4>
+	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      </div>
+	      <div class="span5">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
+	        <h4>Code Completion</h4>
+	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      </div>	
+	    </div> 
+	    <div class="row">
+	      <div class="span5">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
+	        <h4>Code Completion</h4>
+	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      </div>	
+	      <div class="span5">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
+	        <h4>Code Completion</h4>
+	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      </div>	
+	    </div> 
+	    <div class="row">
+	      <div class="span5">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
+	        <h4>Code Completion</h4>
+	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      </div>	
+	      <div class="span5">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
+	        <h4>Code Completion</h4>
+	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      </div>	
+	    </div> 	
+	  </div>
+      <div class="span5">        
+	    <h1>Twitter</h1>
+	  </div>	
+    </div>
+  </div>
+</div>
