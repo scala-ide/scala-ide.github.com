@@ -5,7 +5,7 @@
         <div class="rounded-corner-box">
           <h2>Epic text, for an epic plugin</h2>
 		  <p>Some more epic text here, some kind of sales pitch. <br/>Scala tooling- evolved.</p>
-		  <p>Some more epic text here, some kind of sales pitch. Some more epic text here, some kind of sales pitch</p>
+		  <p>Idea is to put something to the effect of: "Version 2.0 Now available!" etc, here, and then the "Get it now" button, with tooltip that contains instructions</p>
 	      <br/><a href="#" class="btn large success"><b>Get it now!</b></a>
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
@@ -23,41 +23,64 @@
       <div class="span11">        
 	    <h1>Features</h1>
 	    <div class="row">
-	      <div class="span5">
+	      <div class="span11">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/mixed.jpg" align="left"></div>
+	        <h4>Support for Mixed Scala/Java Projects</h4>
+	        Support for mixed Scala/Java projects and any combination of Scala/Java project dependencies, allowing straightforward references from Scala to Java and vice versa.
+	      </div>
+	    </div>
+	    <h2>Editing</h2>
+	    <div class="row">
+	      <div class="span6">
 	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
 	        <h4>Code Completion</h4>
-	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	        Now with implicits resolved on the fly and all available methods in a list to choose from. 
 	      </div>
 	      <div class="span5">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
-	        <h4>Code Completion</h4>
-	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/typehovers.jpg" align="left"></div>
+	        <h4>Inferred Type Hovers</h4>
+	        Hover over an identifier to see what its type is inferred to be.
 	      </div>	
 	    </div> 
 	    <div class="row">
-	      <div class="span5">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
-	        <h4>Code Completion</h4>
-	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      <div class="span6">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/definitionlinking.jpg" align="left"></div>
+	        <h4>Definition Hyperlinking</h4>
+	        Hold down Ctrl/Cmd and hover over a member to bring up a link, and click to navigate through the source.
 	      </div>	
 	      <div class="span5">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
-	        <h4>Code Completion</h4>
-	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/errormarkers.jpg" align="left"></div>
+	        <h4>Error Markers</h4>
+	        Catch compilation errors as you type.
 	      </div>	
 	    </div> 
+	    <h2>Debugging</h2>	
 	    <div class="row">
-	      <div class="span5">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
-	        <h4>Code Completion</h4>
-	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	      <div class="span6">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/debug.jpg" align="left"></div>
+	        <h4>Integrated Debugger</h4>
+	        Launch your application in debug mode, and click on stack traces to navigate to the corresponding Scala source.
 	      </div>	
 	      <div class="span5">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></div>
-	        <h4>Code Completion</h4>
-	        now with implicits resolved on the fly and included in your list of snippets to choose from.
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
+	        <h4>Interactive Console</h4>
+	        Need someone to help complete this one. I've not used this feature before. Is it a full-on REPL?
 	      </div>	
 	    </div> 	
+	    <h2>Navigation</h2>	
+	    <div class="row">
+	      <div class="span6">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
+	        <h4>Outline View</h4>
+	        Navigate through your source file using a tree of all its traits/classes/objects with a collapsable menu of their members. Also available in the package explorer.
+	      </div>	
+	      <div class="span5">
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
+	        <h4>Type Hierarchy</h4>
+	        Navigate through your project from a type hierarchy view.
+	      </div>	
+	    </div> 	
+	
 	  </div>
       <div class="span5">        
 	    <h1>Twitter</h1>

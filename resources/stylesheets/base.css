@@ -147,6 +147,12 @@ body {background-color: #8d8d8d;}
 	text-shadow:0 1px 0 rgba(255,255,255,.7);
 }
 
+.bottom h2 {
+    color: rgba(0,0,0,0.6);
+	text-shadow:0 1px 0 rgba(255,255,255,.7);
+	margin-bottom: 6px;
+}
+
 .rounded-corner-box {
 	min-height: 220px;
 	background-color: rgba(0,0,0,.7);
