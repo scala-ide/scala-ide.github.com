@@ -1,0 +1,12 @@
+<div class="top-bar">
+  <div class="top-bar-inner">
+    <div class="container">
+      <a class="brand" href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/resources/images/logo.png" height="70px"></a>
+      <ul class="nav">
+        <li><a href="/docs">Documentation</a></li>
+        <li><a href="downloads.html">Downloads</a></li>
+        <li><a href="contribute.html">Contribute</a></li>
+      </ul>	
+    </div>
+  </div>
+</div>
