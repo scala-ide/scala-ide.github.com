@@ -4,13 +4,14 @@
       <div class="span8">
         <div class="rounded-corner-box">
           <h2>Scala IDE for Eclipse 2.0.0 Now Available!</h2>
-		  <p>Someone should write two or three sentences of announcement text here, perhaps highlighting the features that have been improved, etc.</p>
+		  <p>Now with improved support for implicits in code completion, definition hyperlinking, inferred type hovers, and more.</p>
+		  <p>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.</p>
 	      <br/><a href="{{ site.baseurl }}/download/current.html" class="btn large success"><b>Get it now!</b></a>
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
 	  </div>
       <div class="span8">	
-        <img src="{{ site.baseurl }}/resources/images/eclipse.png" width="425px">
+        <iframe src="http://player.vimeo.com/video/33872960?title=0&amp;byline=0&amp;portrait=0" width="425" height="265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	  </div>
 	</div>
   </div>

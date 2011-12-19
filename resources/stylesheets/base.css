@@ -172,6 +172,7 @@ body {background-color: #8d8d8d;}
 
 .rounded-corner-box p {
 	padding-bottom: -16px;
+	margin-bottom: 6px;
 }
 
 .arrow {
