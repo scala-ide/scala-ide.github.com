@@ -1,6 +1,6 @@
 <div class="row">
   <div class="span7">
-    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
+    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-implicit.png" align="left"></div>
     <h4>Highlight Implicits <span class="label success">Available</span></h4>
 	Implicit definitions are a powerful Scala construct, but it is sometimes hard to guess when they are applied. With Implicit Highlight you get immediate visual feedback in the editor and, by pressing Cmd/Ctrl+Alt+1, turn an implicit into an explicit call!
   </div>
