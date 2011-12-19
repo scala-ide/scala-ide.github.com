@@ -1,0 +1,14 @@
+<div id="download-link-2-0-2-9" class="download-link" title="URL Copied To Clipboard" data-content="To install the Scala IDE for Eclipse, open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
+  http://download.scala-ide.org/nightly-update-2-0-x-2.9.1
+</div>
+<script type="text/javascript" charset="utf-8">
+  $(window).load(function() {
+
+    var clip = new ZeroClipboard.Client();
+    clip.setHandCursor( true );
+    clip.setText("http://download.scala-ide.org/nightly-update-2-0-x-2.9.1");	  			
+    clip.glue("download-link-2-0-2-9");
+
+  });
+
+</script>

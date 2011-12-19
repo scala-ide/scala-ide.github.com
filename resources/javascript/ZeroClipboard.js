@@ -271,7 +271,8 @@ ZeroClipboard.Client.prototype = {
 						this.recoverActive = true;
 					}
 					this.domElement.removeClass('hover');
-				$('#download-link').popover('hide');					
+				var elemID = "#"+this.domElement.id;
+				$(elemID).popover('hide');					
 				}
 				break;
 			
@@ -279,7 +280,8 @@ ZeroClipboard.Client.prototype = {
 				if (this.domElement && this.cssEffects) {
 					this.domElement.addClass('active');
 				}
-				$('#download-link').popover({'placement' : 'below'}).popover('show');
+				var elemID = "#"+this.domElement.id;
+				$(elemID).popover({'placement' : 'below'}).popover('show');
 				break;
 			
 			case 'mouseup':
