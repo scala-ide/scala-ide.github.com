@@ -3,10 +3,9 @@
     <div class="row">
       <div class="span8">
         <div class="rounded-corner-box">
-          <h2>Epic text, for an epic plugin</h2>
-		  <p>Some more epic text here, some kind of sales pitch. <br/>Scala tooling- evolved.</p>
-		  <p>Idea is to put something to the effect of: "Version 2.0 Now available!" etc, here, and then the "Get it now" button, with tooltip that contains instructions</p>
-	      <br/><a href="#" class="btn large success"><b>Get it now!</b></a>
+          <h2>Scala IDE for Eclipse 2.0.0 Now Available!</h2>
+		  <p>Someone should write two or three sentences of announcement text here, perhaps highlighting the features that have been improved, etc.</p>
+	      <br/><a href="{{ site.baseurl }}/download/current.html" class="btn large success"><b>Get it now!</b></a>
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
 	  </div>
@@ -21,7 +20,7 @@
   <div class="container">
     <div class="row">
       <div class="span11">        
-	    <h1>Features</h1>
+	    <h1 id="features">Features</h1>
 	    <div class="row">
 	      <div class="span11">
 	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/mixed.jpg" align="left"></div>
@@ -39,7 +38,7 @@
 	      <div class="span5">
 	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/typehovers.jpg" align="left"></div>
 	        <h4>Inferred Type Hovers</h4>
-	        Hover over an identifier to see what its type is inferred to be.
+	        Hover over an identifier to discover the inferred type.
 	      </div>	
 	    </div> 
 	    <div class="row">
@@ -56,34 +55,34 @@
 	    </div> 
 	    <h2>Debugging</h2>	
 	    <div class="row">
-	      <div class="span6">
+	      <div class="span11">
 	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/debug.jpg" align="left"></div>
 	        <h4>Integrated Debugger</h4>
 	        Launch your application in debug mode, and click on stack traces to navigate to the corresponding Scala source.
-	      </div>	
-	      <div class="span5">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
-	        <h4>Interactive Console</h4>
-	        Need someone to help complete this one. I've not used this feature before. Is it a full-on REPL?
-	      </div>	
+	      </div>		
 	    </div> 	
-	    <h2>Navigation</h2>	
+	
 	    <div class="row">
-	      <div class="span6">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
-	        <h4>Outline View</h4>
-	        Navigate through your source file using a tree of all its traits/classes/objects with a collapsable menu of their members. Also available in the package explorer.
-	      </div>	
-	      <div class="span5">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
-	        <h4>Type Hierarchy</h4>
-	        Navigate through your project from a type hierarchy view.
-	      </div>	
-	    </div> 	
+	      <div class="span11">	
+			{% include more-features.txt %}
+	      </div>		
+	    </div>	
 	
 	  </div>
       <div class="span5">        
 	    <h1>Twitter</h1>
+		<script type='text/javascript'>
+			jQuery(function($){
+			        $(".tweet").tweet({
+			          avatar_size: 32,
+			          count: 4,
+			          username: "ScalaIDE",
+			          template: "{text}{avatar}{join}{time}"
+			    });
+			});		
+		
+		</script>
+		<!--<div class="tweet"></div>-->
 	  </div>	
     </div>
   </div>

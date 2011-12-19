@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+{% include headertop.txt %}
+<!-- Stylesheet for doc-like pages -->
+<link rel="stylesheet" href="{{ site.baseurl }}/resources/stylesheets/doc.css" type="text/css" />
+<!-- js specific to download pages -->
+<script type="text/javascript" src="{{ site.baseurl }}/resources/javascript/ZeroClipboard.js"></script>
+<!-- js for popovers -->
+<script src="{{ site.baseurl }}/resources/javascript/bootstrap-twipsy.js"></script>
+<script src="{{ site.baseurl }}/resources/javascript/bootstrap-popover.js"></script>
+<style type="text/css">
+  .slider h1 { margin-bottom: 10px; color: #ffffff; text-shadow: 0 1px 2px rgba(0,0,0,1);}
+  .bottom h2 { margin-top: 18px;}
+  .video { margin-bottom: -60px; }
+  .video-box {
+	background-color: rgba(0,0,0,.7);
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	padding: 20px;
+	margin-bottom: -60px;
+	margin-left: 30px;
+	margin-top: 30px;		
+	vertical-align: middle;
+}
+.video-box h2 {
+	color: #ffffff;
+	font-size: 32px;
+	line-height: 1;
+	text-shadow: 0 1px 2px rgba(0,0,0,.5);
+	padding-bottom: 8px;
+}
+.left-arrow {
+    position:relative;
+    left: 490px;
+    top: -190px;
+    line-height:0px;
+}
+</style>
+{% include headerbottom.txt %}
+{% include topbar.txt %}
+
+<div class="slider">
+  <div class="container">
+    <div class="row">
+      <div class="span16">        
+        <h1>{{ page.title }}</h1>
+	  </div>
+	</div>
+    <div class="row">
+      <div class="span8">
+	    <div class="video">	
+	      <iframe src="http://player.vimeo.com/video/33860742" width="490" height="306" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		  <span class="left-arrow"><img src="/resources/images/left-arrow.png" /></span>	
+		</div>
+	  </div>
+      <div class="span5">        		
+		<div class="video-box">
+			<h2 id="me" title="A title" data-content="And here's some amazing content. It's very engaging. right?">Let's get started!</h2>
+			If you are new to Eclipse or Scala, watch the “Getting Started with the Scala IDE”. This screencast will guide you through the installation of the Scala IDE for Eclipse, and you will also learn how to create and run your first Scala project.
+	    </div>
+	  </div>
+    </div>
+  </div>
+</div>
+
+<div class="bottom">
+  <div class="container">
+    <div class="row">
+      <div class="span13">        
+        {{ content }}
+	  </div>
+    </div>
+  </div>
+</div>
+
+{% include footer.txt %}

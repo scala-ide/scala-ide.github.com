@@ -10,11 +10,15 @@
 
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/resources/favicon.ico">
 
+    <!-- jquery -->
+    <script src="{{ site.baseurl }}/resources/javascript/jquery.js" type="text/javascript" ></script>
+
+	<!-- tweet -->
+    <script src="{{ site.baseurl }}/resources/javascript/jquery.tweet.js" type="text/javascript" ></script>
+    <link rel="stylesheet" href="{{ site.baseurl }}/resources/stylesheets/jquery.tweet.css" type="text/css" />
+
     <!-- Bootstrap JS and CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/resources/stylesheets/bootstrap.css" type="text/css" />
 
     <!-- Base stylesheet for all pages -->
     <link rel="stylesheet" href="{{ site.baseurl }}/resources/stylesheets/base.css" type="text/css" />
-
-</head>
-<body>

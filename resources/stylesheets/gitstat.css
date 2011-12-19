@@ -1,0 +1,56 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, font, img, kbd, q, s, samp,
+small, strike, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+:focus { outline: 0; }
+body { line-height: 1; }
+ol, ul { list-style: none; }
+table { border-collapse: separate; border-spacing: 0; }
+caption, th, td { text-align: left; font-weight: normal; }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+blockquote, q { quotes: "" ""; }
+
+html {
+    color: #333;
+	font: normal 62.5%/1 helvetica, arial, sans-serif;
+	padding: 0px;
+	text-align: center;
+    background: #f8f8f8;
+	-webkit-box-shadow: inset -2px 1px 88px #c9c9c9; 
+	-moz-box-shadow: inset -2px 1px 88px #c9c9c9; 
+	box-shadow: inset -2px 1px 88px #c9c9c9;
+	min-height: 100%;
+}
+
+body {
+    text-align: left;
+    width: 800px;
+    margin: 50px auto 20px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    background-color: #fff;
+	-webkit-box-shadow: inset -2px 1px 88px #f9f9f9; 
+	-moz-box-shadow: inset -2px 1px 88px #f9f9f9; 
+	box-shadow: inset -2px 1px 88px #f9f9f9;
+    position: relative;
+	border: 1px solid #c8c8c8;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+input { padding: 10px; font-size: 14px; width: 400px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; -webkit-box-shadow: inset 1px 1px 10px #f7f7f7; -moz-box-shadow: inset 1px 1px 10px #f7f7f7; box-shadow: inset 1px 1px 10px #f7f7f7; border: 1px solid #c9c9c9; }
+h1 { font: bold 24px/24px helvetica, arial, sans-serif; position: absolute; top: -35px; }
+#left p { margin-bottom: 16px; }
+#gh { position: absolute; right: 8px; top: -40px; padding: 3px 10px; text-shadow: 1px 1px 1px #c68043; font-size: 12px; background-color: #dd914e; color: #f9f9f9; border: 1px solid #c68043; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; -webkit-box-shadow: inset 1px 1px 10px #c68043; -moz-box-shadow: inset 1px 1px 10px #c68043; box-shadow: inset 1px 1px 10px #c68043;}
+#gh:hover { color: #f7f7f7; }
+button { padding: 10px; text-shadow: 1px 1px 1px #2262ab; font-size: 14px; width: 200px; margin: 0 auto 10px; background-color: #307ace; color: #f9f9f9; border: 1px solid #2568b4; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; -webkit-box-shadow: inset 1px 1px 10px #2262ab; -moz-box-shadow: inset 1px 1px 10px #2262ab; box-shadow: inset 1px 1px 10px #2262ab;}
+button:hover { cursor: pointer; }
+a, a:visited { color: #307ace; text-decoration: none; border-bottom: 1px dotted #307ace; }
+#code { padding: 10px; font-size: 14px; line-height: 18px; font: normal 12px/15px monospace, fixed-width; height: 200px; width: 400px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; -webkit-box-shadow: inset 1px 1px 10px #f7f7f7; -moz-box-shadow: inset 1px 1px 10px #f7f7f7; box-shadow: inset 1px 1px 10px #f7f7f7; border: 1px solid #c9c9c9; }
+
+label { font-weight: bold; display: block; }
+#code { display: none; }
+
+#left { width: 440px; float: left; padding: 10px 10px; }
+#right { width: 330px; float: right; padding: 10px 10px 10px 0; }
+#footer { clear: both; background-color: #010101; color: #f9f9f9; padding: 8px; -webkit-border-radius: 0 0 4px 4px; -moz-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px; }
