@@ -62,7 +62,7 @@
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
+      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-highlighting.png" align="left"></div>
       <h4>Syntax Coloring</h4>
       Displays Scala keywords in different colors and  fonts.
     </div>
@@ -86,7 +86,7 @@
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
+      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-todo.png" align="left"></div>
       <h4>Task Tags</h4>
       Collects your TODOs in the Task View so that you will not forget to fix them before shipping your product.
     </div>
