@@ -64,7 +64,7 @@
     <div class="span6">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-highlighting.png" align="left"></div>
       <h4>Syntax Coloring</h4>
-      Displays Scala keywords in different colors and  fonts.
+      Full syntax highlighting support, including comments, control structures and embedded XML.
     </div>
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-folding.png" align="left"></div>
