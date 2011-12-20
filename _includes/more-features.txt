@@ -9,7 +9,7 @@
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-outline.png" align="left"></div>
       <h4>Outline View</h4>
-      Displays an outline of the file that is currently open in the editor area, and lists all structural elements.
+      Displays the list of all structural elements of the currently edited file.
     </div>	
   </div>
   <div class="row">
@@ -28,19 +28,19 @@
     <div class="span6">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-wizards.png" align="left"></div>
       <h4>Scala Wizards</h4>
-      Whether you need to create a class, an object, a trait or a package object, the Scala Wizards contains the right incantation.
+      Need to create a class, an object, a trait or a package object? The Scala Wizards contains the right incantation.
     </div>
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-refactoring.png" align="left"></div>
       <h4>Refactoring</h4>
-      Automated refactoring; rename identifiers, organize imports, extract a new method from a section of code, and more.
+      Rename identifiers, organize imports, extract some code as new method, and more.
     </div>	
   </div>
   <div class="row">
     <div class="span6">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-formatter.png" align="left"></div>
       <h4>Code Formatting</h4>
-      Press Cmd/Ctrl+Shift+F to format a file or a block. And if you are using Scalariform you can import your preferred code formatting settings right into the Scala IDE.
+      Press Cmd/Ctrl+Shift+F to format a file or a block. And use your own Scalariform settings.
     </div>
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-indenter.png" align="left"></div>
@@ -52,7 +52,7 @@
     <div class="span6">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-quickfix.png" align="left"></div>
       <h4>Quick Fix</h4>
-      Use it when a type is not in scope. Press Ctrl+1 and an import statement to the missing type is added at the top of the file.
+      When a type is not in scope, press Ctrl+1 and an import statement is added at the top of the file.
     </div>
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-occurences.png" align="left"></div>
