@@ -2,7 +2,7 @@
   <h2>More Features</h2>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-junit.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/testingframeworks.html#junit"><img src ="{{ site.baseurl }}/resources/images/thumbnail-junit.png" align="left"></a></div>
       <h4>JUnit Test Runner</h4>
       Run all your JUnit Scala tests from within the Scala IDE
     </div>
@@ -14,12 +14,12 @@
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-interpreter.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/scalainterpreter.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-interpreter.png" align="left"></a></div>
       <h4>Run Selection Interpreter</h4>
       Select a block of code and evaluate it through the integrated Scala Interpreter
     </div>
     <div class="span5">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-open-type.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/navigating.html#open-type"><img src ="{{ site.baseurl }}/resources/images/thumbnail-open-type.png" align="left"></a></div>
       <h4>Open Type</h4>
       Allows you to browse the workbench for a type to open in an editor.
     </div>	
@@ -31,14 +31,14 @@
       Need to create a class, an object, a trait or a package object? The Scala Wizards contains the right incantation.
     </div>
     <div class="span5">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-refactoring.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/refactoring.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-refactoring.png" align="left"></a></div>
       <h4>Refactoring</h4>
       Rename identifiers, organize imports, extract some code as new method, and more.
     </div>	
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-formatter.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/formatting.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-formatter.png" align="left"></a></div>
       <h4>Code Formatting</h4>
       Press Cmd/Ctrl+Shift+F to format a file or a block. And use your own Scalariform settings.
     </div>
@@ -50,21 +50,21 @@
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-quickfix.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/typingviewing.html#quick-fix-imports"><img src ="{{ site.baseurl }}/resources/images/thumbnail-quickfix.png" align="left"></a></div>
       <h4>Quick Fix</h4>
       When a type is not in scope, press Ctrl+1 and an import statement is added at the top of the file.
     </div>
     <div class="span5">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-occurences.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/typingviewing.html#mark-occurrences"><img src ="{{ site.baseurl }}/resources/images/thumbnail-occurences.png" align="left"></a></div>
       <h4>Mark Occurrences</h4>
       Mark occurrences of any identifier in a file
     </div>	
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-highlighting.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/typingviewing.html#syntax-highlighting"><img src ="{{ site.baseurl }}/resources/images/thumbnail-highlighting.png" align="left"></a></div>
       <h4>Syntax Coloring</h4>
-      Displays Scala keywords in different colors and  fonts.
+      Full syntax highlighting support, including comments, control structures and embedded XML.
     </div>
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-folding.png" align="left"></div>
@@ -74,12 +74,12 @@
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-template.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/typingviewing.html#code-templates"><img src ="{{ site.baseurl }}/resources/images/thumbnail-template.png" align="left"></a></div>
       <h4>Code Templates</h4>
       Define your custom templates and avoid redundancy in your writing.
     </div>
     <div class="span5">
-      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-structured-selection.png" align="left"></div>
+      <div class="frame"><a href="/docs/user/features/typingviewing.html#structured-selection"><img src ="{{ site.baseurl }}/resources/images/thumbnail-structured-selection.png" align="left"></a></div>
       <h4>Structured Selection</h4>
       Press Alt+Shift+Up/Down and select larger/smaller portions of code.
     </div>	
