@@ -96,7 +96,7 @@
 
 </div>
 
-<a href="#" class="featureLink">Click to see the full feature list!</a>
+<a href="#" class="featureLink"><img src="{{ site.baseurl }}/resources/images/dropdown-arrow.png">More Features</a>
 
 <script type="text/javascript" charset="utf-8">
   $(window).load(function() {

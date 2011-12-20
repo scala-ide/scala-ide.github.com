@@ -3,7 +3,7 @@
     <ul>
       <li><h5>Download</h5></li>
       <li><a href="{{ site.baseurl }}/download/current.html">Current</a></li>
-      <li><a href="{{ site.baseurl }}/download/nightly.html">Nightly</a></li>
+      <li><a href="{{ site.baseurl }}/download/nightly.html">Nightlies</a></li>
     </ul>
     <ul>
       <li><h5>Documentation</h5></li>
@@ -15,7 +15,7 @@
       <li><a href="https://github.com/scala-ide/scala-ide">Source Code</a></li>
       <li><a href="{{ site.baseurl }}/docs/tutorials/index.html">Developer Documentation</a></li>
       <li><a href="http://groups.google.com/group/scala-ide-dev">Developer Mailing List</a></li>      
-      <li><a href="#">Report a Bug</a></li>      
+      <li><a href="http://scala-ide-portfolio.assembla.com/spaces/scala-ide/support/tickets">Report a Bug</a></li>      
     </ul>
     <ul>
       <li><img src="{{ site.baseurl }}/resources/images/watermark.png" align="center"/></li>
@@ -23,7 +23,7 @@
   </div>
   <div class="container copyright">
     <p>
-      <a href="http://creativecommons.org/licenses/by/2.0/uk/">Creative Commons</a>, <a href="http://www.typesafe.com">Typesafe Inc.</a>
+      <a href="http://creativecommons.org/licenses/by/2.0/uk/">Creative Commons</a>
     </p>		
   </div>
 </div>
