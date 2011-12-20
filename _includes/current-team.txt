@@ -17,29 +17,37 @@
     <a href="http://www.typesafe.com">Typesafe</a>
   </div>
   <div class="span5">
+    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/matthew.jpg" align="left"></div>
+    <h4>Matthew Farwell</h4>
+  </div>
+</div>
+<div class="row">
+  <div class="span6">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/54d0b6494927c0040b96ed327202e8dc" align="left"></div>
     <h4>Heather Miller</h4>
     <a href="http://www.epfl.ch">EPFL</a>
   </div>	
-</div>
-<div class="row">
-  <div class="span6">
+  <div class="span5">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/4c20e091494d7672177625e3b9e116b3" align="left"></div>
     <h4>Eric Molitor</h4>
   </div>
-  <div class="span5">
+</div>
+<div class="row">
+  <div class="span6">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/e0dec64f93778e5c689c3873078a406f" align="left"></div>
     <h4>Hubert Plociniczak</h4>
     <a href="http://www.typesafe.com">Typesafe</a>
   </div>	
-</div>
-<div class="row">
-  <div class="span6">
+  <div class="span5">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/ee1c3825567027539786b9993fff9b44" align="left"></div>
     <h4>Matt Russell</h4>
   </div>
-  <div class="span5">
+</div>
+<div class="row">
+  <div class="span6">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/7c1bfcefe11cb78162dad7f506095640" align="left"></div>
     <h4>Mirko Stocker</h4>
   </div>	
+ <div class="span5">
+ </div>	
 </div>
