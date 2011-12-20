@@ -24,7 +24,7 @@
 	    <h1 id="features">Features</h1>
 	    <div class="row">
 	      <div class="span11">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/mixed.jpg" align="left"></div>
+	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-java-scala.png" align="left"></div>
 	        <h4>Support for Mixed Scala/Java Projects</h4>
 	        Support for mixed Scala/Java projects and any combination of Scala/Java project dependencies, allowing straightforward references from Scala to Java and vice versa.
 	      </div>
