@@ -5,9 +5,17 @@
       <ul class="nav">
         <li><a href="{{ site.baseurl }}/index.html#features">Features</a></li>
         <li><a href="{{ site.baseurl }}/docs">Documentation</a></li>
-        <li><a href="{{ site.baseurl }}/download/current.html">Download</a></li>
+		<li class="menu">
+	      	<a href="#" class="menu">Download</a>
+	      	<ul class="menu-dropdown">
+	        	<li><a href="{{ site.baseurl }}/download/current.html">Current</a></li>
+	        	<li><a href="{{ site.baseurl }}/download/nightly.html">Nightlies</a></li>
+	      	</ul>
+		</li>
         <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
       </ul>	
     </div>
   </div>
 </div>
+
+
