@@ -9,11 +9,12 @@
       <li><h5>Documentation</h5></li>
       <li><a href="{{ site.baseurl }}/docs/user/gettingstarted.html">Getting Started</a></li>
       <li><a href="{{ site.baseurl }}/docs/tutorials/index.html">Tutorials</a></li>
+      <li><a href="http://groups.google.com/group/scala-ide-user">User Mailing List</a></li>
     </ul>
     <ul>
       <li><h5>Contribute</h5></li>
       <li><a href="https://github.com/scala-ide/scala-ide">Source Code</a></li>
-      <li><a href="{{ site.baseurl }}/docs/tutorials/index.html">Developer Documentation</a></li>
+      <li><a href="{{ site.baseurl }}/docs/dev/index.html">Developer Documentation</a></li>
       <li><a href="http://groups.google.com/group/scala-ide-dev">Developer Mailing List</a></li>      
       <li><a href="http://scala-ide-portfolio.assembla.com/spaces/scala-ide/support/tickets">Report a Bug</a></li>      
     </ul>
