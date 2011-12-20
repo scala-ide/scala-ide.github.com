@@ -2,7 +2,7 @@
 layout: current-download
 title: Download the 2.0.0 Release of the Scala IDE for Eclipse
 ---
-## Download
+## Update Site
 {% include current-download-box.txt %}
 
 ## Improved in This Release
