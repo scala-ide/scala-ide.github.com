@@ -47,6 +47,7 @@
   <div class="span6">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/7c1bfcefe11cb78162dad7f506095640" align="left"></div>
     <h4>Mirko Stocker</h4>
+    <a href="http://ifs.hsr.ch">Institute for Software</a>
   </div>	
  <div class="span5">
  </div>	
