@@ -1,4 +1,3 @@
-
 We released the Scala IDE V2.0 for Eclipse today! After 9 months of
 intensive work by the community contributors, users and the IDE team
 we are really proud to release the new version. Not only is it
@@ -155,7 +154,7 @@ conversions are available. Moreover, you can find a class on
 your classpath, even if it wasn't imported in your file yet (and the
 completion engine takes care of adding the import).
 
-## Inferred type hovers
+#### Inferred type hovers
 
 Hover with the mouse over an identifier to see its type. This comes in
 handy when the compiler infers a different type than what you expect.
