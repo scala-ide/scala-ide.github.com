@@ -5,3 +5,4 @@ layout: blog-index
 <h6>{% if page.author %}By {{ page.author}} on {% endif %}{{ page.date | date: "%b %d %Y" }}</h6>
 
 {{ content }}
+{% if page.disqus == true %}{% include disqus.txt %}{% endif %}
