@@ -71,7 +71,7 @@
 	
 	  </div>
       <div class="span5">        
-	    <h1>Twitter</h1>
+	    <h1></h1>
 		<script type='text/javascript'>
 			jQuery(function($){
 			        $(".tweet").tweet({
