@@ -222,3 +222,6 @@ body {background-color: #8d8d8d;}
 .menu-dropdown,.dropdown-menu{
 	top: 90px;
 }
+
+a { color: #03a1c4; }
+a:hover { color: #8bd16f; }

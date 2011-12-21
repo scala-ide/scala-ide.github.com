@@ -26,9 +26,17 @@ layout: default
 <div class="bottom">
   <div class="container">
     <div class="row">
-      <div class="span13">        
+      <div class="span11">        
         {{ content }}
 	  </div>
+	  <div class="span5">        
+		<h3>Entries</h3>
+		<ul class="post-list">
+		  {% for post in site.posts %}
+		    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="date">( {{ post.date | date: "%b %d %Y" }} )</span></li>
+		  {% endfor %}      
+		</ul>
+	  </div> 
     </div>
   </div>
 </div>
