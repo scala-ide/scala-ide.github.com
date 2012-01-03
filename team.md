@@ -16,4 +16,4 @@ We would also like to take the opportunity to thank our biggest, and most fun su
 
 <center><a href="http://www.typesafe.com"><img src="{{ site.baseurl }}/resources/images/typesafe.png"></a></center>
 
-If you are interested in sponsoring the the Scala IDE for Eclipse, contact us at [info@scala-ide.org](mailto:info@scala-ide.org).
+If you are interested in sponsoring the Scala IDE for Eclipse, contact us at [info@scala-ide.org](mailto:info@scala-ide.org).
