@@ -21,7 +21,10 @@ Currently, it is not possible to install both plugins within the same Eclipse in
 ### For Scala 2.8.x
 {% include current-download-box-2-8.txt%}
 
+## Requirements
 
+* [JDK 5](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html) or [JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html) (there have been issues reported when using Eclipse and Java 7).
 
-
-
+* Eclipse, including the JDT. Either the “Classic” or “Eclipse for Java Developers” is sufficient.
+	* Scala IDE is officially supporting [Eclipse 3.6.2 (Helios)](http://www.eclipse.org/downloads/packages/release/helios/sr2).
+	* Scala IDE can be installed on Eclipse 3.7 (Indigo), but not all features are working perfectly. [Read more...](http://scala-ide.org/docs/user/gettingstarted.html)
