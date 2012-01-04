@@ -15,10 +15,10 @@ The final 2.0.0 release of the Scala IDE for Eclipse is available for both Scala
 
 Currently, it is not possible to install both plugins within the same Eclipse installation. You need to decide what version of Scala you want to be using and then choose the appropriate update site. 
 
-### For Scala 2.9.1
+### For Scala 2.9.x
 {% include current-download-box-2-9.txt %}
 
-### For Scala 2.8
+### For Scala 2.8.x
 {% include current-download-box-2-8.txt%}
 
 

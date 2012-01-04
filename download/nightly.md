@@ -8,7 +8,7 @@ The nightly builds allow you to follow the development of both Scala IDE and Sca
 ## Scala IDE Version 2.1, Nightly
 {% include nightly-download-features.txt %}
 
-### For Scala 2.9.1
+### For Scala 2.9.x
 {% include nightly-download-box-2.1-2.9.txt %}
 
 ### For Scala 2.10 (trunk)
@@ -17,7 +17,7 @@ The nightly builds allow you to follow the development of both Scala IDE and Sca
 ##Scala IDE Version 2.0.x, Nightly
 The Scala IDE 2.0.x build contains fixes to be included in future maintenance releases of the 2.0 release.
 
-### For Scala 2.9.1
+### For Scala 2.9.x
 {% include nightly-download-box-2.0-2.9.txt %}
 
 ### For Scala 2.10 (trunk)

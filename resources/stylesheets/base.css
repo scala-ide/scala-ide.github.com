@@ -193,6 +193,10 @@ body {background-color: #8d8d8d;}
 	margin-bottom: 20px;
 }
 
+.download-section {
+	margin-bottom:24px;
+}
+
 .download-link{
     color: rgba(0,0,0,0.6);
 	text-shadow:0 1px 0 rgba(255,255,255,.7);	
@@ -200,7 +204,6 @@ body {background-color: #8d8d8d;}
 	text-align: center;
 	font-weight:bold;
 	background-color:#b0eb9b;
-	margin-bottom:24px;
 	padding:10px;
 	min-height:20px;
 	border:1px solid #eee;
@@ -217,6 +220,13 @@ body {background-color: #8d8d8d;}
 	background-color:#bfeb9b;
 	border:1px solid #d8f000;
 	border:1px solid rgba(216, 240, 0, 0.6);
+}
+
+.zip-update-site {
+  font-size: 11px;
+  margin-top: 5px;
+  font-style: italic;
+  text-align: center;
 }
 
 .menu-dropdown,.dropdown-menu{
