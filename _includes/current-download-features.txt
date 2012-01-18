@@ -14,7 +14,7 @@
   <div class="span7">
     <div class="frame"><img src ="{{ site.baseurl }}/resources/images/definitionlinking.jpg" align="left"></div>
     <h4>Definition Hyperlinking</h4>
-    Hold down Ctrl/Cmd and hover over a member to bring up a link, and click to navigate through the source.
+    Hold down <span class="keystroke">Ctrl/Cmd</span> and hover over a member to bring up a link, and click to navigate through the source.
   </div>	
   <div class="span6">
     <div class="frame"><img src ="{{ site.baseurl }}/resources/images/errormarkers.jpg" align="left"></div>

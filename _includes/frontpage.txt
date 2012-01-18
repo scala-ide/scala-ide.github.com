@@ -46,7 +46,7 @@
 	      <div class="span6">
 	        <div class="frame"><a href="/docs/user/features/navigating.html#hyperlinking"><img src ="{{ site.baseurl }}/resources/images/definitionlinking.jpg" align="left"></a></div>
 	        <h4>Definition Hyperlinking</h4>
-	        Hold down Ctrl/Cmd and hover over a member to bring up a link, and click to navigate through the source.
+	        Hold down <span class="keystroke">Ctrl/Cmd</span> and hover over a member to bring up a link, and click to navigate through the source.
 	      </div>	
 	      <div class="span5">
 	        <div class="frame"><a href="/docs/user/features/typingviewing.html#as-you-type-error-reporting"><img src ="{{ site.baseurl }}/resources/images/errormarkers.jpg" align="left"></a></div>

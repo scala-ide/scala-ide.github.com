@@ -40,7 +40,7 @@
     <div class="span6">
       <div class="frame"><a href="/docs/user/features/formatting.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-formatter.png" align="left"></a></div>
       <h4>Code Formatting</h4>
-      Press Cmd/Ctrl+Shift+F to format a file or a block. And use your own Scalariform settings.
+      Press <span class="keystroke">Cmd/Ctrl+Shift+F</span> to format a file or a block. And use your own Scalariform settings.
     </div>
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-indenter.png" align="left"></div>
@@ -52,7 +52,7 @@
     <div class="span6">
       <div class="frame"><a href="/docs/user/features/typingviewing.html#quick-fix-imports"><img src ="{{ site.baseurl }}/resources/images/thumbnail-quickfix.png" align="left"></a></div>
       <h4>Quick Fix</h4>
-      When a type is not in scope, press Ctrl+1 and an import statement is added at the top of the file.
+      When a type is not in scope, press <span class="keystroke">Ctrl+1</span> and an import statement is added at the top of the file.
     </div>
     <div class="span5">
       <div class="frame"><a href="/docs/user/features/typingviewing.html#mark-occurrences"><img src ="{{ site.baseurl }}/resources/images/thumbnail-occurences.png" align="left"></a></div>
@@ -81,14 +81,14 @@
     <div class="span5">
       <div class="frame"><a href="/docs/user/features/typingviewing.html#structured-selection"><img src ="{{ site.baseurl }}/resources/images/thumbnail-structured-selection.png" align="left"></a></div>
       <h4>Structured Selection</h4>
-      Press Alt+Shift+Up/Down and select larger/smaller portions of code.
+      Press <span class="keystroke">Alt+Shift+Up/Down</span> and select larger/smaller portions of code.
     </div>	
   </div>
   <div class="row">
     <div class="span6">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-todo.png" align="left"></div>
       <h4>Task Tags</h4>
-      Collects your TODOs in the Task View so that you will not forget to fix them before shipping your product.
+      Collects your <span class="code">TODO</span>s in the Task View so that you will not forget to fix them before shipping your product.
     </div>
     <div class="span5">
     </div>	

@@ -2,12 +2,12 @@
   <div class="span7">
     <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-implicit.png" align="left"></div>
     <h4>Highlight Implicits <span class="label success">Available</span></h4>
-	Implicit definitions are a powerful Scala construct, but it is sometimes hard to guess when they are applied. With Implicit Highlight you get immediate visual feedback in the editor and, by pressing Cmd/Ctrl+Shift+1, turn an implicit into an explicit call!
+	Implicit definitions are a powerful Scala construct, but it is often hard to guess when they are applied. With Implicit Highlight you get immediate visual feedback in the editor and, by pressing <span class="keystroke">Cmd/Ctrl+Shift+1</span>, turn an implicit into an explicit call!
   </div>
   <div class="span6">
     <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
     <h4>Semantic Highlighting</h4>
     <span class="label warning">Coming Soon</span><br/>
-	Identifiers are colored based on their meaning, improving readability. For instance, "val"s can be colored differently from "var"s and "lazy val"s!
+	Identifiers are colored based on their meaning, improving readability. For instance, a <span class="code">val</span> can be colored differently from a <span class="code">var</span> and a <span class="code">lazy val</span>!
   </div>	
 </div> 
