@@ -1,4 +1,4 @@
-* [JDK 5](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html) or [JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html).
+* [JDK 5](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html) or [JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html) (JDK 7 is not supported).
 
 * Eclipse, including the JDT. Either "Eclipse Classic" or "Eclipse for Java Developers" is sufficient.
 	* Scala IDE is *officially* supporting [Eclipse 3.6 (Helios)](http://www.eclipse.org/downloads/packages/release/helios/sr2).

@@ -1,4 +1,4 @@
-* [JDK 5](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html), [JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-arch
-ive-downloads-javase6-419409.html) or the latest [JDK 7](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
+* [JDK 5](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html) or [JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-arch
+ive-downloads-javase6-419409.html) (JDK 7 is not supported).
 
 * [Eclipse 3.7 (Indigo)](http://www.eclipse.org/downloads/), including the JDT. Either "Eclipse Classic" or "Eclipse for Java Developers" is sufficient. (It can also be installed on Eclipse 3.6, but it may not work perfectly.)

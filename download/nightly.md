@@ -4,7 +4,7 @@ title: Download the Latest Nightly Build
 ---
 
 # Scala IDE Helium, Nightly
-*Helium* is the codename of the future release of the Scala IDE. If you like staying on the cutting edge, make sure to install this nighlty.
+*Helium* is the codename of the Scala IDE's next release. If you like staying on the cutting edge, make sure to install this nighlty.
 
 ## New Features
 {% include nightly-download-features.txt %}
