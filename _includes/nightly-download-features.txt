@@ -14,9 +14,6 @@
     <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-moveclass.png" align="left"></div>
     <h4>Move Class, Object or Trait
     <span class="label success">Available</span></h4>
-	Moving a source file between packages now performs a proper Move refactoring that changes the package declaration and adjusts all
-	references and imports. Using the Move action in the refactoring menu further allows you to split off a single
-	<span class="code">class</span>, <span class="code">object</span> or <span class="code">trait</span> definition
-	from a file with multiple definitions to a new location.
+	Move a source file between packages or extract a <span class="code">class</span>, <span class="code">object</span> or <span class="code">trait</span> definition (from a file with multiple definitions) to a new location.
     </div>	
 </div> 
