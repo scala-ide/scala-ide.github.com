@@ -31,4 +31,4 @@ By default, this installs the latest nightly build of the Helium builds, for the
 	Installing org.scala-ide.sdt.feature.feature.group 2.1.0.nightly-2_09-201202091714-4ffdd09.
 	Operation completed in 46198 ms.
 
-Yo can specify the location of your eclipse installation directory using `--eclipse-dir`. 
+You can specify the location of your Eclipse installation directory using `--eclipse-dir`. 
