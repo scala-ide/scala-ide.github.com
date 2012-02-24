@@ -71,19 +71,9 @@
 	
 	  </div>
       <div class="span5">        
-	    <!--<h1>Twitter</h1>-->
-		<script type='text/javascript'>
-			jQuery(function($){
-			        $(".tweet").tweet({
-			          avatar_size: 32,
-			          count: 4,
-			          username: "ScalaIDE",
-			          template: "{text}{avatar}{join}{time}"
-			    });
-			});		
-		
-		</script>
-		<!--<div class="tweet"></div>-->
+	    <h1>Twitter</h1>
+	    <p class="before-twitter">Latest <a href="https://twitter.com/#!/scalaide">@ScalaIDE</a> buzz:</p>
+			<div id="tweets" class="tweets"></div>
 	  </div>	
     </div>
   </div>
