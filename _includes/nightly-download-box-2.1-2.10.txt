@@ -17,4 +17,9 @@
   <div class="zip-update-site">
     (If you cannot use the update site, a downloadable local update site is available: <a href="http://download.scala-ide.org/nightly-build-master-trunk/org.scala-ide.sdt.update-site.zip">zipfile</a>, <a href="http://download.scala-ide.org/nightly-build-master-trunk/org.scala-ide.sdt.update-site.zip.sha1">sha1sum</a>)
   </div>
+
+  <div class="zip-update-site">
+    Older builds are <a href="http://download.scala-ide.org/builds/nightly-master-trunk/">available</a>
+  </div>
+
 </div>
