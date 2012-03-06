@@ -33,5 +33,3 @@ The Scala IDE 2.0.x build contains fixes to be included in future maintenance re
 #### For Scala 2.9.x
 {% include nightly-download-box-2.0-2.9.txt %}
 
-#### For Scala 2.10 (trunk)
-{% include nightly-download-box-2.0-2.10.txt %}
