@@ -1,11 +1,9 @@
 ---
 layout: blog
-title: Scala IDE for Eclipse 2.0.1
+title: Scala IDE for Eclipse 2.0.1 RC01
 disqus: true
 
 ---
-
-# Scala IDE for Eclipse 2.0.1
 
 We are very happy to announce a new release candidate of the Scala IDE for Eclipse! 2.0.1 is
 a maintenance release containing only bug fixes, and is recommended for all users.
@@ -31,7 +29,8 @@ works when called from the contextual menu.
 ### Compiler improvements
 
 This release is based on [Scala 2.9.2-RC1][scala], and includes a couple of improvements in the way compiler
-plugins are loaded, including the continuations plugin.
+plugins are loaded, including the continuations plugin. Now you can have several compiler plugins loaded
+side-by-side, and properly use the `pluginsdir` option.
 
 For a complete list of changes, please see the [Changelog][clog]
 
