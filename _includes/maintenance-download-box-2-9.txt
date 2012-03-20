@@ -1,13 +1,13 @@
 <div class="download-section">
   <div id="download-link-maintenance-2-9" class="download-link" title="URL Copied To Clipboard" data-content="To install the Scala IDE for Eclipse, open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
-    http://download.scala-ide.org/2.0.1-rc01-29/stable/site
+    http://download.scala-ide.org/releases-29/rc/site
   </div>
   <script type="text/javascript" charset="utf-8">
     $(window).load(function() {
 
       var clip = new ZeroClipboard.Client();
       clip.setHandCursor( true );
-      clip.setText("http://download.scala-ide.org/2.0.1-rc01-29/stable/site");	  			
+      clip.setText("http://download.scala-ide.org/releases-29/rc/site");	  			
       clip.glue("download-link-maintenance-2-9");
 
     });
@@ -15,6 +15,6 @@
   </script>
 
   <div class="zip-update-site">
-    (If you cannot use the update site, a downloadable local update site is available: <a href="http://download.scala-ide.org/2.0.1-rc01-29/stable/org.scala-ide.sdt.update-site.zip">zipfile</a>, <a href="http://download.scala-ide.org/2.0.1-rc01-29/stable/org.scala-ide.sdt.update-site.zip.sha1">sha1sum</a>)
+    (If you cannot use the update site, a downloadable local update site is available: <a href="http://download.scala-ide.org/releases-29/rc/org.scala-ide.sdt.update-site.zip">zipfile</a>, <a href="http://download.scala-ide.org/releases-29/rc/org.scala-ide.sdt.update-site.zip.sha1">sha1sum</a>)
   </div>
 </div>

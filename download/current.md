@@ -36,7 +36,7 @@ This is a maintenance release. Please check the [changelog](/docs/changelog.html
 ## Update Site
 This release of the Scala IDE is available only for Scala 2.9. Support for Scala 2.8 as been discontinued after the 2.0.0 version.
 
-## Requirements
+### Requirements
 {% include maintenance-download-requirements.txt %}
 
 #### For Scala 2.9.x

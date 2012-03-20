@@ -1,5 +1,3 @@
 * [JDK 5](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html) or [JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html) (JDK 7 support is not tested).
 
-* Eclipse, including the JDT. Either "Eclipse Classic" or "Eclipse for Java Developers" is sufficient.
-	* Scala IDE is *officially* supporting [Eclipse 3.6 (Helios)](http://www.eclipse.org/downloads/packages/release/helios/sr2).
-	* Scala IDE can be installed on Eclipse 3.7 (Indigo), but not all features are working perfectly. [Read more...](http://scala-ide.org/docs/user/gettingstarted.html)
+* Eclipse, including the JDT. Either "Eclipse Classic" or "Eclipse for Java Developers" is sufficient. Scala IDE can be installed on both [Eclipse 3.6 (Helios)](http://www.eclipse.org/downloads/packages/release/helios/sr2) and [Eclipse 3.7 (Indigo)](http://www.eclipse.org/downloads/). There is one known issue specific to using Scala IDE on Indigo, releated to [tests discovery](https://www.assembla.com/spaces/scala-ide/tickets/1000782).
