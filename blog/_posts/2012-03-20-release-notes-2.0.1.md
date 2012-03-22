@@ -1,7 +1,6 @@
 ---
 layout: blog
 title: Scala IDE for Eclipse 2.0.1 RC01
-disqus: true
 
 ---
 
@@ -30,7 +29,7 @@ works when called from the contextual menu.
 
 This release is based on [Scala 2.9.2-RC1][scala], and includes a couple of improvements in the way compiler
 plugins are loaded, including the continuations plugin. Now you can have several compiler plugins loaded
-side-by-side, and properly use the `pluginsdir` option.
+side-by-side, and properly use the [`Xpluginsdir`](http://scala-ide.org/docs/tutorials/continuations-plugin/index.html) option.
 
 For a complete list of changes, please see the [Changelog][clog]
 
@@ -39,7 +38,7 @@ For a complete list of changes, please see the [Changelog][clog]
 This version works with both Eclipse 3.6 (Helios) and 3.7 (Indigo). We developed and tested it using 
 Java 6, but Java 7 can be used [with some caveats][ide-java7].
 
-## [Go forth and code!](http://scala-ide.org/download/current.html#201rc01_)
+## [Go forth and code!]({{ site.baseurl }}/download/current.html#201rc01_)
 
 [clog]: /docs/changelog.html#release-scala-ide-2-0-x
 [sbt]: http://www.scala-sbt.org/
