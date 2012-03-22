@@ -171,6 +171,7 @@ body {background-color: #8d8d8d;}
 .rounded-corner-box {
 	min-height: 220px;
 	background-color: rgba(0,0,0,.7);
+	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
 	border-radius: 8px;
 	padding: 20px;
@@ -195,6 +196,34 @@ body {background-color: #8d8d8d;}
     left: 460px;
     top: -100px;
     line-height:0px;
+}
+
+.news-arrow {
+    position:relative;
+    left: 798px;
+    top: 18px;
+    line-height:0px;
+}
+
+.news-box-text {
+	margin-left: 10px;
+	font-size: 18px;
+	/*font-weight: bold;*/
+}
+
+.news-box-text .emphasize {
+	margin-left: 8px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.news-box-text a {
+	color: #ffffff;
+}
+
+.news-box-text a:hover {
+	color: #aaed00;
+	text-decoration: none;
 }
 
 .frame {
