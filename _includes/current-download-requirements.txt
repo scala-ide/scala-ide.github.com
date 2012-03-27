@@ -1,6 +1,6 @@
 * [JDK 5][jdk5] or [JDK 6][jdk6] (JDK 7 can be used [with some caveats][ide-java7]).
 
-* Eclipse, including the JDT ("Eclipse Classic" is sufficient). Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages.
+* Eclipse, including the JDT. "Eclipse Classic" is sufficient, but [any Eclipse package can be used][eclipse-package-to-use].
 	
 	* Both [Eclipse 3.6 (Helios)][eclipse-helios] and [Eclipse 3.7 (Indigo)][eclipse-indigo] are supported.
 	
