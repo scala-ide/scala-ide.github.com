@@ -27,7 +27,7 @@ Currently, it is not possible to install both plugins within the same Eclipse in
 #### For Scala 2.8.x
 {% include current-download-box-2-8.txt%}
 
-# <span id="201rc01">2.0.1 RC2</span>
+# <span id="201rc"><span id="201rc01">2.0.1 RC2</span></span>
 
 ## Improved in This Release
 
