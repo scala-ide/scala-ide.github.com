@@ -7,7 +7,7 @@
   <div class="span6">
     <div class="frame"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></div>
     <h4>Semantic Highlighting</h4>
-    <span class="label warning">Coming Soon</span><br/>
+    <span class="label warning">Available</span><br/>
 	Identifiers are colored based on their meaning, improving readability. For instance, a <span class="code">val</span> can be colored differently from a <span class="code">var</span> and a <span class="code">lazy val</span>!
   </div>	
   <div class="span7">
