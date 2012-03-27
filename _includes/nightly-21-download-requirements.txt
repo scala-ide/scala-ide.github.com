@@ -1,4 +1,11 @@
-* [JDK 5](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html) or [JDK 6](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-arch
-ive-downloads-javase6-419409.html) (JDK 7 is not supported).
+* [JDK 5][jdk5] or [JDK 6][jdk6] (JDK 7 can be used [with some caveats][ide-java7]).
 
-* [Eclipse 3.7 (Indigo)](http://www.eclipse.org/downloads/), including the JDT. Either "Eclipse Classic" or "Eclipse for Java Developers" is sufficient. (It can also be installed on Eclipse 3.6, but it may not work perfectly.)
+* [Eclipse 3.7 (Indigo)][eclipse-indigo]. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages. 
+
+	* Eclipse 3.6 (Helios) wil not be supported in the next Scala IDE major release.
+	
+[jdk5]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html
+[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
+[ide-java7]: /blog/java-7.html
+[eclipse-package-to-use]: http://scala-ide.org/docs/user/faq.html#What_Eclipse_package_should_I_use_
+[eclipse-indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
