@@ -32,7 +32,7 @@ works when called from the contextual menu.
 
 ### Compiler improvements
 
-This release is based on [Scala 2.9.2-RC1][scala], and includes a couple of improvements in the way compiler
+This release is based on [Scala 2.9.2-RC2][scala], and includes a couple of improvements in the way compiler
 plugins are loaded, including the continuations plugin. Now you can have several compiler plugins loaded
 side-by-side, and properly use the [`Xpluginsdir`](http://scala-ide.org/docs/tutorials/continuations-plugin/index.html) option.
 
