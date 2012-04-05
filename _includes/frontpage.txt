@@ -16,7 +16,7 @@
 		</div>
 		<div class="rounded-corner-box" style="min-height: 0px; float: left; padding: 10px; margin-top: 10px; width: 778px; background-color: rgba(0,0,0,0.5);">
 			<span class="news-box-text">
-				Or... Walk on the wild side. <span class="emphasize"><a href="{{ site.baseurl }}/download/current.html#201rc">Try version 2.0.1 Release Candidate 2!</a></span>
+				Or... Walk on the wild side. <span class="emphasize"><a href="{{ site.baseurl }}/download/current.html#201rc">Try version 2.0.1 Release Candidate 3!</a></span>
 			</span>
 		</div>
 		<span class="news-arrow"><img src="{{ site.baseurl }}/resources/images/news-arrow.png"></span>
