@@ -11,9 +11,15 @@
 	Identifiers are colored based on their meaning, improving readability. For instance, a <span class="code">val</span> can be colored differently from a <span class="code">var</span> and a <span class="code">lazy val</span>!
   </div>	
   <div class="span7">
-    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-moveclass.png" align="left"></div>
+    <div class="frame"><a href="/docs/helium/features/moverefactoring.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-moveclass.png" align="left"></a></div>
     <h4>Move Class, Object or Trait
     <span class="label success">Available</span></h4>
 	Move a source file between packages or extract a <span class="code">class</span>, <span class="code">object</span> or <span class="code">trait</span> definition (from a file with multiple definitions) to a new location.
     </div>	
+  <div class="span6">
+    <div class="frame"><a href="/docs/helium/features/scaladebugger/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-debugger.png" align="left"></a></div>
+    <h4>Scala Debugger</h4>
+    <span class="label success">Available</span><br/>
+        Stepping through closures and Scala-aware display of debugging information.
+  </div>	
 </div> 
