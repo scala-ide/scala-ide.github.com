@@ -8,7 +8,8 @@
 		<li class="menu">
 	      	<a href="#" class="menu">Download</a>
 	      	<ul class="menu-dropdown">
-	        	<li><a href="{{ site.baseurl }}/download/current.html">Current</a></li>
+	        	<li><a href="{{ site.baseurl }}/download/current.html">Stable</a></li>
+	        	<li><a href="{{ site.baseurl }}/download/milestone.html">Milestone</a></li>
 	        	<li><a href="{{ site.baseurl }}/download/nightly.html">Nightlies</a></li>
 	      	</ul>
 		</li>
