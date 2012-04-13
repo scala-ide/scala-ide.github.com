@@ -1,25 +1,22 @@
 <div class="row">
   <div class="span7">
     <div class="frame"><a href="/docs/helium/features/implicit-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-implicit.png" align="left"></a></div>
-    <h4>Highlight Implicits <span class="label success">Available</span></h4>
-	Implicit definitions are a powerful Scala construct, but it is often hard to guess when they are applied. With Implicit Highlight you get immediate visual feedback in the editor and, by pressing <span class="keystroke">Cmd/Ctrl+1</span>, turn an implicit into an explicit call!
+    <h4>Highlight Implicits</h4>
+	It has never been easier to know where implicits are applied. And, by pressing <span class="keystroke">Cmd/Ctrl+1</span>, turn an implicit into an explicit call!
   </div>
   <div class="span6">
     <div class="frame"><a href="/docs/helium/features/semantic-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-semantic.png" align="left"></a></div>
     <h4>Semantic Highlight</h4>
-    <span class="label success">Available</span><br/>
 	Identifiers are colored based on their meaning, improving readability. For instance, a <span class="code">val</span> can be colored differently from a <span class="code">var</span> and a <span class="code">lazy val</span>!
   </div>	
   <div class="span7">
     <div class="frame"><a href="/docs/helium/features/moverefactoring.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-moveclass.png" align="left"></a></div>
-    <h4>Move Class, Object or Trait
-    <span class="label success">Available</span></h4>
+    <h4>Move Class, Object or Trait</h4>
 	Move a source file between packages or extract a <span class="code">class</span>, <span class="code">object</span> or <span class="code">trait</span> definition (from a file with multiple definitions) to a new location.
     </div>	
   <div class="span6">
     <div class="frame"><a href="/docs/helium/features/scaladebugger/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-debugger.png" align="left"></a></div>
     <h4>Scala Debugger</h4>
-    <span class="label success">Available</span><br/>
         Stepping through closures and Scala-aware display of debugging information.
   </div>	
 </div> 
