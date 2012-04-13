@@ -17,7 +17,10 @@ They are simply too addictive!
 {% include milestone-download-features.txt %}
 
 ## Update Site
-This release of the Scala IDE is available only for Scala 2.9.
+This release of the Scala IDE is available only for Scala 2.9. If you want to have a look at the 
+features coming with Scala 2.10, check out the [nightly build][nightly] .
+
+[nightly]: nightly.html#scala_ide_helium_nightly
 
 ### Requirements
 {% include nightly-21-download-requirements.txt %}
