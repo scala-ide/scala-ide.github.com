@@ -6,7 +6,7 @@ title: Scala IDE 2.1 Milestone 1
 
 Today we released an early preview of the Scala IDE V2.1 for Eclipse! While the goal of V2.0 was to 
 provide a reliable environment for your Scala coding, with V2.1 we want to bring your Scala 
-development experience to a whole new level!
+development experience to a whole new level.
 
 In this milestone there are a whole lot of new features for you to try out: *implicit 
 highlight*, *move refactoring*, *scala debugger * and *semantic highlight* are the most 
@@ -19,7 +19,7 @@ Let's have a quick round at the new available features.
 
 Implicits are a powerful Scala construct, but it is often hard to guess when they are applied. 
 With implicit highlight you get immediate visual feedback in the editor and, by pressing 
-Cmd/Ctrl+1, you can turn an implicit into an explicit call. [Read more...][implicit-highlight-doc]
+Cmd/Ctrl+1, you can turn an implicit conversion into an explicit call. [Read more...][implicit-highlight-doc]
 
 Mantra: de-obfuscate code!
 
@@ -55,7 +55,7 @@ Embrace semantic highlight and say "au revoir" to the old habit!
 
 While we are really excited about this milestone, we are already working on the next "big things" 
 planned for V2.1. One important addition is the creation of an API to ease the development of 
-plugins on top of the Scala IDE. We are confident that this will incetivate developers, and hopefully 
+plugins on top of the Scala IDE. We are confident that this will incentivize developers, and hopefully 
 we will soon have an exciting plugins' ecosystem.
 
 Have a look at the [Roadmap][roadmap] and see what is planned next. 

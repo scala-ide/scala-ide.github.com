@@ -2,7 +2,7 @@
   <div class="span7">
     <div class="frame"><a href="/docs/helium/features/implicit-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-implicit.png" align="left"></a></div>
     <h4>Highlight Implicits <span class="label success">Available</span></h4>
-	It has never been easier to know where implicits are applied. And, by pressing <span class="keystroke">Cmd/Ctrl+1</span>, turn an implicit into an explicit call!
+	It has never been easier to know where implicits are applied. And, by pressing <span class="keystroke">Cmd/Ctrl+1</span>, turn an implicit conversion into an explicit call!
   </div>
   <div class="span6">
     <div class="frame"><a href="/docs/helium/features/semantic-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-semantic.png" align="left"></a></div>
