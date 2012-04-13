@@ -20,7 +20,10 @@ They are simply too addictive!
 This release of the Scala IDE is available only for Scala 2.9. If you want to have a look at the 
 features coming with Scala 2.10, check out the [nightly build][nightly] .
 
+Please check the [changelog] for the list of fixes.
+
 [nightly]: nightly.html#scala_ide_helium_nightly
+[changelog]: {{ site.baseurl }}/docs/changelog.html#master-codename-helium
 
 ### Requirements
 {% include nightly-21-download-requirements.txt %}
