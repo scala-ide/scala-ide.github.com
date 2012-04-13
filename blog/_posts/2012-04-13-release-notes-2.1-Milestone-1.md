@@ -64,7 +64,7 @@ Have a look at the [Roadmap][roadmap] and see what is planned next.
 
 [Follow this link and grab the update-site!][milestone-download]
 
-This milestone is available only with the [Scala 2.9.2-RC3][scala] and it works with 
+This milestone is available only for [Scala 2.9][scala] and it works with 
 [Eclipse 3.7 (Indigo)][indigo]. We developed and tested it using Java 6, but Java 7 can be used 
 [with some caveats][ide-java7].
 
