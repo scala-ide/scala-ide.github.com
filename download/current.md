@@ -39,5 +39,5 @@ This release of the Scala IDE is available only for Scala 2.9. Support for Scala
 ### Requirements
 {% include current-download-requirements.txt %}
 
-#### For Scala 2.9.2-RC2
+#### For Scala 2.9.x
 {% include maintenance-download-box-2-9.txt %}
