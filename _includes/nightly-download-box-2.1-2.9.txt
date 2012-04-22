@@ -1,6 +1,6 @@
 <div class="download-section">
   <div id="download-link-2-1-2-9" class="download-link" title="URL Copied To Clipboard" data-content="To install the Scala IDE for Eclipse, open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
-    http://download.scala-ide.org/nightly-update-master-2.9
+    http://download.scala-ide.org/nightly-update-master-29x
   </div>
   
   <script type="text/javascript" charset="utf-8">
@@ -8,7 +8,7 @@
 
       var clip = new ZeroClipboard.Client();
       clip.setHandCursor( true );
-      clip.setText("http://download.scala-ide.org/nightly-update-master-2.9.2-SNAPSHOT");	  			
+      clip.setText("http://download.scala-ide.org/nightly-update-master-29x");	  			
       clip.glue("download-link-2-1-2-9");
 
     });
@@ -16,11 +16,11 @@
   </script>
   
   <div class="zip-update-site">
-    (If you cannot use the update site, a downloadable local update site is available: <a href="http://download.scala-ide.org/nightly-build-master-2.9.2-SNAPSHOT/org.scala-ide.sdt.update-site.zip">zipfile</a>, <a href="http://download.scala-ide.org/nightly-build-master-2.9.2-SNAPSHOT/org.scala-ide.sdt.update-site.zip.sha1">sha1sum</a>)
+    (If you cannot use the update site, a downloadable local update site is available: <a href="http://download.scala-ide.org/nightly-build-master-29x/org.scala-ide.sdt.update-site.zip">zipfile</a>, <a href="http://download.scala-ide.org/nightly-build-master-29x/org.scala-ide.sdt.update-site.zip.sha1">sha1sum</a>)
   </div>
 
   <div class="zip-update-site">
-    Older builds are <a href="http://download.scala-ide.org/builds/nightly-master-2.9.2-SNAPSHOT/">available</a>
+    Older builds are <a href="http://download.scala-ide.org/builds/nightly-master-29x/">available</a>
   </div>
 
 </div>
