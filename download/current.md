@@ -1,22 +1,27 @@
 ---
 layout: current-download
-title: Download the 2.0.0 Release of the Scala IDE for Eclipse
+title: Download the 2.0 Release of the Scala IDE for Eclipse
 ---
 
-# 2.0.0 Release
-
-## Get Started
+# Get Started
 
 If you are new to Eclipse or Scala, watch the *Getting Started with the Scala IDE* above. The screencast will guide you through the installation of the Scala IDE for Eclipse, and you will also learn how to create and run your first Scala project.
 If you already know Eclipse and you want to find out more about features available in the Scala IDE, make sure not to miss the [Scala IDE Features Overview]({{ site.baseurl }}/index.html), on the front page. A complete list of features is available in the expandable menu on the [front page]({{ site.baseurl }}/index.html#features).
 
-## Improved in This Release
+# Improved in This Release
 {% include current-download-features.txt %}
 
-## Update Sites
-This release of the Scala IDE is available for both Scala 2.8 and Scala 2.9, through two distinct plugins (the packaged Scala version is the only difference existing between the two plugins).
+# 2.0.1 Release
 
-Currently, it is not possible to install both plugins within the same Eclipse installation. You need to decide what version of Scala you want to be using and then choose the appropriate update site. 
+This is a maintenance release containing only bug fixes, and is recommended for all users. 
+Please, check the [changelog](/docs/changelog.html#2_0_1__release_scala-ide-2_0_x_) for 
+the list of fixes. 
+
+## Update Sites
+
+The 2.0.1 release is only available for Scala 2.9, if you would like to use the Scala IDE with Scala 
+2.8, please install the [2.0.0 release](#200_release) (support for Scala 2.8 has been 
+discontinued after the 2.0.0 version).
 
 ### Requirements
 {% include current-download-requirements.txt %}
@@ -24,20 +29,19 @@ Currently, it is not possible to install both plugins within the same Eclipse in
 #### For Scala 2.9.x
 {% include current-download-box-2-9.txt %}
 
-#### For Scala 2.8.x
-{% include current-download-box-2-8.txt%}
 
-# <span id="201rc"><span id="201rc01">2.0.1 RC3</span></span>
+# 2.0.0 Release
 
-## Improved in This Release
-
-This is a maintenance release. Please check the [changelog](/docs/changelog.html#2_0_1__release_scala-ide-2_0_x_) for the list of fixes.
+Please, check the [changelog](/docs/changelog.html#2_0_0__release_scala-ide-2_0_0_) for 
+the list of fixes. 
 
 ## Update Site
-This release of the Scala IDE is available only for Scala 2.9. Support for Scala 2.8 has been discontinued after the 2.0.0 version.
+
+This release of the Scala IDE is the last one supporting Scala 2.8. If you want to use the 
+Scala IDE with Scala 2.9, please install the [2.0.1 release](#201_release).
 
 ### Requirements
 {% include current-download-requirements.txt %}
 
-#### For Scala 2.9.x
-{% include maintenance-download-box-2-9.txt %}
+#### For Scala 2.8.x
+{% include current-download-box-2-8.txt%}
