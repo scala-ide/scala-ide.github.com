@@ -38,7 +38,7 @@ the list of fixes.
 ## Update Site
 
 This release of the Scala IDE is the last one supporting Scala 2.8. If you want to use the 
-Scala IDE with Scala 2.9, please install the [2.0.1 release](#201_release).
+Scala IDE with Scala 2.9, we recommend you to use the [2.0.1 release](#201_release).
 
 ### Requirements
 {% include current-download-requirements.txt %}
