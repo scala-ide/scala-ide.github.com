@@ -1,25 +1,42 @@
 <div class="row">
   <div class="span7">
     <div class="frame"><a href="/docs/helium/features/implicit-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-implicit.png" align="left"></a></div>
-    <h4>Highlight Implicits <span class="label success">Available</span></h4>
+    <div>
+      <h4 class="inline">Highlight Implicits</h4>
+      <span class="label success">Available</span>
+    </div>
 	It has never been easier to know where implicits are applied. And, by pressing <span class="keystroke">Cmd/Ctrl+1</span>, turn an implicit conversion into an explicit call!
   </div>
   <div class="span6">
+    <div class="frame"><a href="/docs/helium/features/implicit-hyperlinking/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-implicit-hyperlink.png" align="left"></a></div>
+    <div>
+      <h4 class="inline">Implicit Hyperlinking</h4>
+      <span class="label success">Available</span>
+    </div>
+	Hold down <span class="keystroke">Ctrl/Cmd</span> and hover over an implicitly converted member to bring up a menu, and click to navigate through the source.
+  </div>
+  <div class="span7">
     <div class="frame"><a href="/docs/helium/features/semantic-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-semantic.png" align="left"></a></div>
-    <h4>Semantic Highlight</h4>
-    <span class="label success">Available</span></br>
+    <div>
+      <h4 class="inline">Semantic Highlight</h4>
+      <span class="label success">Available</span>
+    </div>
 	Identifiers are colored based on their meaning, improving readability. For instance, a <span class="code">val</span> can be colored differently from a <span class="code">var</span> and a <span class="code">lazy val</span>!
   </div>	
-  <div class="span7">
-    <div class="frame"><a href="/docs/helium/features/moverefactoring.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-moveclass.png" align="left"></a></div>
-    <h4>Move Class, Object or Trait
-    <span class="label success">Available</span></h4>
-	Move a source file between packages or extract a <span class="code">class</span>, <span class="code">object</span> or <span class="code">trait</span> definition (from a file with multiple definitions) to a new location.
-    </div>	
   <div class="span6">
+    <div class="frame"><a href="/docs/helium/features/moverefactoring.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-moveclass.png" align="left"></a></div>
+    <div>
+      <h4 class="inline">Move Template</h4>
+      <span class="label success">Available</span>
+    </div>
+	Move a source file between packages or extract a <span class="code">class</span>/<span class="code">object</span>/<span class="code">trait</span> to a new location.
+    </div>	
+  <div class="span7">
     <div class="frame"><a href="/docs/helium/features/scaladebugger/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-debugger.png" align="left"></a></div>
-    <h4>Scala Debugger</h4>
-    <span class="label success">Available</span></br>
-        Stepping through closures and Scala-aware display of debugging information.
+    <div>
+      <h4 class="inline">Scala Debugger </h4>
+      <span class="label success">Available</span>
+    </div>
+    Stepping through closures and Scala-aware display of debugging information.
   </div>	
 </div> 
