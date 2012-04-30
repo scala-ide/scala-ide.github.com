@@ -6,7 +6,7 @@ disqus: false
 
 We are very happy to announce the final release of the Scala IDE for Eclipse V2.0.1.
 
-This is a maintenance release containing only bug fixes, and is recommended for all users.
+This is a maintenance release containing only bug fixes, upgrade is recommended for all users.
 
 ## What is new in 2.0.1?
 
