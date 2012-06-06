@@ -39,4 +39,13 @@
     </div>
     Stepping through closures and Scala-aware display of debugging information.
   </div>	
+  <div class="span6">
+    <div class="frame"><a href="/docs/helium/features/new-refactoring/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-new-refactorings.png" align="left"></a></div>
+    <div>
+      <h4 class="inline">New Refactorings</h4>
+      <span class="label success">Available</span>
+    </div>
+	A whole bunch of new refactorings has arrived: Change method signatures, extract traits, generate <span class="code">hashCode</span> and <span class="code">equals</span> implementations and more.
+    </div>	
+
 </div> 
