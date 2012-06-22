@@ -1,0 +1,9 @@
+* [JDK 5][jdk5], [JDK 6][jdk6] or [JDK 7](jdk7) can be used.
+
+* [Eclipse 4.2 (Juno)][eclipse-juno]. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages. 
+	
+[jdk5]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html
+[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
+[jdk7]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-se-jdk-7-download-432154.html
+[eclipse-package-to-use]: http://scala-ide.org/docs/user/faq.html#What_Eclipse_package_should_I_use_
+[eclipse-juno]: http://www.eclipse.org/juno/
