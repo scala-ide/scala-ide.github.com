@@ -27,7 +27,7 @@ related to ``@throw`` annotation, which was causing incorrect errors to be repor
 
 * Missing Scala library in run classpath - [#1000786][#1000786], [#1000919][#1000919], [#1001022][#1001022]
 * Provide reusable sdt.core.tests bundle - [#1001080][#1001080]
-* Problem deleting files on Windows - [#1000909[#1000909], [#1000923][#1000923]
+* Problem deleting files on Windows - [#1000909][#1000909], [#1000923][#1000923]
 * Removed code generation groups from editor's context menu - [#1000972][#1000972]
 * Correctly expose Scala @throw annotation to Java - [#1000707][#1000707], [#1000800][#1000800], [#1001005][#1001005]
 * Support nested projects (Maven style) - [#1000881][#1000881], [#1000734][#1000734], [#1000621][#1000621]
