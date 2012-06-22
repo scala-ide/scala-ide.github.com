@@ -52,4 +52,4 @@ related to ``@throw`` annotation, which was causing incorrect errors to be repor
 [#1001022]: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001022
 [#1001080]: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001080
 
-## [Get 2.0.2-RC1 Now!]({{ site.baseurl }}/download/current.html#202rc01)
+## [Get 2.0.2-RC1 Now!]({{ site.baseurl }}/download/current.html#202_release_candidate_1)

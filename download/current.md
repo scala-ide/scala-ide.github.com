@@ -29,6 +29,23 @@ discontinued after the 2.0.0 version).
 #### For Scala 2.9.x
 {% include current-download-box-2-9.txt %}
 
+# 2.0.2 Release Candidate 1
+
+We prepared a new maintenance release, and it is almost ready to ship. Please help us with 
+the testing of this candidate, and let us know of any issues that you may encounter. 
+Read the [changelog](/docs/changelog.html#2_0_2__release_scala-ide-2_0_x_) for the full list of fixes.
+
+## Update Sites
+
+The 2.0.2 release is only available for Scala 2.9, if you would like to use the Scala IDE with Scala 
+2.8, please install the [2.0.0 release](#200_release) (support for Scala 2.8 has been 
+discontinued after the 2.0.0 version).
+
+### Requirements
+{% include current-download-requirements.txt %}
+
+#### For Scala 2.9.x
+{% include maintenance-download-box-2-9.txt %}
 
 # 2.0.0 Release
 
