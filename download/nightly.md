@@ -27,7 +27,7 @@ If you are using Eclipse 4.2, codename Juno, make sure to install this nightly (
 ### Requirements
 {% include juno-nightly-21-download-requirements.txt %}
 
-## Update Sites
+## Update Site
 {% include juno-nightly-download-box-2.1-2.9.txt %}
 
 # Scala IDE Version 2.0.x, Nightly
