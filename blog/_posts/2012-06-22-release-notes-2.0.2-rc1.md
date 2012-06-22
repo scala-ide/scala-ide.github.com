@@ -12,6 +12,12 @@ the testing of this candidate, and let us know of any issues that you may encoun
 
 ## What's new?
 
+### Better support for JDK 7
+
+The Scala presentation compiler used to (incorrectly) use the running JDK, instead of the one
+configured on the build path. Now it will honor the correct JDK, meaning that Eclipse can run on
+JDK 6, but your project can compile against JDK 7.
+
 ### Better support for nested projects
 
 Importing your multi-module project in the Scala IDE has never been a problem. However, compilation 
@@ -22,12 +28,6 @@ confusing. That is fixed now, and we know the Maven lovers will like it.
 
 For the many of you working with mixed Java/Scala projects, we have been fixing an annoying issue 
 related to ``@throw`` annotation, which was causing incorrect errors to be reported in the Java editor.
-
-### Better support for JDK 7
-
-The Scala presentation compiler used to (incorrectly) use the running JDK, instead of the one
-configured on the build path. Now it will honor the correct JDK, meaning that Eclipse can run on
-JDK 6, but your project can compile against JDK 7.
 
 ## Changelog
 
