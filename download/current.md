@@ -29,7 +29,7 @@ discontinued after the 2.0.0 version).
 #### For Scala 2.9.x
 {% include current-download-box-2-9.txt %}
 
-# 2.0.2 Release Candidate 1
+# 2.0.2 Release Candidate 2
 
 We prepared a new maintenance release, and it is almost ready to ship. Please help us with 
 the testing of this candidate, and let us know of any issues that you may encounter. 
