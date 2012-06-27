@@ -8,7 +8,7 @@
 
       var clip = new ZeroClipboard.Client();
       clip.setHandCursor( true );
-      clip.setText("download.scala-ide.org/nightly-update-juno-master-29x");	  			
+      clip.setText("http://download.scala-ide.org/nightly-update-juno-master-29x");	  			
       clip.glue("juno-download-link-2-1-2-9");
 
     });
