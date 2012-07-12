@@ -11,29 +11,11 @@ If you already know Eclipse and you want to find out more about features availab
 # Improved in This Release
 {% include current-download-features.txt %}
 
-# 2.0.1 Release
+# 2.0.2 Release
 
 This is a maintenance release containing only bug fixes, and is recommended for all users. 
-Please, check the [changelog](/docs/changelog.html#2_0_1__release_scala-ide-2_0_x_) for 
+Please, check the [changelog](/docs/changelog.html#2_0_2__release_scala-ide-2_0_x_) for 
 the list of fixes. 
-
-## Update Sites
-
-The 2.0.1 release is only available for Scala 2.9, if you would like to use the Scala IDE with Scala 
-2.8, please install the [2.0.0 release](#200_release) (support for Scala 2.8 has been 
-discontinued after the 2.0.0 version).
-
-### Requirements
-{% include current-download-requirements.txt %}
-
-#### For Scala 2.9.x
-{% include current-download-box-2-9.txt %}
-
-# 2.0.2 Release Candidate 3
-
-We prepared a new maintenance release, and it is almost ready to ship. Please help us with 
-the testing of this candidate, and let us know of any issues that you may encounter. 
-Read the [changelog](/docs/changelog.html#2_0_2__release_scala-ide-2_0_x_) for the full list of fixes.
 
 ## Update Sites
 
@@ -45,7 +27,7 @@ discontinued after the 2.0.0 version).
 {% include current-download-requirements.txt %}
 
 #### For Scala 2.9.x
-{% include maintenance-download-box-2-9.txt %}
+{% include current-download-box-2-9.txt %}
 
 # 2.0.0 Release
 
