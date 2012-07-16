@@ -31,7 +31,7 @@ Please check the [changelog] for the list of fixes.
 #### For Scala 2.9.x
 {% include milestone-download-box-2.1-2.9.txt %}
 
-## Special Edition for Scala 2.10.0-M4
+## Special Edition for Scala 2.10.0-M5
 
 You can try out a preview of the upcoming Scala 2.10 release, with the new features in 
 the Scala IDE M1.
@@ -39,5 +39,5 @@ the Scala IDE M1.
 ### Requirements
 {% include nightly-21-download-requirements.txt %}
 
-#### For Scala 2.10.0-M4
+#### For Scala 2.10.0-M5
 {% include milestone-download-box-2.1-2.10.txt %}
