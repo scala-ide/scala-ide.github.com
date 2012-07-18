@@ -4,8 +4,8 @@ title: Helium release cycle and future plans
 author: Scala IDE team
 ---
 
-It's been a while since our last major release, and the time for Milestone 2 is near. Let's have a look
-at what's been hapening lately, and what our plans are for the near future
+It's been a while since our last major release, and the time for Milestone 2 is near. It's time to have a look
+at what's been hapening lately, and our plans for the near future.
 
 # What's been keeping us busy
 
@@ -14,8 +14,9 @@ like [semantic highlighting][semantic], [implicit highlighting][implicit], a [Sc
 The reactions were overwhelmingly positive, with more than 4000 downloads until now!
 
 We've continued working towards Milestone 2, and we've been following closely the development of Scala 2.10.0.
-The next release of Scala will be a major update, and keeping the IDE aligned with Scala development has
-proven to be both essential, and time consuming. As time passed it became clear that some of our plans
+The next release of Scala will be a major update (macros and reflection, plus a new pattern matcher!), and
+keeping the IDE aligned with Scala development has proven to be both essential and time consuming.
+As time passed it became clear that some of our plans
 won't be possible while staying compatible with 2.9, so today we're re-evaluating our roadmap and 
 release schedule.
 
@@ -37,7 +38,7 @@ As planned, Helium will target both 2.9 and 2.10.
 
 # Lithium
 
-All the items in Milestone 3 are deferred to the next release, code-named Lithium. Lithium will target 2.10, and all new features will be targetting only 2.10. Of course, we will continue to support Helium with bugfix releases, as we did for the 2.0 release.
+All the items in Milestone 3 are deferred to the next release, code-named Lithium. Lithium will target 2.10, and all new features will be targetting only 2.10 or greater (2.11 is just around the corner!). Of course, we will continue to support Helium with bugfix releases, as we did for the 2.0 release, so if you need to keep using Scala 2.9 you will still benefit from these bugfix releases.
 
 As we get closer to the release, we'll define milestones and more fine-grained goals.
 
