@@ -14,7 +14,7 @@ like [semantic highlighting][semantic], [implicit highlighting][implicit], a [Sc
 The reactions were overwhelmingly positive, with more than 4000 downloads until now!
 
 We've continued working towards Milestone 2, and we've been following closely the development of Scala 2.10.0.
-The next release of Scala will be a major update (macros and reflection, plus a new pattern matcher!), and
+The next release of Scala will be a major update (macros and reflection, plus a new pattern matcher, just to name a few!), and
 keeping the IDE aligned with Scala development has proven to be both essential and time consuming.
 As time passed it became clear that some of our plans
 won't be possible while staying compatible with 2.9, so today we're re-evaluating our roadmap and 
@@ -28,10 +28,12 @@ from the 2.10 compiler, and shoving them both under the same API is too difficul
 is still a moving target, and it won't stabilize before 2.10.0 is out. Any effort to target both would be 
 doomed to fail.
 
-Today we decide to move the model (and the dependent `Outline` view) to the next major IDE release.
-Also, Milestone 2 is the last milestone, and we
-will work towards a final release with the aim to go in RC-mode when Scala 2.10.0 is released. The amount of
-new features (better Scala debugger, Find References, Implicit Hyperlinking, Type of Selection, 2.10 support, Source generators) already warrants a true, stable, IDE release, with the usual quality guarantees. There is 
+We decided to move the model (and the dependent `Outline` view) to the next major IDE release, as trying to 
+do it now would jeopardize quality and delay the good things we have even more.
+In addition, Milestone 2 is the **last milestone** in Helium, and we
+will work towards a **final release** with the aim to go in RC-mode when Scala 2.10.0 is released. The amount of
+new features (better [Scala debugger][debugger], Find References,[ Implicit Hyperlinking][implicit-hyperlinking], 
+[Type of Selection][show-type], 2.10 support, [Source generators][source-gen]) already warrants a true, stable, IDE release, with the usual quality guarantees. There is 
 nothing to gain by delaying it further, and forcing people into the difficult choice of using milestones or waiting.
 
 As planned, Helium will target both 2.9 and 2.10.
@@ -44,6 +46,10 @@ As we get closer to the release, we'll define milestones and more fine-grained g
 
 For a more detailed picture, have a look at the updated [Roadmap][roadmap] document.
 
+# Stay tuned
+
+The Scala IDE eco-system is growing, and we'll soon be able to show what other have been building on top of the Scala IDE in an integrated update site!
+
 [scala]: http://www.scala-lang.org/
 [release-notes-m1]: /blog/release-notes-2.1-Milestone-1.html
 [changelog-scala-m5]: http://www.scala-lang.org/node/12735
@@ -52,3 +58,7 @@ For a more detailed picture, have a look at the updated [Roadmap][roadmap] docum
 [implicit]: http://scala-ide.org/docs/helium/features/implicit-highlighting/index.html
 [debugger]: http://scala-ide.org/docs/helium/features/scaladebugger/index.html
 [new-refactorings]: http://scala-ide.org/docs/helium/index.html
+[debugger]: http://scala-ide.org/docs/helium/features/scaladebugger/index.html
+[implicit-hyperlinking]: http://scala-ide.org/docs/helium/features/implicit-hyperlinking/index.html
+[show-type]: http://scala-ide.org/docs/helium/features/show-type.html
+[source-gen]: http://scala-ide.org/docs/helium/features/source-generators/index.html
