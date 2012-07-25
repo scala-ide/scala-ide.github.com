@@ -11,6 +11,7 @@
 	        	<li><a href="{{ site.baseurl }}/download/current.html">Stable</a></li>
 	        	<li><a href="{{ site.baseurl }}/download/milestone.html">Milestone</a></li>
 	        	<li><a href="{{ site.baseurl }}/download/nightly.html">Nightlies</a></li>
+	        	<li><a href="{{ site.baseurl }}/download/ecosystem.html">Ecosystem</a></li>
 	      	</ul>
 		</li>
         <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
