@@ -22,7 +22,7 @@ This is also the opportunity to announce the creation of the ecosystem update si
 
 The goal of these update sites is to provide central locations allowing users to install and discover Eclipse plugins relevant for Scala development, according to their requirements, like Scala version or maturity of the plugins.
 
-Right now, two update sites containing Scala IDE and the ScalaTest plugin are build. Four update sites are planned in total:
+Right now, two update sites containing Scala IDE and the ScalaTest plugin are build. Four update sites are planned in total, list in the [ecosystem download page](/download/ecosystem.html):
 
 * **[http://download.scala-ide.org/ecosystem/dev-2.0-2.9/site/](http://download.scala-ide.org/ecosystem/dev-2.0-2.9/site/)**
 
