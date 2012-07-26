@@ -6,9 +6,11 @@ author: Luc Bourlier
 
 ---
 
-The [Scala IDE ecosystem]({{ site.baseurl }}scalatest-ecosystem.html) which was just announced will be a great place for find tools to develop application in Scala. But they have to be plugins to be included in one of the update sites.
+The [Scala IDE ecosystem]({{ site.baseurl }}/download/ecosystem.html) which was [just announced]({{ site.baseurl }}/blog/scalatest-ecosystem.html)
+will be a great place for finding plugins to boost your productivity. The ecosystem will host 
+not only plugins targeting end-users, but also tools for aiding developers creating and debugging their plugins.
 
-So developers will need to create Scala IDE plugin version of their tools. To bootstrap in this process, we provide two [giter8](https://github.com/n8han/giter8/) templates to generate complete maven projects, containing plugin skeletons, features and update site:
+To bootstrap the process of creating a Scala IDE plugin, we provide two [giter8](https://github.com/n8han/giter8/) templates to generate complete maven projects, containing plugin skeletons, features and update site:
 
 * [scala-ide/scala-plugin.g8](https://github.com/scala-ide/scala-plugin.g8) - a set of projects to develop an Eclipse plugin written in Scala.
 * [scala-ide/scala-ide-plugin.g8](https://github.com/scala-ide/scala-ide-plugin.g8) - a set of projects to develop an Eclipse plugin on top of Scala IDE.
