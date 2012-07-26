@@ -15,7 +15,6 @@ So developers will need to create Scala IDE plugin version of their tools. To bo
 
 To use them, after having install giter8, invoke it and provide the requested information:
 
-```
     $ g8 scala-ide/scala-ide-plugin.g8
     name [Scala IDE Sample plugin]: My Plugin
     provider [org.example]: my.domain
@@ -25,7 +24,7 @@ To use them, after having install giter8, invoke it and provide the requested in
 
     Applied scala-ide/scala-ide-plugin.g8 in my-plugin
 
-```
+    $
 
 The generated README contains some details about the projects. The result should build successfully. Developers can then concentrate on integrating their tools with Scala IDE.
 
