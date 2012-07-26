@@ -10,7 +10,7 @@ author: Luc Bourlier
 
 We are happy to announce the availability of the ScalaTest plugin for Scala IDE. It provides integrated support to execute ScalaTest tests, and a comprehensive view to see the result of the tests.
 
-This is an effort of the [ScalaTest](http:///www.scalatest.org/) team, mostly from Chua Chee Seng, with the support of Bill Venners. Documentation is available in [project page](https://github.com/scalatest/scalatest-eclipse-plugin)
+This is an effort of the [ScalaTest](http://www.scalatest.org/) team, mostly from Chua Chee Seng, with the support of Bill Venners. Documentation is available in [project page](https://github.com/scalatest/scalatest-eclipse-plugin)
 
 Read the next section to find out how to get it.
 
