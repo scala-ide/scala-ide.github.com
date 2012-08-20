@@ -3,7 +3,7 @@ layout: milestone-download
 title: Download the Milestone
 ---
 
-# Scala IDE 2.1 Milestone 1
+# Scala IDE 2.1 Milestone 2
 
 If you are curious to try out some of the new features that will only be available in the future 
 Scala IDE 2.1 release, keep reading, you are in the right place.
@@ -17,8 +17,7 @@ They are simply too addictive!
 {% include milestone-download-features.txt %}
 
 ## Update Site
-This release of the Scala IDE is available only for Scala 2.9. If you want to have a look at the 
-features coming with Scala 2.10, check out the [nightly build][nightly] .
+This release of the Scala IDE is available for both Scala 2.9.x and Scala 2.10.0-M6.
 
 Please check the [changelog] for the list of fixes.
 
@@ -31,13 +30,5 @@ Please check the [changelog] for the list of fixes.
 #### For Scala 2.9.x
 {% include milestone-download-box-2.1-2.9.txt %}
 
-## Special Edition for Scala 2.10.0-M5
-
-You can try out a preview of the upcoming Scala 2.10 release, with the new features in 
-the Scala IDE M1.
-
-### Requirements
-{% include nightly-21-download-requirements.txt %}
-
-#### For Scala 2.10.0-M5
+#### For Scala 2.10.0-M6
 {% include milestone-download-box-2.1-2.10.txt %}
