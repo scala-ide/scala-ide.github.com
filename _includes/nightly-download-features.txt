@@ -47,4 +47,12 @@
     </div>
     Generate <span class="code">hashCode</span> and <span class="code">equals</span> implementations or introduce <span class="code">ProductN</span> trait.
   </div>
+  <div class="span7">
+    <div class="frame"><a href="/docs/helium/features/show-type.html"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></a></div>
+    <div>
+      <h4 class="inline">Show Type of Selection</h4>
+      <span class="label success">Available</span>
+    </div>
+	Select any portion of code and press <span class="code">Ctrl/CMD-Shift-W T</span> to see the inferred type.
+  </div>
 </div> 
