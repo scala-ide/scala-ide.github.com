@@ -1,0 +1,102 @@
+---
+layout: default
+---
+
+{% include headertop.txt %}
+<!-- Stylesheet for doc-specific pages -->
+<link rel="stylesheet" href="{{ site.baseurl }}/resources/stylesheets/doc.css" type="text/css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/resources/stylesheets/doc-splash.css" type="text/css" />
+{% include headerbottom.txt %}
+{% include topbar.txt %}
+
+<div class="slider">
+  <div class="container">
+    <div class="row">
+      <div class="span16">        
+        <h1>{{ page.title }}</h1>
+        <div class="rounded-doc-box features">
+          <a href="docs/user/features.html">
+            <span class="make-a-link">
+            <span class="doc-box-title">Features</span>
+          </a>
+        </div>
+        <div class="rounded-doc-box tutorials">
+          <a href="docs/tutorials/index.html">
+            <span class="make-a-link">
+            <span class="doc-box-title">Tutorials</span>
+          </a>
+        </div>
+        <div class="rounded-doc-box developer">
+          <a href="docs/dev/index.html">
+            <span class="make-a-link">
+            <span class="doc-box-title">Developer</span>
+          </a>
+        </div>
+        <div class="rounded-doc-box no-right less-left-pad troubleshooting" style="width: 194px;">
+          <a href="docs/index.html">
+            <span class="make-a-link less-left-pad" style="padding-left:10px; padding-bottom:5px;">
+            <span class="doc-box-title">Troubleshooting</span>
+          </a>
+        </div>
+    </div>
+    </div>
+  </div>
+</div>
+
+<div class="bottom">
+  <div class="container">
+    <div class="row">
+      <div class="span12">        
+        {{ content }}
+        <div class="row">
+          <div class="span6">
+            <h3>Getting Started</h3>
+            <p>
+              All the essentials are covered here. Version of Eclipse that you should be using, setting up Eclipse project files, getting started with existing projects and more. <b><a href="docs/user/gettingstarted.html">Go there</a></b>.
+            </p>
+          </div>
+          <div class="span6">
+            <h3>Advanced Setup</h3>
+            <p>
+              Tweak your Eclipse settings to improve performance and ease-of-use. Change your heap size, locate your `eclipse.ini` file, use a faster garbage collector, and more. <b><a href="docs/user/advancedsetup.html">Go there</a></b>.
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span6">
+            <h3>Frequently Asked Questions</h3>
+            <p>
+              What Eclipse versions are supported? Can I install more than one Scala IDE plugin for different versions of Scala? How can I increase the stack size? Find the answers to all of these and more, in our FAQ section. <b><a href="docs/user/faq.html">Go there</a></b>.
+            </p>
+          </div>
+          <div class="span6">
+            <h3>Other Useful Info</h3>
+            <a href="docs/changelog.html"><h4 class="colored-link" style="margin-bottom: -8px;">Changelog</h4></a>
+            <a href="docs/user/testingframeworks.html"><h4 class="colored-link" style="margin-bottom: -8px;">Unit Testing</h4></a>
+            <a href="docs/license.html"><h4 class="colored-link" style="margin-bottom: -8px;">License</h4></a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12">
+            <p>&nbsp;</p>
+            <div class="topic">
+            <p class="topic-title first">Contribute!</p>
+            <p>This documentation could use your help to grow and be refined. It is managed as a GitHub project at <a class="reference external" href="http://github.com/scala-ide/docs">http://github.com/scala-ide/docs</a>. Please help us continue to improve!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    <div class="span4">
+        <h2>Still need help?</h2>
+        <p>
+          Ping our mailing list, or visit our issue tracker to search for related issues or to report a bug.
+        </p>
+        <a href="docs/user/community.html"><h3 class="colored-link">Mailing Lists</h3></a>
+        <a href="docs/user/community.html"><h3 class="colored-link">Report a Bug</h3></a>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+{% include footer.txt %}

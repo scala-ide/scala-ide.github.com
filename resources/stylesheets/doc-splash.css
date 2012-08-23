@@ -1,0 +1,137 @@
+---
+---
+p {
+  font-size: 14px;
+}
+
+.rounded-doc-box {
+  position: relative;
+  float: left;
+  margin-top: 20px;
+  margin-right: 18px;
+  height: 100px;
+  width: 180px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.features {
+  background: url('{{ site.baseurl }}/resources/images/features.png') no-repeat right bottom rgba(0,0,0,.7);
+}
+
+.features:hover {
+  background: url('{{ site.baseurl }}/resources/images/features.png') no-repeat right bottom rgba(0,0,0,.2);
+}
+
+.tutorials {
+  background: url('{{ site.baseurl }}/resources/images/tutorials.png') no-repeat right bottom rgba(0,0,0,.7);
+}
+
+.tutorials:hover {
+  background: url('{{ site.baseurl }}/resources/images/tutorials.png') no-repeat right bottom rgba(0,0,0,.2);
+}
+
+.developer {
+  background: url('{{ site.baseurl }}/resources/images/developer.png') no-repeat right bottom rgba(0,0,0,.7);
+}
+
+.developer:hover {
+  background: url('{{ site.baseurl }}/resources/images/developer.png') no-repeat right bottom rgba(0,0,0,.2);
+}
+
+.troubleshooting {
+  background: url('{{ site.baseurl }}/resources/images/troubleshooting.png') no-repeat right bottom rgba(0,0,0,.7);
+}
+
+.troubleshooting:hover {
+  background: url('{{ site.baseurl }}/resources/images/troubleshooting.png') no-repeat right bottom rgba(0,0,0,.2);
+}
+
+.no-right {
+  margin-right: 0px;
+}
+
+.less-left-pad {
+  padding-left: 10px;
+}
+
+.rounded-doc-box:hover {
+  background-color: rgba(0,0,0,.55);
+}
+
+.doc-box-title {
+  position: absolute;
+  bottom: 10px;
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 1;
+  text-shadow: 0 1px 2px rgba(0,0,0,.8);
+  padding-bottom: 8px;
+}
+
+.make-a-link { 
+  position:absolute; 
+  width:100%;
+  height:100%;
+  padding-left: 20px;
+  top:0;
+  left: 0;
+  z-index: 1;
+  background-image: url('{{ site.baseurl }}/resources/images/empty.gif');
+}
+
+.colored-link {
+  color: #0198BA;
+}
+
+.colored-link:hover {
+  color: #79c176;
+}
+
+.topic {
+  background-image: none;
+  background-color: #fdf5d9;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  padding: 14px;
+  border-color: #def1f4;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  margin-bottom: 18px;
+  position: relative;
+  padding: 7px 15px;
+  color: #404040;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#def1f4), to(#c1dfe6));
+  background-image: -moz-linear-gradient(top, #def1f4, #c1dfe6);
+  background-image: -ms-linear-gradient(top, #def1f4, #c1dfe6);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #def1f4), color-stop(100%, #c1dfe6));
+  background-image: -webkit-linear-gradient(top, #def1f4, #c1dfe6);
+  background-image: -o-linear-gradient(top, #def1f4, #c1dfe6);
+  background-image: linear-gradient(top, #def1f4, #c1dfe6);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#def1f4', endColorstr='#c1dfe6', GradientType=0);
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  border-color: #c1dfe6 #c1dfe6 #E4C652;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  border-width: 1px;
+  border-style: solid;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+}
+
+.topic-title {
+  color: rgba(0, 0, 0, 0.6);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .7);
+  margin-bottom: 6px;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 36px;
+}
