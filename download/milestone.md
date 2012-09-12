@@ -17,7 +17,7 @@ They are simply too addictive!
 {% include milestone-download-features.txt %}
 
 ## Update Site
-This release of the Scala IDE is available for both Scala 2.9.x and Scala 2.10.0-M6.
+This release of the Scala IDE is available for both Scala 2.9.x and Scala 2.10.0-M7.
 
 Please check the [changelog] for the list of fixes.
 
@@ -30,5 +30,5 @@ Please check the [changelog] for the list of fixes.
 #### For Scala 2.9.x
 {% include milestone-download-box-2.1-2.9.txt %}
 
-#### For Scala 2.10.0-M6
+#### For Scala 2.10.0-M7
 {% include milestone-download-box-2.1-2.10.txt %}

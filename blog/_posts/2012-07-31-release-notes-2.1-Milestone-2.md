@@ -5,30 +5,22 @@ title: Scala IDE 2.1 Milestone 2
 ---
 
 Today we are releasing Milestone 2 of the Scala IDE V2.1 for Eclipse, available for both 
-Scala 2.9 and 2.10.0-M6. 
-
-So much has improved 
-since Milestone 1,
-While the goal of V2.0 was to 
-provide a reliable environment for your Scala coding, with V2.1 we want to bring your Scala 
-development experience to a whole new level.
-
-In this milestone there are a whole lot of new features for you to try out: *implicit 
-highlight*, *move refactoring*, *scala debugger * and *semantic highlight* are the most 
-exciting ones. If you are like us, once you start using them you will no longer be able go back. 
-They are simply too addictive!
+Scala 2.9 and 2.10.0-M7! The highlights of this release are 2.10 support and the Scala IDE
+*ecosystem*. Oh, and one more thing: the Scala Worksheet!
 
 Let's have a quick round at what happened in the past three months.
 
-### Scala IDE ecosystem and ScalaTest plugin
+### Scala IDE ecosystem
 
 This is one of the most exciting news of this milestone. The Scala IDE ecosystem was 
-[officially launched](http://scala-ide.org/blog/scalatest-ecosystem.html) last week, and 
+[officially launched](http://scala-ide.org/blog/scalatest-ecosystem.html) a few weeks ago, and 
 we are convinced it will be a great place for finding plugins to boost your productivity with 
-Scala.
+Scala. Essentially, the ecosystem is one single update site with Scala-related Eclipse plugins.
+If you are an Eclipse plugin developer and you want to make your plugin available to a wider
+audience, contact us!
 
-The ScalaTest plugin is already part of the ecosystem, and more plugins are on the way (e.g., 
-sbt console, smart quick fixes, specs2, play2, and more!).
+The ScalaTest plugin was the first plugin to become part of the ecosystem, and the today we
+release another one, the Scala worksheet plugin. More plugins are on the way, so stay tuned!
 
 ### Full Scala 2.10 support
 
@@ -50,7 +42,6 @@ be the default debugger for all your Scala applications from now on.
 
 You can read more about the new Scala Debugger [here][scala-debugger].
 
-
 ### New Refactoring and Source Generators
 
 While in Milestone 1 we welcomed the new [Move refactoring][move-refactoring], in this 
@@ -61,32 +52,34 @@ and [extract class' factory][move-constructor].
 And that's not it. Two new source generators are now available: [generate hashCode and equals][hashcode-equals] 
 and [introduce ProductN trait][productN-trait].
 
-[Should also mention that many refactoring tickets have been fixed, particularly related to rename refactoring and organize imports]
+Also, many refactoring tickets have been fixed, particularly related to rename refactoring and organize imports.
 
 ### Find References
 
-We have initial support for find references...
+We have initial support for find references. We know it's not production ready, but we need you to 
+test it and file bug reports. It's a big improvement already!
 
 
-## A glance at the future
+## Scala Test plugin
 
-Worksheet...
+If you are using ScalaTest in your project, you will definitely love this plugin. The ScalaTest team has
+been hard at work to provide a fully-featured plugin for Scala IDE. More details (and screenshots!) on
+the [project page](https://github.com/scalatest/scalatest-eclipse-plugin)
 
+## Scala Worksheet
 
-While we are really excited about this milestone, we are already working on the next "big things" 
-planned for V2.1. One important addition is the creation of an API to ease the development of 
-plugins on top of the Scala IDE. We are confident that this will incentivize developers, and hopefully 
-we will soon have an exciting plugins' ecosystem.
+[Scala worksheet][worksheet] allows experimentation with the Scala language in a new way. A worksheet is a Scala file that is evaluated on save, and the result of each expression is shown in a column to the right of your program. Worksheets are like a REPL session on steroids, and enjoy 1st class editor support: completion, hyperlinking, interactive errors-as-you-type, auto-format, etc.
 
-Have a look at the [Roadmap][roadmap] and see what is planned next. 
+## Bugfixes
+
+We fixed 119 tickets since milestone 1 was released! For a more detailed list of the most important fixes check the [changelog][changelog]
 
 ## Install it now!
 
 [Follow this link and grab the update-site!][milestone-download]
 
-This milestone is available for both [Scala 2.9][scala-29] and [Scala 2.10.0-M6][scala-2.10-m6] it works with 
-[Eclipse 3.7 (Indigo)][indigo]. We developed and tested it using Java 6, but Java 7 can be used 
-[with some caveats][ide-java7].
+This milestone is available for both [Scala 2.9][scala-29] and [Scala 2.10.0-M7][scala-2.10-m7] it works with 
+[Eclipse 3.7 (Indigo)][indigo]. We developed and tested it using Java 6, but Java 7 can be used.
 
 We hope you will enjoy using it and, please, let us know what you think. This is the perfect time to help us 
 with ideas and improvement suggestions, or just contribute them.
@@ -106,9 +99,11 @@ Iulian Dragos, Michael Holzer, Eric Molitor, Martin Odersky, Mirko Stocker and M
 [move-refactoring]: docs/helium/features/new-refactoring/index.html#move-class-object-or-trait-refactoring
 [method-signature-refactoring]: docs/helium/features/new-refactoring/index.html#method-signature-refactorings
 [extract-trait-refactoring]: docs/helium/features/new-refactoring/index.html#Extract_trait
-[move-constructor-refactoring]: docs/helium/features/new-refactoring/index.html#Move_constructor_to_companion_object
+[move-constructor]: docs/helium/features/new-refactoring/index.html#Move_constructor_to_companion_object
 [hashcode-equals]: docs/helium/features/source-generators/index.html#Generate_hashCode_and_equals
 [productN-trait]: docs/helium/features/source-generators/index.html#Introduce_ProductN_trait
 [milestone-download]: /download/milestone.html
 [scala-29]: http://www.scala-lang.org/downloads
-[scala-2.10-m6]: FIXME
+[scala-2.10-m7]: http://www.scala-lang.org/node/12797
+[worksheet]: http://github.com/scala-ide/scala-worksheet
+[changelog]: http://scala-ide.org/docs/changelog.html
