@@ -3,7 +3,7 @@ layout: milestone-download
 title: Download the Milestone
 ---
 
-# Scala IDE 2.1 Milestone 2
+# Scala IDE 2.1.0 Milestone 2 for Eclipse 3.7 (Indigo)
 
 If you are curious to try out some of the new features that will only be available in the future 
 Scala IDE 2.1 release, keep reading, you are in the right place.
@@ -32,3 +32,17 @@ Please check the [changelog] for the list of fixes.
 
 #### For Scala 2.10.0-M7
 {% include milestone-download-box-2.1-2.10.txt %}
+
+------
+
+# Scala IDE 2.1.0 Milestone 2 for Eclipse 4.2 (Juno)
+If you are using Eclipse 4.2, codename Juno, please install from the following update sites.
+
+### Requirements
+{% include juno-nightly-21-download-requirements.txt %}
+
+#### For Scala 2.9.x
+{% include juno-milestone-download-box-2.1-2.9.txt %}
+
+#### For Scala 2.10.0-M7
+{% include juno-milestone-download-box-2.1-2.10.txt %}

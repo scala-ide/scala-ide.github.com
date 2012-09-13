@@ -1,4 +1,4 @@
-* [JDK 5][jdk5], [JDK 6][jdk6] or [JDK 7](jdk7) can be used.
+* [JDK 5][jdk5], [JDK 6][jdk6] or [JDK 7][jdk7] can be used.
 
 * [Eclipse 4.2 (Juno)][eclipse-juno]. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages. 
 	
