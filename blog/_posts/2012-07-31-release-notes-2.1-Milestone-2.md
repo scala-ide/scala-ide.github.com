@@ -88,7 +88,7 @@ with ideas and improvement suggestions, or just contribute them.
 
 We would like to take the opportunity to thank all contributors for the amazing work they have done 
 to make this milestone possible. Special thanks go to Luc Bourlier, Chee Seng Chua, Mirco Dotta, 
-Iulian Dragos, Michael Holzer, Eric Molitor, Martin Odersky, Mirko Stocker and Matt Russell.
+Iulian Dragos, Michael Holzer, Eric Molitor, Martin Odersky, Simon Schäfer, Mirko Stocker and Matt Russell.
 
 
 [ide-java7]: /blog/java-7.html
