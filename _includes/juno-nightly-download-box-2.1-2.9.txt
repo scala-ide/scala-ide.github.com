@@ -13,4 +13,12 @@
 
     });
   </script>
+
+  <div class="zip-update-site">
+    (If you cannot use the update site, a downloadable local update site is available: <a href="http://download.scala-ide.org/nightly-build-juno-master-29x/org.scala-ide.sdt.update-site.zip">zipfile</a>, <a href="http://download.scala-ide.org/nightly-build-juno-master-29x/org.scala-ide.sdt.update-site.zip.sha1">sha1sum</a>)
+  </div>
+
+  <div class="zip-update-site">
+    Older builds are <a href="http://download.scala-ide.org/builds/nightly-juno-master-29x/">available</a>
+  </div>
 </div>
