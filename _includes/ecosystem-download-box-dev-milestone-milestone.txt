@@ -1,0 +1,17 @@
+<div class="download-section">
+  <div id="download-link-ecosystem-dev-milestone-milestone" class="download-link" title="URL Copied To Clipboard" data-content="To install the Scala IDE for Eclipse, open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
+    http://download.scala-ide.org/ecosystem/dev-milestone-milestone/site/
+  </div>
+  <script type="text/javascript" charset="utf-8">
+    $(window).load(function() {
+
+      var clip = new ZeroClipboard.Client();
+      clip.setHandCursor( true );
+      clip.setText("http://download.scala-ide.org/ecosystem/dev-milestone-milestone/site/");	  			
+      clip.glue("download-link-ecosystem-dev-milestone-milestone");
+
+    });
+
+  </script>
+  
+</div>
