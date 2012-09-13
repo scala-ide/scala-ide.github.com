@@ -11,17 +11,29 @@ For more details about the content of the update sites, and learn how to have yo
 
 ------
 
-#### Ecosystem update site with development versions, based on Scala IDE stable and Scala stable
+## Ecosystem for Scala IDE milestones (2.1.0.m2)
 
-This site provides Scala IDE 2.0.2 built on Scala 2.9.2, and the development version of plugins built on top of it.
+### Scala 2.9.x
+
+{% include ecosystem-download-box-dev-milestone-2.9.txt %}
+
+### Scala 2.10.0-M7
+
+{% include ecosystem-download-box-dev-milestone-milestone.txt %}
+
+-------
+
+## Ecosystem for Scala IDE stable (2.0.2) and Scala stable (2.9.2)
+
+This site provides Scala IDE 2.0.2 built on Scala 2.9.2, and the development (nightly) version of plugins built on top of it.
 
 {% include ecosystem-download-box-dev-2.0-2.9.txt %}
 
 ------
 
-#### Ecosystem update site with development versions, based on Scala IDE nightly and Scala stable
+## Ecosystem for Scala IDE nightly and Scala stable (2.9.2)
 
-This site provides Scala IDE 2.1.x built on Scala 2.9.2, and the development version of plugins built on top of it.
+This site provides Scala IDE 2.1.x nightly built on Scala 2.9.2, and the development version of plugins built on top of it.
 
 {% include ecosystem-download-box-dev-2.1.x-2.9.txt %}
 

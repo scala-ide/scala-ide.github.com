@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: Scala IDE 2.1 Milestone 2
+title: Scala IDE 2.1.0 Milestone 2
 
 ---
 
-Today we are releasing Milestone 2 of the Scala IDE V2.1 for Eclipse, available for both 
-Scala 2.9 and 2.10.0-M7! The highlights of this release are 2.10 support and the Scala IDE
-*ecosystem*. Oh, and one more thing: the Scala Worksheet!
+Today we are releasing Milestone 2 of the Scala IDE 2.1.0 for Eclipse, available for both 
+Scala 2.9 and 2.10.0-M7! The highlights of this release are Scala 2.10 support and the Scala IDE
+*ecosystem*. Oh, and one more thing: the [Scala Worksheet][worksheet]!
 
 Let's have a quick round at what happened in the past three months.
 
@@ -20,7 +20,7 @@ If you are an Eclipse plugin developer and you want to make your plugin availabl
 audience, contact us!
 
 The ScalaTest plugin was the first plugin to become part of the ecosystem, and the today we
-release another one, the Scala worksheet plugin. More plugins are on the way, so stay tuned!
+release another one, the [Scala Worksheet][worksheet] plugin. More plugins are on the way, so stay tuned!
 
 ### Full Scala 2.10 support
 
@@ -63,7 +63,7 @@ test it and file bug reports. It's a big improvement already!
 ## Scala Test plugin
 
 If you are using ScalaTest in your project, you will definitely love this plugin. The ScalaTest team has
-been hard at work to provide a fully-featured plugin for Scala IDE. More details (and screenshots!) on
+been hard at work to provide a full-featured plugin for Scala IDE. More details (and screenshots!) on
 the [project page](https://github.com/scalatest/scalatest-eclipse-plugin)
 
 ## Scala Worksheet
@@ -76,10 +76,12 @@ We fixed 119 tickets since milestone 1 was released! For a more detailed list of
 
 ## Install it now!
 
-[Follow this link and grab the update-site!][milestone-download]
+The preferred way to install this release is through the [milestone ecosystem][ecosystem]. Just point Eclipse to
+the update site and select the Scala IDE and any additional plugins you want to install.
 
-This milestone is available for both [Scala 2.9][scala-29] and [Scala 2.10.0-M7][scala-2.10-m7] it works with 
-[Eclipse 3.7 (Indigo)][indigo]. We developed and tested it using Java 6, but Java 7 can be used.
+This milestone is available for both [Scala 2.9][scala-29] and [Scala 2.10.0-M7][scala-2.10-m7] and it works with 
+[Eclipse 3.7 (Indigo)][indigo]. We have experimental support for Eclipse 4.2 (Juno) in a separate [update site][milestone-download]
+(toghether with zipped versions of the Scala IDE).
 
 We hope you will enjoy using it and, please, let us know what you think. This is the perfect time to help us 
 with ideas and improvement suggestions, or just contribute them.
@@ -95,15 +97,16 @@ Iulian Dragos, Michael Holzer, Eric Molitor, Martin Odersky, Simon Schäfer, Mir
 [indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
 [roadmap]: /docs/dev/roadmap.html
 
-[scala-debugger]: docs/helium/features/scaladebugger/index.html
-[move-refactoring]: docs/helium/features/new-refactoring/index.html#move-class-object-or-trait-refactoring
-[method-signature-refactoring]: docs/helium/features/new-refactoring/index.html#method-signature-refactorings
-[extract-trait-refactoring]: docs/helium/features/new-refactoring/index.html#Extract_trait
-[move-constructor]: docs/helium/features/new-refactoring/index.html#Move_constructor_to_companion_object
-[hashcode-equals]: docs/helium/features/source-generators/index.html#Generate_hashCode_and_equals
-[productN-trait]: docs/helium/features/source-generators/index.html#Introduce_ProductN_trait
+[scala-debugger]: /docs/helium/features/scaladebugger/index.html
+[move-refactoring]: /docs/helium/features/new-refactoring/index.html#move-class-object-or-trait-refactoring
+[method-signature-refactoring]: /docs/helium/features/new-refactoring/index.html#method-signature-refactorings
+[extract-trait-refactoring]: /docs/helium/features/new-refactoring/index.html#Extract_trait
+[move-constructor]: /docs/helium/features/new-refactoring/index.html#Move_constructor_to_companion_object
+[hashcode-equals]: /docs/helium/features/source-generators/index.html#Generate_hashCode_and_equals
+[productN-trait]: /docs/helium/features/source-generators/index.html#Introduce_ProductN_trait
 [milestone-download]: /download/milestone.html
 [scala-29]: http://www.scala-lang.org/downloads
 [scala-2.10-m7]: http://www.scala-lang.org/node/12797
 [worksheet]: http://github.com/scala-ide/scala-worksheet
 [changelog]: http://scala-ide.org/docs/changelog.html
+[ecosystem]: /download/ecosystem.html
