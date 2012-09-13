@@ -72,7 +72,7 @@ the [project page](https://github.com/scalatest/scalatest-eclipse-plugin)
 
 ## Bugfixes
 
-We fixed 119 tickets since milestone 1 was released! For a more detailed list of the most important fixes check the [changelog][changelog]
+We fixed 119 tickets since milestone 1 was released! You will notice many improvements in the Scala editor and semantic highlighting (big thanks to our newest contributor, Simon Schäfer!) For a more detailed list of the most important fixes check the [changelog][changelog]
 
 ## Install it now!
 
