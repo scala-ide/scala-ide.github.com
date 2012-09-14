@@ -107,6 +107,6 @@ Iulian Dragos, Michael Holzer, Eric Molitor, Martin Odersky, Simon Schäfer, Mir
 [milestone-download]: /download/milestone.html
 [scala-29]: http://www.scala-lang.org/downloads
 [scala-2.10-m7]: http://www.scala-lang.org/node/12797
-[worksheet]: http://github.com/scala-ide/scala-worksheet
+[worksheet]: https://github.com/scala-ide/scala-worksheet/wiki/Getting-Started
 [changelog]: http://scala-ide.org/docs/changelog.html
 [ecosystem]: /download/ecosystem.html
