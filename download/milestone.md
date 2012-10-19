@@ -17,7 +17,7 @@ They are simply too addictive!
 {% include milestone-download-features.txt %}
 
 ## Update Site
-This release of the Scala IDE is available for both Scala 2.9.x and Scala 2.10.0-M7.
+This release of the Scala IDE is available for both Scala 2.9.x and Scala 2.10.0-RC1
 
 Please check the [changelog] for the list of fixes.
 
@@ -30,13 +30,16 @@ Please check the [changelog] for the list of fixes.
 #### For Scala 2.9.x
 {% include milestone-download-box-2.1-2.9.txt %}
 
-#### For Scala 2.10.0-M7
+#### For Scala 2.10.0-RC1
 {% include milestone-download-box-2.1-2.10.txt %}
 
 ------
 
-# Scala IDE 2.1.0 Milestone 2 for Eclipse 4.2 (Juno)
-If you are using Eclipse 4.2, codename Juno, please install from the following update sites.
+# Scala IDE 2.1.0 Milestone 2 for Eclipse 3.8/4.2 (Juno)
+If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, please install from the following update sites.
+
+### Support
+{% include juno-support-note.txt %}
 
 ### Requirements
 {% include juno-nightly-21-download-requirements.txt %}
@@ -44,5 +47,5 @@ If you are using Eclipse 4.2, codename Juno, please install from the following u
 #### For Scala 2.9.x
 {% include juno-milestone-download-box-2.1-2.9.txt %}
 
-#### For Scala 2.10.0-M7
+#### For Scala 2.10.0-RC1
 {% include juno-milestone-download-box-2.1-2.10.txt %}

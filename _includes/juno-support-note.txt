@@ -1,0 +1,1 @@
+Support for the Eclipse 3.8 and Eclipse 4.2 platforms is done by the community at-large. The main development team provides support as possible, but it is not in its top priorities.
