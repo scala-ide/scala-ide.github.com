@@ -21,8 +21,11 @@ title: Download the Latest Nightly Build
 #### For Scala 2.10.x
 {% include nightly-download-box-2.1-2.10.txt %}
 
-# Scala IDE Helium, Nightly, for Eclipse 4.2 (Juno)
-If you are using Eclipse 4.2, codename Juno, make sure to install this nightly.
+# Scala IDE Helium, Nightly, for Eclipse 3.8/4.2 (Juno)
+If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, make sure to install this nightly.
+
+## Support Note
+{% include juno-support-note.txt %}
 
 ## Update Site
 
