@@ -30,7 +30,7 @@ Please check the [changelog] for the list of fixes.
 #### For Scala 2.9.x
 {% include milestone-download-box-2.1-2.9.txt %}
 
-#### For Scala 2.10.0-RC3
+#### For Scala 2.10.0-RC5
 {% include milestone-download-box-2.1-2.10.txt %}
 
 ------
@@ -47,5 +47,5 @@ If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, please install from 
 #### For Scala 2.9.x
 {% include juno-milestone-download-box-2.1-2.9.txt %}
 
-#### For Scala 2.10.0-RC3
+#### For Scala 2.10.0-RC5
 {% include juno-milestone-download-box-2.1-2.10.txt %}
