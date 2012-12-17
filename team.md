@@ -9,7 +9,7 @@ The Scala IDE for Eclipse could not be where it is today without the continued s
 
 {% include current-team.txt %}
 
-Former contributors also deserve credit. Thanks to Miles Sabin (former Project Leader), David Bernard, Donna Malayeri, Joshua Suereth, Eugene Vigdorchik, and all other contributors.
+Former contributors also deserve credit. Thanks to Miles Sabin (former Project Leader), David Bernard, Matthew Farwell, Donna Malayeri, Joshua Suereth, Eugene Vigdorchik, and all other contributors.
 
 ## Sponsors
 We would also like to take the opportunity to thank our biggest, and most fun supporter, [Typesafe](http://www.typesafe.com)

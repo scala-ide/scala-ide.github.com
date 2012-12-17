@@ -4,12 +4,14 @@ title: Download the Latest Nightly Build
 ---
 
 # Scala IDE Helium, Nightly
-*Helium* is the codename of the Scala IDE's next release. If you like staying on the cutting edge, make sure to install this nighlty.
+*Helium* is the codename of the Scala IDE's next release. If you like staying on the cutting edge, make sure to install this nighlty. 
 
 ## New Features
 {% include nightly-download-features.txt %}
 
-## Update Sites
+[Read the documentation](http://scala-ide.org/docs/helium/index.html) to know more about some of the new features available in the upcoming release.
+
+## Update Site for Eclipse 3.7 (Indigo)
 {% include update-site.txt %}
 
 ### Requirements
@@ -21,7 +23,7 @@ title: Download the Latest Nightly Build
 #### For Scala 2.10.x
 {% include nightly-download-box-2.1-2.10.txt %}
 
-# Scala IDE Helium, Nightly, for Eclipse 3.8/4.2 (Juno)
+## Update Site for Eclipse 3.8/4.2 (Juno)
 If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, make sure to install this nightly.
 
 ## Support Note

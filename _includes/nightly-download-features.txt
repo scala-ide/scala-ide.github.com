@@ -48,11 +48,19 @@
     Generate <span class="code">hashCode</span> and <span class="code">equals</span> implementations or introduce <span class="code">ProductN</span> trait.
   </div>
   <div class="span7">
-    <div class="frame"><a href="/docs/helium/features/show-type.html"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></a></div>
+    <div class="frame"><a href="/docs/helium/features/show-type.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-show-type.png" align="left"></a></div>
     <div>
       <h4 class="inline">Show Type of Selection</h4>
       <span class="label success">Available</span>
     </div>
 	Select any portion of code and press <span class="code">Ctrl/CMD-Shift-W T</span> to see the inferred type.
+  </div>
+  <div class="span6">
+    <div class="frame"><a href="/docs/helium/features/TODO.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-junit.png" align="left"></a></div>
+    <div>
+      <h4 class="inline">Scala JUnit4 Runner</h4>
+      <span class="label success">Available</span>
+    </div>
+	Select a project, package or source and run all your Scala and Java JUnit 4 tests via <span class="code">Run As > Scala Junit Test</span>.
   </div>
 </div> 

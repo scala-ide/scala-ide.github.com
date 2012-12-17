@@ -55,4 +55,12 @@
     </div>
 	Select any portion of code and press <span class="code">Ctrl/CMD-Shift-W T</span> to see the inferred type.
   </div>
+  <div class="span6">
+    <div class="frame"><a href="/docs/helium/features/TODO.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-junit.png" align="left"></a></div>
+    <div>
+      <h4 class="inline">Scala JUnit4 Runner</h4>
+      <span class="label success">Available</span>
+    </div>
+	Select a project, package or source and run all your Scala and Java JUnit 4 tests via <span class="code">Run As > Scala Junit Test</span>.
+  </div>
 </div> 
