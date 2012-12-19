@@ -26,10 +26,8 @@ title: Download the Latest Nightly Build
 ## Update Site for Eclipse 3.8/4.2 (Juno)
 If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, make sure to install this nightly.
 
-## Support Note
+### Support Note
 {% include juno-support-note.txt %}
-
-## Update Site
 
 ### Requirements
 {% include juno-nightly-21-download-requirements.txt %}
