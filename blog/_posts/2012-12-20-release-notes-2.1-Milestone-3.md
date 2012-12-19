@@ -73,6 +73,10 @@ Furthermore, each update-site contains a number of additional plugins that you c
 together with the Scala IDE: the [ScalaTest Eclipse plugin][scalatest] and the 
 [Scala worksheet][worksheet] are already available!
 
+If you are using the [Typesafe Scala IDE][typesafe-scalaide], you can install this new 
+Milestone 3 release by simply clicking on ``Help > Check for Updates``, and following the 
+update process.
+
 ## Road to the final
 
 What's left to make this a final? Not much to be honest, we are confident this 
@@ -126,6 +130,8 @@ Shaikhha, Mirko Stocker, Matt Russell and Eugene Vigdorchik.
 
 [worksheet]: https://github.com/scala-ide/scala-worksheet/wiki/Getting-Started
 [scalatest]: http://www.scalatest.org/user_guide/using_scalatest_with_eclipse
+
+[typesafe-scalaide]: http://typesafe.com/stack/scala_ide_download
 
 [scala-29]: http://www.scala-lang.org/downloads
 [scala-2.10-rc5]: http://www.scala-lang.org/node/25942
