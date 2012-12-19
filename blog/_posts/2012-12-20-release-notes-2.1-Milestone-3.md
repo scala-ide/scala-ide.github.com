@@ -47,7 +47,7 @@ We have also found the time to squeeze in some great enhancement:
 * Code completion proposals are now sorted according to their distance, i.e., local 
  definitions (local variables, local methods) are shown at the top.
 
-* A brand new Quick Fix for automatically correct your code when a *type missmatch error* 
+* A brand new Quick Fix for automatically correcting your code when a *type missmatch error* 
  occurs. For instance, if a method expects an ``Option[T]`` to be returned, and your 
  implementation currently returns a value of type ``T``, you will get a suggestion to 
  wrap the returned value in an ``Option.apply``.
@@ -74,8 +74,7 @@ together with the Scala IDE: the [ScalaTest Eclipse plugin][scalatest] and the
 [Scala worksheet][worksheet] are already available!
 
 If you are using the [Typesafe Scala IDE][typesafe-scalaide], you can install this new 
-Milestone 3 release by simply clicking on ``Help > Check for Updates``, and following the 
-update process.
+Milestone 3 release by simply clicking on ``Help > Check for Updates``.
 
 ## Road to the final
 
