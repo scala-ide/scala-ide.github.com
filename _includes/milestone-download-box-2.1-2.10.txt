@@ -16,6 +16,6 @@
   </script>
   
   <div class="zip-update-site">
-    (If you cannot use the update site, a downloadable local update site is available: <a href="http://download.scala-ide.org/sdk/e37/scala210/dev/update-site.zip">zipfile</a>, <a href="http://download.scala-ide.org/sdk/e37/scala210/dev/update-site.zip.sha1">sha1sum</a>)
+    (A downloadable local update site is not available for this release)
   </div>
 </div>
