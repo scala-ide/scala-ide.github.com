@@ -1,0 +1,18 @@
+---
+layout: blog
+title: Scala IDE M3 for 2.10.0 final
+author: Scala IDE team
+disqus: false
+---
+
+Today we are happy to announce the release of the [Scala IDE M3](http://scala-ide.org/blog/release-notes-2.1-Milestone-3.html) for [Scala 2.10.0][final-notes].
+
+You can install it from the normal Scala IDE milestone update sites. They also contain the compatible versions of Scala Worksheet and ScalaTest for Scala IDE.
+
+* for Indigo: [http://download.scala-ide.org/sdk/e37/scala210/dev/site/][indigo-update-site]
+* for Juno: [http://download.scala-ide.org/sdk/e38/scala210/dev/site/][juno-update-site]
+
+
+[final-notes]: http://www.scala-lang.org/node/27499
+[indigo-update-site]: http://download.scala-ide.org/sdk/e37/scala210/dev/site/
+[juno-update-site]: http://download.scala-ide.org/sdk/e38/scala210/dev/site/
