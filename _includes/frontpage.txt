@@ -10,13 +10,13 @@
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
 	  </div>
-      <div class="span8">	
+      <div class="span8">
         <iframe src="http://player.vimeo.com/video/33872960?title=0&amp;byline=0&amp;portrait=0" width="425" height="265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		  </div>
 		</div>
 		<div class="rounded-corner-box" style="min-height: 0px; float: left; padding: 10px; margin-top: 10px; width: 778px; background-color: rgba(0,0,0,0.5);">
 			<span class="news-box-text">
-				Or... Walk on the wild side. <span class="emphasize"><a href="{{ site.baseurl }}/download/milestone.html#scala_ide_21_milestone_3">Try version 2.1 M3! (for Scala 2.9 or 2.10.0)</a></span>
+				Or... Walk on the wild side. <span class="emphasize"><a href="{{ site.baseurl }}/download/milestone.html#scala_ide_21_milestone_3">Try version 2.1 M3! (for Scala 2.9 or 2.10)</a></span>
 			</span>
 		</div>
 		<span class="news-arrow"><img src="{{ site.baseurl }}/resources/images/news-arrow.png"></span>
@@ -27,7 +27,7 @@
 <div class="bottom">
   <div class="container">
     <div class="row">
-      <div class="span11">        
+      <div class="span11">
 	    <h1 id="features">Features</h1>
 	    <div class="row">
 	      <div class="span11">
@@ -41,47 +41,47 @@
 	      <div class="span6">
 	        <div class="frame"><a href="/docs/user/features/typingviewing.html#code-completion"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></a></div>
 	        <h4>Code Completion</h4>
-	        Now with implicits resolved on the fly and all available methods in a list to choose from. 
+	        Now with implicits resolved on the fly and all available methods in a list to choose from.
 	      </div>
 	      <div class="span5">
 	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/typehovers.jpg" align="left"></div>
 	        <h4>Inferred Type Hovers</h4>
 	        Hover over an identifier to discover the inferred type.
-	      </div>	
-	    </div> 
+	      </div>
+	    </div>
 	    <div class="row">
 	      <div class="span6">
 	        <div class="frame"><a href="/docs/user/features/navigating.html#hyperlinking"><img src ="{{ site.baseurl }}/resources/images/definitionlinking.jpg" align="left"></a></div>
 	        <h4>Definition Hyperlinking</h4>
 	        Hold down <span class="keystroke">Ctrl/Cmd</span> and hover over a member to bring up a link, and click to navigate through the source.
-	      </div>	
+	      </div>
 	      <div class="span5">
 	        <div class="frame"><a href="/docs/user/features/typingviewing.html#as-you-type-error-reporting"><img src ="{{ site.baseurl }}/resources/images/errormarkers.jpg" align="left"></a></div>
 	        <h4>Error Markers</h4>
 	        Catch compilation errors as you type.
-	      </div>	
-	    </div> 
-	    <h2>Debugging</h2>	
+	      </div>
+	    </div>
+	    <h2>Debugging</h2>
 	    <div class="row">
 	      <div class="span11">
 	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/debug.jpg" align="left"></div>
 	        <h4>Integrated Debugger</h4>
 	        Launch your application in debug mode, and click on stack traces to navigate to the corresponding Scala source.
-	      </div>		
-	    </div> 	
-	
+	      </div>
+	    </div>
+
 	    <div class="row">
-	      <div class="span11">	
+	      <div class="span11">
 			{% include more-features.txt %}
-	      </div>		
-	    </div>	
-	
+	      </div>
+	    </div>
+
 	  </div>
-      <div class="span5">        
+      <div class="span5">
 	    <h1>Twitter</h1>
 	    <p class="before-twitter">Latest <a href="https://twitter.com/#!/scalaide">@ScalaIDE</a> buzz:</p>
 			<div id="tweets" class="tweets"></div>
-	  </div>	
+	  </div>
     </div>
   </div>
 </div>
