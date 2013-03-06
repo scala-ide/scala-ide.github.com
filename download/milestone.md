@@ -3,7 +3,7 @@ layout: milestone-download
 title: Download the 3.0 Release Candidate
 ---
 
-# Scala IDE 3.0 RC1
+# Scala IDE 3.0 RC2
 
 The next major release of the Scala IDE for Eclipse has reached release candidate stage!
 Please install the new release and report back issues.
