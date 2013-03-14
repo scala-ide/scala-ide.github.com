@@ -3,14 +3,14 @@ layout: milestone-download
 title: Download the 3.0 Release Candidate
 ---
 
-# Scala IDE 3.0 RC2
+# Scala IDE 3.0 RC3
 
 The next major release of the Scala IDE for Eclipse has reached release candidate stage!
 Please install the new release and report back issues.
 
-This release ships with a whole lot of new features for you to try out: *implicit 
-highlight*, *move refactoring*, *scala debugger * and *semantic highlight* are the most 
-exciting ones. If you are like us, once you start using them you will no longer be able go back. 
+This release ships with a whole lot of new features for you to try out: *implicit
+highlight*, *move refactoring*, *scala debugger * and *semantic highlight* are the most
+exciting ones. If you are like us, once you start using them you will no longer be able go back.
 They are simply too addictive!
 
 ## New Features
