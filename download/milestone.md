@@ -1,8 +1,11 @@
 ---
 layout: milestone-download
-title: Download the 3.0 Release Candidate
+title: Milestones <!-- Download the 3.0 Release Candidate -->
 ---
 
+No milestone release available at the moment.
+
+<!--
 # Scala IDE 3.0 RC3
 
 The next major release of the Scala IDE for Eclipse has reached release candidate stage!
@@ -52,4 +55,4 @@ If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, please install from 
 
 #### For Scala 2.10.
 {% include juno-milestone-download-box-2.1-2.10.txt %}
-
+-->

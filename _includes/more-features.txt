@@ -2,27 +2,39 @@
   <h2>More Features</h2>
   <div class="row">
     <div class="span6">
-      <div class="frame"><a href="/docs/user/testingframeworks.html#junit"><img src ="{{ site.baseurl }}/resources/images/thumbnail-junit.png" align="left"></a></div>
-      <h4>JUnit Test Runner</h4>
-      Run all your JUnit Scala tests from within the Scala IDE
+      <div class="frame"><a href="/docs/current-user-doc/features/typingviewing/implicit-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-implicit.png" align="left"></a></div>
+      <h4>Highlight Implicits</h4>
+    It has never been simpler to know where implicits are being applied.
+    </div>
+    <div class="span5">
+      <div class="frame"><a href="/docs/current-user-doc/features/typingviewing/show-type-of-selection.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-show-type.png" align="left"></a></div>
+      <h4>Show Type of Selection</h4>
+      Select any portion of code and press <span class="code">Ctrl/CMD-Shift-W T</span> to see the inferred type.
+    </div>
+  </div>
+  <div class="row">
+    <div class="span6">
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/test-finder/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-junit.png" align="left"></a></div>
+      <h4>Scala JUnit4 Runner</h4>
+      Select a project, package or source and run all your Scala and Java JUnit 4 tests via <span class="code">Run As > Scala Junit Test</span>.
     </div>
     <div class="span5">
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-outline.png" align="left"></div>
       <h4>Outline View</h4>
       Displays the list of all structural elements of the currently edited file.
-    </div>	
+    </div>
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><a href="/docs/user/features/scalainterpreter.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-interpreter.png" align="left"></a></div>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/user/features/scalainterpreter/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-interpreter.png" align="left"></a></div>
       <h4>Run Selection Interpreter</h4>
       Select a block of code and evaluate it through the integrated Scala Interpreter
     </div>
     <div class="span5">
-      <div class="frame"><a href="/docs/user/features/navigating.html#open-type"><img src ="{{ site.baseurl }}/resources/images/thumbnail-open-type.png" align="left"></a></div>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/navigating/open-type.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-open-type.png" align="left"></a></div>
       <h4>Open Type</h4>
       Allows you to browse the workbench for a type to open in an editor.
-    </div>	
+    </div>
   </div>
   <div class="row">
     <div class="span6">
@@ -31,10 +43,10 @@
       Need to create a class, an object, a trait or a package object? The Scala Wizards contains the right incantation.
     </div>
     <div class="span5">
-      <div class="frame"><a href="/docs/user/features/refactoring.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-refactoring.png" align="left"></a></div>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/refactoring/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-refactoring.png" align="left"></a></div>
       <h4>Refactoring</h4>
       Rename identifiers, organize imports, extract some code as new method, and more.
-    </div>	
+    </div>
   </div>
   <div class="row">
     <div class="span6">
@@ -46,23 +58,23 @@
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-indenter.png" align="left"></div>
       <h4>Smart Indenter</h4>
       Your code is indented as you type, just as you would expected it to be.
-    </div>	
+    </div>
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><a href="/docs/user/features/typingviewing.html#quick-fix-imports"><img src ="{{ site.baseurl }}/resources/images/thumbnail-quickfix.png" align="left"></a></div>
-      <h4>Quick Fix</h4>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/quick-fixes.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-quickfix.png" align="left"></a></div>
+      <h4>Quick Fix Import</h4>
       When a type is not in scope, press <span class="keystroke">Ctrl+1</span> and an import statement is added at the top of the file.
     </div>
     <div class="span5">
-      <div class="frame"><a href="/docs/user/features/typingviewing.html#mark-occurrences"><img src ="{{ site.baseurl }}/resources/images/thumbnail-occurences.png" align="left"></a></div>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/mark-occurrences.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-occurences.png" align="left"></a></div>
       <h4>Mark Occurrences</h4>
       Mark occurrences of any identifier in a file
-    </div>	
+    </div>
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><a href="/docs/user/features/typingviewing.html#syntax-highlighting"><img src ="{{ site.baseurl }}/resources/images/thumbnail-highlighting.png" align="left"></a></div>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/syntax-highlighting.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-highlighting.png" align="left"></a></div>
       <h4>Syntax Coloring</h4>
       Full syntax highlighting support, including comments, control structures and embedded XML.
     </div>
@@ -70,19 +82,19 @@
       <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-folding.png" align="left"></div>
       <h4>Code Folding</h4>
       Selectively hide and display sections of a file.
-    </div>	
+    </div>
   </div>
   <div class="row">
     <div class="span6">
-      <div class="frame"><a href="/docs/user/features/typingviewing.html#code-templates"><img src ="{{ site.baseurl }}/resources/images/thumbnail-template.png" align="left"></a></div>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/code-templates.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-template.png" align="left"></a></div>
       <h4>Code Templates</h4>
       Define your custom templates and avoid redundancy in your writing.
     </div>
     <div class="span5">
-      <div class="frame"><a href="/docs/user/features/typingviewing.html#structured-selection"><img src ="{{ site.baseurl }}/resources/images/thumbnail-structured-selection.png" align="left"></a></div>
+      <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/structured-selection.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-structured-selection.png" align="left"></a></div>
       <h4>Structured Selection</h4>
       Press <span class="keystroke">Alt+Shift+Up/Down</span> and select larger/smaller portions of code.
-    </div>	
+    </div>
   </div>
   <div class="row">
     <div class="span6">
@@ -91,9 +103,19 @@
       Collects your <span class="code">TODO</span>s in the Task View so that you will not forget to fix them before shipping your product.
     </div>
     <div class="span5">
-    </div>	
+      <div class="frame"><img src ="{{ site.baseurl }}/resources/images/typehovers.jpg" align="left"></div>
+	  <h4>Inferred Type Hovers</h4>
+	  Hover over an identifier to discover the inferred type.
+	</div>
   </div>
-
+  <div class="row">
+    <div class="span6">
+      <div class="frame"><a href="/docs/current-user-doc/features/typingviewing/source-generators/index.html"><img src ="{{ site.baseurl }}/resources/images/na.jpg" align="left"></a></div>
+      <h4>Source Generators</h4>
+      Generate <span class="code">hashCode</span> and <span class="code">equals</span> implementations or introduce <span class="code">ProductN</span> trait.
+    </div>
+    <div class="span5"></div>
+  </div>
 </div>
 
 <a href="#" class="featureLink"><img src="{{ site.baseurl }}/resources/images/dropdown-arrow.png">More Features</a>
@@ -102,7 +124,7 @@
   $(window).load(function() {
 
 	$('#more-features').hide();
-	
+
     $('.featureLink').click(function(e) {
         e.preventDefault()
         var link = $(this)
