@@ -7,6 +7,35 @@ layout: default
   a.featureLink { font-size:18px; font-weight: bold; color: #404040;text-shadow:0 1px 0 rgba(255,255,255, 0.5);}
   a.featureLink:hover { text-decoration:none;}
 </style>
+<style type="text/css">
+	.slider div.release-title h2 {
+	    white-space: nowrap;
+		animation: bouncing-color 1.7s 0.5s ease;
+		-moz-animation: bouncing-color 1.7s 0.5s ease;
+		-webkit-animation: bouncing-color 1.7s 0.5s ease;
+		animation-iteration-count: 2;
+        -moz-animation-iteration-count: 2;
+        -webkit-animation-iteration-count: 2;
+	}
+
+	@keyframes bouncing-color {
+		0%		{color: white;}
+		50%		{color: #ADFF2F; font-size: 36px;}
+		100%	{color: white;}
+	}
+
+	@-moz-keyframes bouncing-color {
+		0%		{color: white;}
+		50%		{color: #ADFF2F; font-size: 36px;}
+		100%	{color: white;}
+	}
+
+	@-webkit-keyframes bouncing-color {
+		0%		{color: white;}
+		50%		{color: #ADFF2F; font-size: 36px;}
+		100%	{color: white;}
+	}
+</style>
 {% include headerbottom.txt %}
 {% include topbar.txt %}
 {% include frontpage.txt %}

@@ -3,10 +3,15 @@
     <div class="row">
       <div class="span8">
         <div class="rounded-corner-box">
-          <h2>Scala IDE for Eclipse 2.0.2 Now Available!</h2>
-		  <p>Now with improved support for implicits in code completion, definition hyperlinking, inferred type hovers, and more.</p>
-		  <p>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.</p>
-	      <br/><a href="{{ site.baseurl }}/download/current.html" class="btn large success"><b>Get it now!</b></a>
+          <div class="release-title">
+            <h2>Scala IDE for Eclipse 3.0.0</h2>
+            <h2>Now Available!</h2>
+          </div>
+          <div class="release-text">
+		    <p>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.</p>
+		    <p>Now with a shiny Scala debugger, semantic highlight, more reliable JUnit test finder, an ecosystem of related plugins, and <a href="{{ site.baseurl }}/docs/current-user-doc/features.html">much more</a>.</p>
+	        <br/><a href="{{ site.baseurl }}/download/current.html" class="btn large success"><b>Get it now!</b></a>
+	      </div>
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
 	  </div>
