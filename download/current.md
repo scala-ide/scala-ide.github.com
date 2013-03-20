@@ -57,7 +57,7 @@ Scala 2.10, we recommend you to use the [3.0.0 release](#300_release)
 [jdk5]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html
 [jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
 [ide-java7]: /blog/java-7.html
-[eclipse-package-to-use]: http://scala-ide.org/docs/user/faq.html#What_Eclipse_package_should_I_use_
+[eclipse-package-to-use]: http://scala-ide.org/docs/current-user-doc/faq/index.html#what-eclipse-package-should-i-use
 [eclipse-helios]: http://www.eclipse.org/downloads/packages/release/helios/sr2
 [eclipse-indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
 
