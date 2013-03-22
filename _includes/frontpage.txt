@@ -15,8 +15,8 @@
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
 	  </div>
-      <div class="span8" style="margin-top: 8px;">
-        <img src="{{ site.baseurl }}/resources/images/video-coming-soon.jpg" width="425" height="265">
+      <div class="span8">
+                <iframe src="http://player.vimeo.com/video/62605940?title=0&amp;byline=0&amp;portrait=0" width="425" height="265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		  </div>
 		</div>
 		<!--
