@@ -1,7 +1,7 @@
 <div class="slider">
   <div class="container">
     <div class="row">
-      <div class="span8">
+      <div class="span8" style="margin-top: 14px;">
         <div class="rounded-corner-box">
           <div class="release-title">
             <h2>Scala IDE for Eclipse 3.0.0</h2>
@@ -15,8 +15,8 @@
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
 	  </div>
-      <div class="span8" style="margin-top: 8px;">
-        <img src="{{ site.baseurl }}/resources/images/video-coming-soon.jpg" width="425" height="265">
+      <div class="span8">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/s_O1w-6Otfk?rel=0" frameborder="0" allowfullscreen></iframe>
 		  </div>
 		</div>
 		<!--
