@@ -15,7 +15,7 @@ If you already know Eclipse and you want to find out more about features availab
 # 3.0.0 Release
 
 This release is available for both *Scala 2.9 and Scala 2.10*,
-and both *Eclipse 3.7 (Indigo) and Eclipse 4.2 (Juno)*, through different update sites.
+and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different update sites.
 
 ## Eclipse 3.7 (Indigo)
 
@@ -28,9 +28,9 @@ and both *Eclipse 3.7 (Indigo) and Eclipse 4.2 (Juno)*, through different update
 #### For Scala 2.9.x
 {% include current-download-box-2-9-indigo.txt %}
 
-## Eclipse 4.2 (Juno)
+## Eclipse 3.8/4.2 (Juno)
 
-**Support for Eclipse 4.2 is experimental in this release.**
+**Support for Eclipse 3.8/4.2 is experimental in this release.**
 
 ### Requirements
 {% include current-download-requirements-juno.txt %}
