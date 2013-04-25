@@ -1,1 +1,1 @@
-Because it is currently not possible to install both plug-ins within the same Eclipse installation, you need to decide what version of Scala you want to be using and then choose the appropriate update site.
+Scala IDE Lithium will target Eclipse 4.2 (Juno), but the transition has not been done. Master is currently build for Eclipse 3.7 (Indigo).
