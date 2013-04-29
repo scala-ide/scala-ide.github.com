@@ -71,6 +71,15 @@ body {background-color: #8d8d8d;}
 	border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
 }
 
+.flat.large {
+    float: right;
+    margin: 5px 35px 0 0;
+}
+
+.flat.large a {
+    font-size: 26px;
+}
+
 .footer {
 	padding-top: 15px;
 	clear: both;		
@@ -258,6 +267,19 @@ body {background-color: #8d8d8d;}
 	-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05);
 	-moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05);
 	box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.download-link a {
+    color: rgba(0,0,0,0.6);
+}
+
+.download-link:hover a {
+    color: rgba(13,68,0,1);
+    text-decoration: none;
+}
+
+.download-link small {
+   font-size: 75%;
 }
 
 .download-link.hover{

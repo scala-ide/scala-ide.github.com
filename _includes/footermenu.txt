@@ -2,6 +2,7 @@
   <div class="container">
     <ul>
       <li><h5>Download</h5></li>
+      <li><a href="{{ site.baseurl }}/download/sdk.html">SDK</a></li>
       <li><a href="{{ site.baseurl }}/download/current.html">Stable</a></li>
       <li><a href="{{ site.baseurl }}/download/milestone.html">Milestone</a></li>
       <li><a href="{{ site.baseurl }}/download/nightly.html">Nightlies</a></li>

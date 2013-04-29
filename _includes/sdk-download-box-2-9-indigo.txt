@@ -1,0 +1,49 @@
+<div class="download-section">
+
+<div id="download-link-2-10-indigo" class="download-link">
+<a href="#" id="downloadIDE29">
+    Download SDK
+    <small></small>
+</a>
+</div>
+
+<script type="text/javascript">
+var osTuple = [];
+if (navigator.appVersion.indexOf("Win")!=-1) osTuple =          ["Windows - 64 bit" , "http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-win32.win32.x86_64.zip"];
+else if (navigator.appVersion.indexOf("Mac")!=-1) osTuple =     ["Mac - 64 bit"     , "http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-macosx.cocoa.x86_64.zip"];
+else if (navigator.appVersion.indexOf("X11")!=-1) osTuple =     ["Linux - 64 bit"   , "http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-linux.gtk.x86_64.tar.gz"];
+else if (navigator.appVersion.indexOf("Linux")!=-1) osTuple =   ["Linux - 64 bit"   , "http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-linux.gtk.x86_64.tar.gz"];
+else $("#downloadIDE29").hide();
+$("#downloadIDE29").attr("href", osTuple[1]).find("small").html(osTuple[0]);
+</script>
+
+<div class="row">
+  <div class="span4 offset1">
+    <div>
+      <h4 class="inline">Windows</h4>
+    </div>
+    <a href="http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-win32.win32.x86_64.zip">Windows 64 bit</a>
+    <br/>
+    <a href="http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-win32.win32.x86.zip">Windows 32 bit</a>
+  </div>
+  <div class="span4">
+    <div>
+      <h4 class="inline">Mac</h4>
+    </div>
+    <a href="http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-macosx.cocoa.x86_64.zip">Mac OS X Cocoa 64 bit</a>
+    <br/>
+    <a href="http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-macosx.cocoa.x86.zip">Mac OS X Cocoa 32 bit</a>
+  </div>
+  <div class="span4">
+    <div>
+      <h4 classs="inline">Linux</h4>
+    </div>
+    <a href="http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-linux.gtk.x86_64.tar.gz">Linux GTK 64 bit</a>
+    <br/>
+    <a href="http://downloads.typesafe.com/scalaide-pack/3.0.0.vfinal-29-20130326/scala-SDK-3.0.0-vfinal-2.9-linux.gtk.x86.tar.gz">Linux GTK 32 bit</a>
+  </div>
+</div>
+
+</div>
+
+

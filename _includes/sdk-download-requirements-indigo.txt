@@ -1,0 +1,9 @@
+* [JDK 5][jdk5] or [JDK 6][jdk6] ([JDK 7][jdk7] can be used but there have been issues reported when using Eclipse 3.7 with Java 7, e.g., [1][issue-1-jdk7] or or [2][issue-2-jdk7] if you are on MacOSX - a workaround for the latter issue is described [here][workaround-issue-2-jdk7]).
+
+[jdk5]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html
+[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
+[jdk7]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[eclipse-indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
+[issue-1-jdk7]: https://bugs.eclipse.org/bugs/show_bug.cgi?id=381612
+[issue-2-jdk7]: https://bugs.eclipse.org/bugs/show_bug.cgi?id=374791
+[workaround-issue-2-jdk7]: http://stackoverflow.com/questions/10352715/how-do-i-run-eclipse-using-oracles-new-1-7-jdk-for-the-mac
