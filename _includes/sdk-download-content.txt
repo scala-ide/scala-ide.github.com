@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="span5">
+    <h2>Content</h2>
+    <ul>
+      <li>Eclipse 3.7.2 (Indigo)</li>
+      <li>Scala IDE 3.0.0</li>
+      <li>Scala Worksheet 0.1.4</li>
+      <li>m2eclipse-scala Maven connector 0.4.3</li>
+      <li>access to the full Scala IDE ecosystem</li>
+    </ul>
+  </div>
+  <div class="span6 offset1">
+  <a href="{{ site.baseurl }}/resources/images/sdk-3.0.0.png"><img style="width: 100%;" src ="{{ site.baseurl }}/resources/images/sdk-3.0.0.png"></a>
+  </div>
+</div>
+

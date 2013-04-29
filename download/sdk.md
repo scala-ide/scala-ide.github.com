@@ -9,8 +9,7 @@ development environment up to date.
 
 Whether you are a seasoned Scala developer, or just picking up the language, this is the fastest way to get productive.
 
-# Improved in This Release
-{% include current-download-features.txt %}
+{% include sdk-download-content.txt %}
 
 # 3.0.0 Release
 
@@ -20,9 +19,9 @@ and is based on *Eclipse 3.7 (Indigo)*.
 ### Requirements
 {% include sdk-download-requirements-indigo.txt %}
 
-## For Scala 2.10.1
+## For Scala 2.10.x
 {% include sdk-download-box-2-10-indigo.txt %}
 
-## For Scala 2.9.3
+## For Scala 2.9.x
 {% include sdk-download-box-2-9-indigo.txt %}
 
