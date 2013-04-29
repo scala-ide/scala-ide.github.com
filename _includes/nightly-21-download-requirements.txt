@@ -1,8 +1,6 @@
 * [JDK 5][jdk5], [JDK 6][jdk6] or [JDK 7][jdk7].
 
 * [Eclipse 3.7 (Indigo)][eclipse-indigo]. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages. 
-
-	* Eclipse 3.6 (Helios) is not supported, but it can be used.
 	
 [jdk5]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html
 [jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
