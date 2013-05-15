@@ -8,4 +8,5 @@ keywords:
 - ScalaIDE Download
 
 permalink: /:categories/:title.html
+baseurl: "http://scala-ide.org"
 
