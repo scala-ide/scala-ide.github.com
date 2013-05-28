@@ -23,13 +23,9 @@ title: Download the Latest Nightly Build
 The Scala IDE 3.0.x build contains fixes to be included in future maintenance releases of the 3.0 release.
 
 ## Update Site for Eclipse 3.7 (Indigo)
-{% include update-site.txt %}
 
 ### Requirements
 {% include nightly-21-download-requirements.txt %}
-
-#### For Scala 2.9.x
-{% include nightly-download-box-2.1-2.9.txt %}
 
 #### For Scala 2.10.x
 {% include nightly-download-box-2.1-2.10.txt %}
@@ -42,9 +38,6 @@ If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, make sure to install
 
 ### Requirements
 {% include juno-nightly-21-download-requirements.txt %}
-
-#### For Scala 2.9.x
-{% include juno-nightly-download-box-2.1-2.9.txt %}
 
 #### For Scala 2.10.x
 {% include juno-nightly-download-box-2.1-2.10.txt %}
