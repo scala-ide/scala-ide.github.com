@@ -8,7 +8,7 @@
       var clip = new ZeroClipboard.Client();
       clip.setHandCursor( true );
       clip.setText("http://download.scala-ide.org/nightly-scala-ide-4.0.x-210x");	  			
-      clip.glue("download-link-2-1-2-10");
+      clip.glue("download-link-4-0-2-10");
 
     });
 

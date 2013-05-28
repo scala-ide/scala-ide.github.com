@@ -25,3 +25,6 @@ and is based on *Eclipse 3.7 (Indigo)*.
 ## For Scala 2.9.x
 {% include sdk-download-box-2-9-indigo.txt %}
 
+## Get Started
+
+Get started by watching the [videos]({{ site.baseurl }}/docs/videos.html) or reading the [docs and tutorials]({{ site.baseurl }}/documentation.html)
