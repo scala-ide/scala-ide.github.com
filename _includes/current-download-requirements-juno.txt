@@ -1,8 +1,0 @@
-* [JDK 6][jdk6] or [JDK 7][jdk7].
-
-* [Eclipse 4.2 (Juno)][eclipse-juno], including the JDT. "Eclipse Classic" is sufficient, but [any Eclipse package can be used][eclipse-package-to-use].
-
-[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
-[jdk7]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
-[eclipse-package-to-use]: http://scala-ide.org/docs/current-user-doc/faq/index.html#What_Eclipse_package_should_I_use_
-[eclipse-juno]: http://www.eclipse.org/downloads/
