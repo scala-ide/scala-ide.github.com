@@ -17,7 +17,7 @@ This release is available for both *Scala 2.9 and Scala 2.10*,
 and is based on *Eclipse 3.7 (Indigo)*.
 
 ### Requirements
-{% include sdk-download-requirements-indigo.txt %}
+{% include jdk-requirements-indigo.txt %}
 
 ## For Scala 2.10.x
 {% include sdk-download-box-2-10-indigo.txt %}

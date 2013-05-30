@@ -1,0 +1,25 @@
+<div class="download-section">
+  <div id="{{ divId }}" class="download-link" title="URL Copied To Clipboard" data-content="To install the Scala IDE for Eclipse 3.7 (Indigo), open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
+    {{ downloadUrl }}/site
+  </div>
+  <script type="text/javascript" charset="utf-8">
+    $(window).load(function() {
+
+      var clip = new ZeroClipboard.Client();
+      clip.setHandCursor( true );
+      clip.setText("{{ downloadUrl }}/site");
+      clip.glue("{{ divId }}");
+
+    });
+
+  </script>
+
+  <div class="zip-update-site">
+    {% unless zipUrl %}
+      {% capture zipUrl %}{{ downloadUrl }}/update-site.zip{% endcapture %}
+    {% endunless %}
+    (If you cannot use the update site, a downloadable local update site is available: <a href="{{ zipUrl }}">zipfile</a>, <a href="{{ zipUrl }}.sha1">sha1sum</a>)
+  </div>
+</div>
+
+{% assign zipUrl = nil %}

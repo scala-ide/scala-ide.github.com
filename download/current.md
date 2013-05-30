@@ -20,26 +20,41 @@ and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different up
 ## Eclipse 3.7 (Indigo)
 
 ### Requirements
-{% include current-download-requirements-indigo.txt %}
+{% include requirements-indigo.txt %}
 
 #### For Scala 2.10.x
-{% include current-download-box-2-10-indigo.txt %}
+{% assign divId = 'download-210-indigo' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e37/scala210/stable' %}
+
+{% include download-box.txt %}
 
 #### For Scala 2.9.x
-{% include current-download-box-2-9-indigo.txt %}
+
+{% assign divId = 'download-29-indigo' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e37/scala29/stable' %}
+
+{% include download-box.txt %}
 
 ## Eclipse 3.8/4.2 (Juno)
 
 **Support for Eclipse 3.8/4.2 is experimental in this release.**
 
 ### Requirements
-{% include current-download-requirements-juno.txt %}
+{% include requirements-juno.txt %}
 
 #### For Scala 2.10.x
-{% include current-download-box-2-10-juno.txt %}
+
+{% assign divId = 'download-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/stable' %}
+
+{% include download-box.txt %}
 
 #### For Scala 2.9.x
-{% include current-download-box-2-9-juno.txt %}
+
+{% assign divId = 'download-29-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala29/stable' %}
+
+{% include download-box.txt %}
 
 # 2.0.0 Release
 
@@ -62,5 +77,8 @@ Scala 2.10, we recommend you to use the [3.0.0 release](#300_release)
 [eclipse-indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
 
 #### For Scala 2.8.x
-{% include current-download-box-2-8.txt%}
 
+{% assign divId = 'download-28' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/releases-28/stable' %}
+
+{% include download-box.txt %}
