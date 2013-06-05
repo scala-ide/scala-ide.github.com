@@ -6,9 +6,9 @@ title: Milestones <!-- Download the 3.0 Release Candidate -->
 Here you can find the update sites for milestone releases. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala 2.10.2-RC1
+## Scala 2.10.2-RC2
 
-The latest published version is a build of the upcoming 3.0.1 release using Scala 2.10.2-RC1.
+The latest published version is a build of the upcoming 3.0.1 release using Scala 2.10.2-RC2.
 
 ### For Eclipse Indigo (3.7)
 #### Requirements
