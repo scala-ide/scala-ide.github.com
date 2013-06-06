@@ -24,7 +24,7 @@ Scala IDE Lithium will target Eclipse 4.2 (Juno), but the transition has not bee
 #### For Scala 2.10.x
 
 {% assign divId = 'download-40-210' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-4.0.x-210x' %}
+{% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-4.0.x-210x' %}
 {% assign zipUrl = 'http://download.scala-ide.org/nightly-scala-ide-4.0.x-210x.zip' %}
 
 {% include download-box.txt %}
@@ -40,7 +40,7 @@ The Scala IDE 3.0.x build contains fixes to be included in future maintenance re
 #### For Scala 2.10.x
 
 {% assign divId = 'download-30-210' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-3.0.x-210x' %}
+{% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-3.0.x-210x' %}
 {% assign zipUrl = 'http://download.scala-ide.org/nightly-scala-ide-3.0.x-210x.zip' %}
 
 {% include download-box.txt %}
@@ -59,7 +59,7 @@ If you are using Eclipse 3.8 or Eclipse 4.2, codename Juno, make sure to install
 
 #### For Scala 2.10.x
 {% assign divId = 'download-30-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-juno-210x' %}
+{% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-juno-210x' %}
 {% assign zipUrl = 'http://download.scala-ide.org/nightly-scala-ide-juno-210x.zip' %}
 
 {% include download-box.txt %}

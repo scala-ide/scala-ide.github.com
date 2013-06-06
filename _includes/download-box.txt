@@ -1,13 +1,16 @@
 <div class="download-section">
+  {% unless fullDownloadUrl %}
+    {% capture fullDownloadUrl %}{{ downloadUrl }}/site{% endcapture %}
+  {% endunless %}
   <div id="{{ divId }}" class="download-link" title="URL Copied To Clipboard" data-content="To install the Scala IDE for Eclipse 3.7 (Indigo), open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
-    {{ downloadUrl }}/site
+    {{ fullDownloadUrl }}
   </div>
   <script type="text/javascript" charset="utf-8">
     $(window).load(function() {
 
       var clip = new ZeroClipboard.Client();
       clip.setHandCursor( true );
-      clip.setText("{{ downloadUrl }}/site");
+      clip.setText("{{ fullDownloadUrl }}");
       clip.glue("{{ divId }}");
 
     });
@@ -23,3 +26,4 @@
 </div>
 
 {% assign zipUrl = nil %}
+{% assign fullDownloadUrl = nil %}
