@@ -20,4 +20,6 @@ Read the [release notes][notes-rc1] for finding out what's new in this 2.0.2 mai
 [notes-rc1]: http://scala-ide.org/blog/release-notes-2.0.2-rc1.html
 [notes-rc2]: http://scala-ide.org/blog/release-notes-2.0.2-rc2.html
 
-## [Get 2.0.2-RC3 Now!]({{ site.baseurl }}/download/current.html#202_release_candidate_3)
+## [Get 2.0.2-RC3 Now!](!SITE_BASEURL!/download/current.html#202_release_candidate_3)
+
+{{ page.excerpt | replace: '!SITE_BASEURL!', site.baseurl}}

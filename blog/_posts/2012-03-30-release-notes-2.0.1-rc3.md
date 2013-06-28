@@ -5,7 +5,7 @@ disqus: false
 ---
 
 We are very happy to announce a new release candidate for the next maintenance release of the Scala 
-IDE for Eclipse. [Scala IDE 2.0.1 RC3]({{ site.baseurl }}/download/current.html#201rc) is available 
+IDE for Eclipse. [Scala IDE 2.0.1 RC3](!SITE_BASEURL!/download/current.html#201rc) is available 
 now!
 
 The only change with respect to 2.0.1 RC2 is the bundled Scala, which is now Scala 2.9.2-RC3.
@@ -47,3 +47,5 @@ Java 6, but Java 7 can be used [with some caveats][ide-java7].
 [sbt]: http://www.scala-sbt.org/
 [scala]: http://www.scala-lang.org/
 [ide-java7]: /blog/java-7.html
+
+{{ page.excerpt | replace: '!SITE_BASEURL!', site.baseurl}}

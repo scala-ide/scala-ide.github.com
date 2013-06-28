@@ -18,4 +18,6 @@ Read the [release notes][notes] for finding out what's new in this 2.0.2 mainten
 [#1001104]: https://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001104
 [notes]: http://scala-ide.org/blog/release-notes-2.0.2-rc1.html
 
-## [Get 2.0.2-RC2 Now!]({{ site.baseurl }}/download/current.html#202_release_candidate_2)
+## [Get 2.0.2-RC2 Now!](!SITE_BASEURL!/download/current.html#202_release_candidate_2)
+
+{{ page.excerpt | replace: '!SITE_BASEURL!', site.baseurl}}

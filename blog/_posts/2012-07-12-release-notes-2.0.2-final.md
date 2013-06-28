@@ -64,5 +64,7 @@ related to ``@throw`` annotation, which was causing incorrect errors to be repor
 [#1001115]: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001115
 [#1001107]: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001107
 
-## [Get 2.0.2 Now!]({{ site.baseurl }}/download/current.html#202)
+## [Get 2.0.2 Now!](!SITE_BASEURL!/download/current.html#202)
 
+
+{{ page.excerpt | replace: '!SITE_BASEURL!', site.baseurl}}

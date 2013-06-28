@@ -6,7 +6,7 @@ author: Luc Bourlier
 
 ---
 
-The [Scala IDE ecosystem]({{ site.baseurl }}/download/ecosystem.html) which was [just announced]({{ site.baseurl }}/blog/scalatest-ecosystem.html)
+The [Scala IDE ecosystem](!SITE_BASEURL!/download/ecosystem.html) which was [just announced](!SITE_BASEURL!/blog/scalatest-ecosystem.html)
 will be a great place for finding plugins to boost your productivity. The ecosystem will host 
 not only plugins targeting end-users, but also tools for aiding developers creating and debugging their plugins.
 
@@ -32,3 +32,5 @@ The generated README contains some details about the projects. The result should
 
 ----
 
+
+{{ page.excerpt | replace: '!SITE_BASEURL!', site.baseurl}}

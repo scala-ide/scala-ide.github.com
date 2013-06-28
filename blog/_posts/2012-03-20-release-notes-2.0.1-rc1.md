@@ -38,9 +38,11 @@ For a complete list of changes, please see the [Changelog][clog]
 This version works with both Eclipse 3.6 (Helios) and 3.7 (Indigo). We developed and tested it using 
 Java 6, but Java 7 can be used [with some caveats][ide-java7].
 
-## [Go forth and code!]({{ site.baseurl }}/download/current.html#201rc01)
+## [Go forth and code!](!SITE_BASEURL!/download/current.html#201rc01)
 
 [clog]: /docs/changelog.html#release-scala-ide-2-0-x
 [sbt]: http://www.scala-sbt.org/
 [scala]: http://www.scala-lang.org/
 [ide-java7]: /blog/java-7.html
+
+{{ page.excerpt | replace: '!SITE_BASEURL!', site.baseurl }}
