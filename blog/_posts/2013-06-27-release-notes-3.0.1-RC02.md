@@ -13,13 +13,14 @@ Compared with 3.0.1-RC1, we have one change :
 
 For the full list of updates, you can have a look at the [changelog].
 
-It comes with a updated Scala worksheet and Play plugin.
+It comes with refreshed builds of the Scala worksheet, ScalaTest
+and the Play plugin.
 
 *This release is available only for Scala 2.10.2*
 
 ## Update-sites
 
-All the goodness can be installed from our [milestone page](/download/milestone.html), in the *dev* ecosystem:
+All the goodness can be installed from our [milestone page](/download/milestone.html), in the *dev* ecosystems:
 
 * Eclipse Indigo: [indigo-update-site](http://download.scala-ide.org/sdk/e37/scala210/dev/site/)
 * Eclipse Juno: [juno-update-site](http://download.scala-ide.org/sdk/e38/scala210/dev/site/)
