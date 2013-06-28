@@ -6,7 +6,7 @@ title: Milestones <!-- Download the 3.0 Release Candidate -->
 Here you can find the update sites for milestone releases. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 3.0.1-RC1
+## Scala IDE 3.0.1-RC2
 
 The latest published version is a release candidate of the 3.0.1 release using Scala 2.10.2.
 
