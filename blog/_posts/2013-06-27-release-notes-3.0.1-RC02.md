@@ -9,7 +9,7 @@ We are happy to announce Scala IDE 3.0.1-RC2, the second release candidate of th
 
 Compared with 3.0.1-RC1, we have one change :
 
-* Run As shouldn't display an error when a binary Main can be found ([#1001760][1001760])
+* Run As shouldn't display an error when a binary Main can be found ([#1001760])
 
 For the full list of updates, you can have a look at the [changelog].
 
@@ -26,3 +26,4 @@ All the goodness can be installed from our [milestone page](/download/milestone.
 * Eclipse Juno: [juno-update-site](http://download.scala-ide.org/sdk/e38/scala210/dev/site/)
 
 [changelog]: http://scala-ide.org/docs/changelog.html#3_0_1
+[#1001760]: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001760
