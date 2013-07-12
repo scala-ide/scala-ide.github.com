@@ -3,6 +3,7 @@
 
 [jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
 [jdk7]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[eclipse-package-to-use]: http://scala-ide.org/docs/current-user-doc/faq/index.html#what-eclipse-package-should-i-use
 [eclipse-indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
 [issue-1-jdk7]: https://bugs.eclipse.org/bugs/show_bug.cgi?id=381612
 [issue-2-jdk7]: https://bugs.eclipse.org/bugs/show_bug.cgi?id=374791
