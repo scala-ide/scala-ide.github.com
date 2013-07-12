@@ -12,10 +12,11 @@ If you already know Eclipse and you want to find out more about features availab
 # Improved in This Release
 {% include current-download-features.txt %}
 
-# 3.0.0 Release
+# 3.0.1 Release
 
-This release is available for both *Scala 2.9 and Scala 2.10*,
-and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different update sites.
+The 3.0.1 release is the first maintenance release of the 3.0 version. It is only available
+for Scala 2.10, on Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2/4.3 (Juno & Kepler), through
+different update sites.
 
 ## Eclipse 3.7 (Indigo)
 
@@ -27,6 +28,32 @@ and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different up
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/e37/scala210/stable' %}
 
 {% include download-box.txt %}
+
+## Eclipse 3.8/4.2 (Juno) and Eclipse 4.3 (Kepler)
+
+**Support for Eclipse 3.8/4.2/4.3 is experimental in this release.**
+
+### Requirements
+{% include requirements-juno.txt %}
+
+#### For Scala 2.10.x
+
+{% assign divId = 'download-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/stable' %}
+
+{% include download-box.txt %}
+
+# 3.0.0 Release
+
+The 3.0.0 release is the last supporting Scala 2.9, and is available for Eclipse 3.7 (Indigo)
+or Eclipse 3.8/4.2 (Juno).
+This release is available for both *Scala 2.9 and Scala 2.10*,
+and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different update sites.
+
+## Eclipse 3.7 (Indigo)
+
+### Requirements
+{% include requirements-indigo.txt %}
 
 #### For Scala 2.9.x
 
@@ -41,13 +68,6 @@ and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different up
 
 ### Requirements
 {% include requirements-juno.txt %}
-
-#### For Scala 2.10.x
-
-{% assign divId = 'download-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/stable' %}
-
-{% include download-box.txt %}
 
 #### For Scala 2.9.x
 

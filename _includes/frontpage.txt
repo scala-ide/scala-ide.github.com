@@ -4,13 +4,13 @@
       <div class="span8">
         <div class="rounded-corner-box">
           <div class="release-title">
-            <h2>Version 3.0.0</h2>
+            <h2>Version 3.0.1</h2>
             <h2>Now Available!</h2>
           </div>
           <div class="release-text">
 		    <p>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.</p>
 		    <p>Now with a shiny Scala debugger, semantic highlight, more reliable JUnit test finder, an ecosystem of related plugins, and <a href="{{ site.baseurl }}/docs/current-user-doc/features.html">much more</a>.</p>
-	        <a href="{{ site.baseurl }}/download/sdk.html" class="btn large success"><b>Get the SDK</b></a><div class="flat large">or use the<h3><a href="{{ site.baseurl }}/download/current.html"><b>update sites</b></a></h3></div>
+	        <a href="{{ site.baseurl }}/download/sdk.html" class="btn large success"><b>Get the Bundle</b></a><div class="flat large">or use the<h3><a href="{{ site.baseurl }}/download/current.html"><b>update sites</b></a></h3></div>
 	      </div>
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
@@ -19,6 +19,7 @@
                 <iframe src="http://player.vimeo.com/video/62605940?title=0&amp;byline=0&amp;portrait=0" width="425" height="265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		  </div>
 		</div>
+<div style="display: none">
 		<div class="rounded-corner-box" style="min-height: 0px; float: left; padding: 10px; margin-top: 10px; width: 778px; background-color: rgba(0,0,0,0.5);">
 			<span class="news-box-text">
 				Or... Try the next Release Candidate! <span class="emphasize"><a href="{{ site.baseurl }}/download/milestone.html#scala_ide_301rc2">Try version 3.0.1 RC2!</a></span>
@@ -26,6 +27,7 @@
 		</div>
 		<span class="news-arrow"><img src="{{ site.baseurl }}/resources/images/news-arrow.png"></span>
 		<a href="{{ site.baseurl }}/download/milestone.html#scala_ide_301rc1"><img style="float: right; margin-top: 5px; margin-bottom: -15px; margin-right: 35px;" src="{{ site.baseurl }}/resources/images/tools.png"></a>
+</div>
   </div>
 </div>
 
