@@ -1,0 +1,8 @@
+* [JDK 6][jdk6] or [JDK 7][jdk7] can be used.
+* Eclipse 3.8, [Eclipse 4.2 (Juno)][eclipse-juno] or [Eclipse 4.3 (Kepler)][eclipse-kepler]. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages.
+
+[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
+[jdk7]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-se-jdk-7-download-432154.html
+[eclipse-package-to-use]: http://scala-ide.org/docs/current-user-doc/faq/index.html#what-eclipse-package-should-i-use
+[eclipse-juno]: http://www.eclipse.org/juno/
+[eclipse-kepler]: http://www.eclipse.org/kepler/
