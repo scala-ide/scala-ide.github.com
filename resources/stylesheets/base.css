@@ -316,3 +316,6 @@ a:hover { color: #79c176; }
 .inline {
   display: inline;
 }
+
+.website_video {background-color:black; height: 265px; width: 425px;}
+.doc_video {background-color:black; height: 306px; width: 490px;}

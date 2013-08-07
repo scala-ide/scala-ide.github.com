@@ -16,8 +16,8 @@
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
 	  </div>
       <div class="span8">
-         <div id="overview_video" style="background-color:black; height: 265px; width: 425px;">
-         <img width="425" height="265" src="{{ site.baseurl }}/resources/images/splash-overview-video.png" onclick="startVideo('overview_video', 'hmzgEUBwgSI')"/>
+         <div id="overview_video" class="website_video">
+         <img class="website_video" src="{{ site.baseurl }}/resources/images/splash-overview-video.png" onclick="startVideo('overview_video', 'hmzgEUBwgSI', 'website_video')"/>
          </div>
 		  </div>
 		</div>
