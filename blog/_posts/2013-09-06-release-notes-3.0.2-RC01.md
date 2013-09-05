@@ -38,9 +38,10 @@ improving code navigation and hence aid developers better understanding Scala co
 In its first release, it provided [support for Find Occurrences for members (vals, vars and methods)](http://scala-ide.org/blog/release-notes-3.0.1-RC01.html#scala_search).
 The spotlight of this new release is Type Hierarchy support, allowing you to easily visualize the
 inheritance relations existing among types. Read the [documentation](http://scala-ide.org/docs/current-user-doc/features/navigating/type-hierarchy.html)
-for a short explanation on how to use this new feature.
+for a short explanation on how to use this new feature. Honestly, how have we been living without Type Hierarchy for all this time?
 
-Honestly, how have we been living without Type Hierarchy for all this time?
+On the road there have also been a few bugfixes. The most noticeable one is that the workspace is no longer locked
+while indexing the project. Please, check out the [changelog][scala-search-changelog] for more details.
 
 ## Play for Eclipse 0.4.1
 
@@ -77,3 +78,4 @@ If you have enjoyed using Scala Search so far, make sure to cheer him on twitter
 and wish him good luck for his master thesis defence!
 
 [changelog]: http://scala-ide.org/docs/changelog.html#3_0_2
+[scala-search-changelog]: https://github.com/scala-ide/scala-search/wiki/Changelog
