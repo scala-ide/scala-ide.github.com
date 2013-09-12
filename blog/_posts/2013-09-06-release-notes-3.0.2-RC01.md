@@ -7,19 +7,15 @@ disqus: false
 
 We are very happy to announce the simultaneous release of three products today:
 
-* The first release candidate of the 3.0.2 maintenance release for Scala IDE, based on the
-fresh Scala 2.10.3-RC2 release.
+* The first release candidate of the 3.0.2 maintenance release of Scala IDE. It is based on the recent Scala 2.10.3-RC2 release.
 * A new Scala Search 0.2.0 release, with Type Hierarchy support!
 * And a bugfix release of the Play plugin, v0.4.1.
 
-*All releases are available only for Eclipse 4.x (i.e., Juno and Kepler). Support for Eclipse
-3.x is discontinued.*
+*All releases are available only for Eclipse 4.x (i.e., Juno and Kepler). Support for Eclipse 3.x is discontinued.*
 
 ## Scala IDE 3.0.2-RC1
 
-Besides upgrading to the freshly announced Scala 2.10.3-RC2, the great news is that with
-this release we officially start support for Eclipse 4.x. Therefore, the old Eclipse 3.x
-platform is abandoned.
+Besides upgrading to the freshly announced Scala 2.10.3-RC2, the great news is that with this release we officially start support for Eclipse 4.x. Therefore, the old Eclipse 3.x platform is abandoned.
 
 But that’s not it, of course this maintenance release comes with a few more goodies:
 
@@ -33,15 +29,12 @@ For the complete list of fixes, please see our [changelog][changelog].
 ## Scala Search 0.2.0
 
 Scala Search aims to extend the IDE with a range of search-related features that focus on
-improving code navigation and hence aid developers better understanding Scala code.
+improving code navigation and help developers better understand Scala code.
 
 In its first release, it provided [support for Find Occurrences for members (vals, vars and methods)](http://scala-ide.org/blog/release-notes-3.0.1-RC01.html#scala_search).
-The spotlight of this new release is Type Hierarchy support, allowing you to easily visualize the
-inheritance relations existing among types. Read the [documentation](http://scala-ide.org/docs/current-user-doc/features/navigating/type-hierarchy.html)
-for a short explanation on how to use this new feature. Honestly, how have we been living without Type Hierarchy for all this time?
+The spotlight of this new release is Type Hierarchy support, allowing you to easily visualize the inheritance relations existing among types. Read the [documentation](http://scala-ide.org/docs/current-user-doc/features/navigating/type-hierarchy.html) for a short explanation on how to use this new feature. Honestly, how have we been living without Type Hierarchy for all this time?
 
-On the road there have also been a few bugfixes. The most noticeable one is that the workspace is no longer locked
-while indexing the project. Please, check out the [changelog][scala-search-changelog] for more details.
+On the road there have also been a few bugfixes. The most noticeable one is that the workspace is no longer locked while indexing the project. Please, check out the [changelog][scala-search-changelog] for more details.
 
 ## Play for Eclipse 0.4.1
 
