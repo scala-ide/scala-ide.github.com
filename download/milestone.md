@@ -6,9 +6,19 @@ title: Milestones
 Here you can find the update sites for milestone releases. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 3.0.1-RCs
+## Scala IDE 3.0.2-RC01
 
-Scala IDE 3.0.1 has been released, it can be installed using the [all-in-on bundle](/download/sdk.html), or the [ecosystem update sites](/download/current.html).
+The first release candidate of Scala IDE 3.0.2 has been released. This release is available only for Eclipse Juno and Kepler, and comes packaged with **Scala 2.10.3-RC2**.
+
+### For Eclipse Juno (4.2) and Kepler (4.3)
+#### Requirements
+{% include requirements-juno-kepler.txt %}
+
+{% assign divId = 'download-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/dev' %}
+
+{% include download-box.txt %}
+
 
 ## Scala 2.11.0-M4
 
