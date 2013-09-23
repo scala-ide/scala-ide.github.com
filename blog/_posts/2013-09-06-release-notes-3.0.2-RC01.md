@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Scala IDE 3.0.2-RC2 release
+title: Scala IDE 3.0.2-RC1 release
 author: Scala IDE team
 disqus: false
 ---
