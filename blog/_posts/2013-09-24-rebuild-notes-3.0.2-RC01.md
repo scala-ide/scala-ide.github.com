@@ -5,7 +5,7 @@ author: Scala IDE team
 disqus: false
 ---
 
-We are very happy to echo the announcement of Scala's 2.10.3-RC2 release!
+We are very happy to echo the announcement of Scala's 2.10.3-RC3 release!
 
 You can find the announce, release notes and download links on the [Scala website](http://www.scala-lang.org/news/2013/09/24/release-notes-v2.10.3-RC3.html).
 
