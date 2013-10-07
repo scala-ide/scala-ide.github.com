@@ -8,7 +8,7 @@ up to date with the latest developments in the Scala compiler and the Scala IDE 
 
 ## Scala IDE 3.0.2-RC01
 
-The first release candidate of Scala IDE 3.0.2 has been released. This release is available only for Eclipse Juno and Kepler, and comes packaged with **Scala 2.10.3-RC2**.
+The first release candidate of Scala IDE 3.0.2 has been released. This release is available only for Eclipse Juno and Kepler, and comes packaged with **Scala 2.10.3**.
 
 ### For Eclipse Juno (4.2) and Kepler (4.3)
 #### Requirements
