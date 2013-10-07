@@ -20,9 +20,9 @@ The first release candidate of Scala IDE 3.0.2 has been released. This release i
 {% include download-box.txt %}
 
 
-## Scala 2.11.0-M4
+## Scala 2.11.0-M5
 
-The latest published version for Scala 2.11 is a build of the upcoming Scala IDE 4.0.0 release with Scala 2.11.0-M4.
+The latest published version for Scala 2.11 is a build of the upcoming Scala IDE 4.0.0 release with Scala 2.11.0-M5.
 
 ### For Eclipse Juno (4.2) and Kepler (4.3)
 #### Requirements
