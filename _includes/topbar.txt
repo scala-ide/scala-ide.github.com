@@ -14,10 +14,10 @@
 	        	<li><a href="{{ site.baseurl }}/download/nightly.html">Nightlies</a></li>
 	      	</ul>
 		</li>
-        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+        <li><a href="{{ site.baseurl }}/blog">News</a></li>
         <li><a href="{{ site.baseurl }}/team.html">Team</a></li>
         <li><a href="{{ site.baseurl }}/docs/dev/roadmap.html">Roadmap</a></li>
-      </ul>	
+      </ul>
     </div>
   </div>
 </div>
