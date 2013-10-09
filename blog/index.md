@@ -1,6 +1,6 @@
 ---
 layout: blog-index
-title: Blog
+title: News
 ---
 
 ## [{{ site.posts.first.title }}]({{ site.posts.first.url }})
