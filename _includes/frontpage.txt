@@ -4,7 +4,7 @@
       <div class="span8">
         <div class="rounded-corner-box">
           <div class="release-title">
-            <h2>Version 3.0.1</h2>
+            <h2>Version 3.0.2</h2>
             <h2>Now Available!</h2>
           </div>
           <div class="release-text">

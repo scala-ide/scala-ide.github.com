@@ -1,0 +1,4 @@
+* [JDK 6][jdk6] or [JDK 7][jdk7].
+
+[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
+[jdk7]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-se-jdk-7-download-432154.html
