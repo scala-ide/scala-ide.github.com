@@ -16,6 +16,9 @@ Whether you are a seasoned Scala developer, or just picking up the language, thi
 This release is available for *Scala 2.10*,
 and is based on *Eclipse 4.3 (Kepler)*.
 
+## We are fixing the packaged bundles. Please use the [update site]({{ site.baseurl }}/download/current.html) for the moment.
+
+<!--
 ### Requirements
 {% include jdk-requirements-kepler.txt %}
 
@@ -25,3 +28,4 @@ and is based on *Eclipse 4.3 (Kepler)*.
 ## Get Started
 
 Get started by watching the [videos]({{ site.baseurl }}/docs/videos.html) or reading the [docs and tutorials]({{ site.baseurl }}/documentation.html)
+-->
