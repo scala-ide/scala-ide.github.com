@@ -2,9 +2,10 @@
   <div class="span5">
     <h2>Content</h2>
     <ul>
-      <li>Eclipse 3.7.2 (Indigo)</li>
-      <li>Scala IDE 3.0.1</li>
-      <li>Scala Worksheet 0.2.0</li>
+      <li>Eclipse 4.3.1 (Kepler)</li>
+      <li>Scala IDE 3.0.2</li>
+      <li>Scala Worksheet 0.2.1</li>
+      <li>Play Framework support 0.4.1</li>
       <li>m2eclipse-scala Maven connector 0.4.3</li>
       <li>access to the full Scala IDE ecosystem</li>
     </ul>

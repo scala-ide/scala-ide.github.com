@@ -11,16 +11,16 @@ Whether you are a seasoned Scala developer, or just picking up the language, thi
 
 {% include sdk-download-content.txt %}
 
-# 3.0.1 Release
+# 3.0.2 Release
 
 This release is available for *Scala 2.10*,
-and is based on *Eclipse 3.7 (Indigo)*.
+and is based on *Eclipse 4.3 (Kepler)*.
 
 ### Requirements
-{% include jdk-requirements-indigo.txt %}
+{% include jdk-requirements-kepler.txt %}
 
 ## For Scala 2.10.x
-{% include sdk-download-box-2-10-indigo.txt %}
+{% include sdk-download-box-2-10.txt %}
 
 ## Get Started
 

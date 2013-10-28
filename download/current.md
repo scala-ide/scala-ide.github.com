@@ -9,14 +9,31 @@ If you are new to Eclipse or Scala, watch the *Getting Started with the Scala ID
 
 If you already know Eclipse and you want to find out more about features available in the Scala IDE, make sure not to miss the [Scala IDE Features Overview]({{ site.baseurl }}/index.html), on the front page. A complete list of features is available in the expandable menu on the [front page]({{ site.baseurl }}/index.html#features).
 
+
 # Improved in This Release
 {% include current-download-features.txt %}
 
+# 3.0.2 Release
+
+The 3.0.2 release is the second maintenance release of the 3.0 version. It is available
+for Scala 2.10, on Eclipse 3.8/4.2/4.3 (Juno & Kepler).
+
+## Eclipse 3.8/4.2 (Juno) and Eclipse 4.3 (Kepler)
+
+### Requirements
+{% include requirements-juno-kepler.txt %}
+
+#### For Scala 2.10.x
+
+{% assign divId = 'download-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/stable' %}
+
+{% include download-box.txt %}
+
 # 3.0.1 Release
 
-The 3.0.1 release is the first maintenance release of the 3.0 version. It is only available
-for Scala 2.10, on Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2/4.3 (Juno & Kepler), through
-different update sites.
+The 3.0.1 release is the first maintenance release of the 3.0 version, and is the last one
+compatible with Eclipse 3.7.
 
 ## Eclipse 3.7 (Indigo)
 
@@ -29,19 +46,6 @@ different update sites.
 
 {% include download-box.txt %}
 
-## Eclipse 3.8/4.2 (Juno) and Eclipse 4.3 (Kepler)
-
-**Support for Eclipse 3.8/4.2/4.3 is experimental in this release.**
-
-### Requirements
-{% include requirements-juno.txt %}
-
-#### For Scala 2.10.x
-
-{% assign divId = 'download-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/stable' %}
-
-{% include download-box.txt %}
 
 # 3.0.0 Release
 
