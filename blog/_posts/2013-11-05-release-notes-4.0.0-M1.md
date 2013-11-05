@@ -34,7 +34,7 @@ This release is available for both Eclipse Juno (4.2) and Kepler (4.3) using the
 
 Happy Scala coding!
 
-[changelog]: http://scala-ide.org/docs/changelog.html
+[changelog]: http://scala-ide.org/docs/changelog.html#M1___2013-11-05_
 [play-ide]: https://github.com/scala-ide/scala-ide-play2/wiki
 [scala-search]: https://github.com/scala-ide/scala-search/wiki/Features
 [java-scala]: https://github.com/dnadolny/java-to-scala-plugin
