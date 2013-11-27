@@ -27,5 +27,5 @@ Happy Scala coding!
 
 [SI-7915]: https://issues.scala-lang.org/browse/SI-7915
 [SI-7280]: https://issues.scala-lang.org/browse/SI-7280
-[scala-changelog]: http://scala-lang.org/news/2013/09/28/release-notes-v2.11.0-M5.html
+[scala-changelog]: http://www.scala-lang.org/news/2013/11/27/release-notes-v2.11.0-M7.html
 [nightlies]: /download/nightly.html
