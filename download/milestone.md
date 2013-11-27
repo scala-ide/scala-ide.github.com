@@ -20,14 +20,7 @@ The first milestone has a few improvements and new features, but this is mainly 
 
 {% include download-box.txt %}
 
-
-## Scala 2.11.0-M5
-
-The latest published version for Scala 2.11 is a build of the upcoming Scala IDE 4.0.0 release with Scala 2.11.0-M5.
-
-### For Eclipse Juno (4.2) and Kepler (4.3)
-#### Requirements
-{% include requirements-juno-kepler.txt %}
+### For Scala 2.11.0-M7
 
 {% assign divId = 'download-211-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala211/dev' %}
