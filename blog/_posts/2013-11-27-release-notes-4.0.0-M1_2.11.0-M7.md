@@ -17,7 +17,7 @@ Other fixes like these are in the work, and will become available as new version
 
 ## Plugins
 
-Living on the bleeding edge doesn't mean loosing all confront. New builds of the Scala worksheet and Scala search, compatible with the new release, are available. And they also take advantage of some of the improvements.
+Living on the bleeding edge doesn't mean losing all confront. New builds of the Scala worksheet and Scala search, compatible with the new release, are available. And they also take advantage of some of the improvements.
 
 ## Installation
 
