@@ -23,6 +23,7 @@ As usual, this release is associated with updated versions of the ecosystem plug
 * Scala Worksheet 0.2.1
 * Play plugin 0.4.1
 * ScalaTest plugin 2.9.3
+* JavaToScala plugin 1.2.0
 * Scala Search 0.2.0
 
 As more plugin writers update their releases to 3.0.3, their plugins will appear in the update site.
