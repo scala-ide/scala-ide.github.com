@@ -13,8 +13,8 @@ up to date with the latest developments in the Scala compiler and the Scala IDE 
 
 ### For Scala 2.10.4-RC1
 
-{% assign divId = 'download-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/dev' %}
+{% assign divId = 'download-helium-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/dev' %}
 
 {% include download-box.txt %}
 
@@ -29,15 +29,15 @@ The first milestone has a few improvements and new features, but this is mainly 
 
 ### For Scala 2.10.3
 
-{% assign divId = 'download-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/dev' %}
+{% assign divId = 'download-lithium-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala210/dev' %}
 
 {% include download-box.txt %}
 
 ### For Scala 2.11.0-M7
 
-{% assign divId = 'download-211-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala211/dev' %}
+{% assign divId = 'download-lithium-211-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala211/dev' %}
 
 {% include download-box.txt %}
 
