@@ -32,7 +32,7 @@ As more plugin writers update their releases to 3.0.3, their plugins will appear
 
 To install the release on an existing version of Eclipse, use the [ecosystem update sites](/download/milestone.html):
 
-* Eclipse 4.x (Juno & Kepler): [http://download.scala-ide.org/sdk/e38/scala210/stable/site/](http://download.scala-ide.org/sdk/e38/scala210/stable/site/)
+* Eclipse 4.x (Juno & Kepler): [http://download.scala-ide.org/sdk/helium/e38/scala210/dev/site](http://download.scala-ide.org/sdk/helium/e38/scala210/dev/site)
 
 
 [changelog]: http://scala-ide.org/docs/changelog.html#3_0_3

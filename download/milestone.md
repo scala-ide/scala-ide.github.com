@@ -6,7 +6,7 @@ title: Milestones
 Here you can find the update sites for milestone releases. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 3.0.3-RC01
+## Scala IDE 3.0.3 Release Candidate 1
 
 #### Requirements
 {% include requirements-juno-kepler.txt %}
