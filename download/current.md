@@ -26,7 +26,7 @@ for Scala 2.10, on Eclipse 3.8/4.2/4.3 (Juno & Kepler).
 #### For Scala 2.10.x
 
 {% assign divId = 'download-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala210/stable' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/stable' %}
 
 {% include download-box.txt %}
 
@@ -42,7 +42,7 @@ compatible with Eclipse 3.7.
 
 #### For Scala 2.10.x
 {% assign divId = 'download-210-indigo' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e37/scala210/stable' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e37/scala210/stable' %}
 
 {% include download-box.txt %}
 
@@ -62,7 +62,7 @@ and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different up
 #### For Scala 2.9.x
 
 {% assign divId = 'download-29-indigo' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e37/scala29/stable' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e37/scala29/stable' %}
 
 {% include download-box.txt %}
 
@@ -76,7 +76,7 @@ and both *Eclipse 3.7 (Indigo) and Eclipse 3.8/4.2 (Juno)*, through different up
 #### For Scala 2.9.x
 
 {% assign divId = 'download-29-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/e38/scala29/stable' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala29/stable' %}
 
 {% include download-box.txt %}
 
