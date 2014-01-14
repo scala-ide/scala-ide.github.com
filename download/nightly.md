@@ -4,7 +4,7 @@ title: Download the Latest Nightly Build
 ---
 
 # Scala IDE Lithium (4.0), Nightly
-*Lithium* is the codename for the upcoming Scala IDE release. If you like staying on the cutting edge, make sure to install this nighlty.
+*Lithium* is the codename for the upcoming Scala IDE release. If you like staying on the cutting edge, make sure to install this nightly.
 
 <!--
 ## New Features
