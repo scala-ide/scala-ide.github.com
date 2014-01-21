@@ -2,7 +2,7 @@
   {% unless fullDownloadUrl %}
     {% capture fullDownloadUrl %}{{ downloadUrl }}/site{% endcapture %}
   {% endunless %}
-  <div id="{{ divId }}" class="download-link" title="URL Copied To Clipboard" data-content="To install the Scala IDE for Eclipse 3.7 (Indigo), open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
+  <div id="{{ divId }}" class="download-link" title="To install the Scala IDE, open Eclipse, go to 'Help > Install New Software', and paste this URL into the dialog box. Then, follow the on-screen instructions from there.">
     {{ fullDownloadUrl }}
   </div>
 
