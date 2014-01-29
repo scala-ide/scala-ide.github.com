@@ -34,7 +34,7 @@ The first milestone has a few improvements and new features, but this is mainly 
 
 {% include download-box.txt %}
 
-### For Scala 2.11.0-M7
+### For Scala 2.11.0-M8
 
 {% assign divId = 'download-lithium-211-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala211/dev' %}
