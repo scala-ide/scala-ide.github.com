@@ -10,3 +10,5 @@ keywords:
 permalink: /:categories/:title.html
 baseurl: "http://scala-ide.org"
 
+markdown: kramdown
+
