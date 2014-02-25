@@ -11,7 +11,7 @@ up to date with the latest developments in the Scala compiler and the Scala IDE 
 #### Requirements
 {% include requirements-juno-kepler.txt %}
 
-### For Scala 2.10.4-RC1
+### For Scala 2.10.4-RC3
 
 {% assign divId = 'download-helium-210-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/dev' %}
