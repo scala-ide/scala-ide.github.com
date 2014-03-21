@@ -13,7 +13,7 @@ The build for the maintenance branch of Scala IDE 3.0 for Scala 2.10. Check the 
 #### Requirements
 {% include requirements-juno-kepler.txt %}
 
-### For Scala 2.10.4-RC3
+### For Scala 2.10.4
 
 {% assign divId = 'download-helium-210-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/dev' %}
