@@ -13,9 +13,9 @@ If you already know Eclipse and you want to find out more about features availab
 # Improved in This Release
 {% include current-download-features.txt %}
 
-# 3.0.2 Release
+# 3.0.3 Release
 
-The 3.0.2 release is the second maintenance release of the 3.0 version. It is available
+The 3.0.3 release is the second maintenance release of the 3.0 version. It is available
 for Scala 2.10, on Eclipse 3.8/4.2/4.3 (Juno & Kepler).
 
 ## Eclipse 3.8/4.2 (Juno) and Eclipse 4.3 (Kepler)
