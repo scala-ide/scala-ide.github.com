@@ -11,7 +11,9 @@ We are very happy to announce the release of the 3.0.4 maintenance release of Sc
 
 This release is a rebuild of Scala IDE 3.0.3 for the latest Scala version 2.11.0, with a few small changes needed to support the updated compiler.
 
-To see what was new in Scala IDE 3.0.3, please see the [release notes](/blog/release-notes-3.0.3.html).
+The complete list of improvements in Scala 2.11.0 is available in their [release notes](http://www.scala-lang.org/news/2014/04/21/release-notes-2.11.0.html).
+
+To see what was new in Scala IDE 3.0.3, please see these [release notes](/blog/release-notes-3.0.3.html).
 
 ## Ecosystem
 
