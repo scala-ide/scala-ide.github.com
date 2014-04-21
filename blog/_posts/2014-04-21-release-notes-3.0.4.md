@@ -22,7 +22,7 @@ As usual, this release is associated with updated versions of the ecosystem plug
 * Scala Worksheet 0.2.3
 * Scala Search 0.2.2
 
-As more plugin writers update their releases to 3.0.4, their plugins will appear in the update site.
+The other usual plugins will appear in the update site soon.
 
 ## Installing
 
