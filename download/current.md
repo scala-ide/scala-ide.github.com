@@ -13,10 +13,13 @@ If you already know Eclipse and you want to find out more about features availab
 # Improved in This Release
 {% include current-download-features.txt %}
 
-# 3.0.3 Release
+# 3.0.3 / 3.0.4 Release
 
-The 3.0.3 release is the second maintenance release of the 3.0 version. It is available
+The 3.0.3 release is the third maintenance release of the 3.0 version. It is available
 for Scala 2.10, on Eclipse 3.8/4.2/4.3 (Juno & Kepler).
+
+The 3.0.4 release provides the same features as 3.0.3, but the code was updated to support Scala
+2.11.
 
 ## Eclipse 3.8/4.2 (Juno) and Eclipse 4.3 (Kepler)
 
@@ -27,6 +30,13 @@ for Scala 2.10, on Eclipse 3.8/4.2/4.3 (Juno & Kepler).
 
 {% assign divId = 'download-210-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/stable' %}
+
+{% include download-box.txt %}
+
+#### For Scala 2.11.x
+
+{% assign divId = 'download-211-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala211/stable' %}
 
 {% include download-box.txt %}
 
