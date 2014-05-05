@@ -11,9 +11,9 @@ Whether you are a seasoned Scala developer, or just picking up the language, thi
 
 {% include sdk-download-content.txt %}
 
-# 3.0.3 Release
+# 3.0.3/3.0.4 Release
 
-This release is available for *Scala 2.10*,
+This release is available for *Scala 2.10* and *Scala 2.11*,
 and is based on *Eclipse 4.3 (Kepler)*.
 
 ### Requirements
@@ -21,6 +21,9 @@ and is based on *Eclipse 4.3 (Kepler)*.
 
 ## For Scala 2.10.x
 {% include sdk-download-box-2-10.txt %}
+
+## For Scala 2.11.x
+{% include sdk-download-box-2-11.txt %}
 
 ## Get Started
 
