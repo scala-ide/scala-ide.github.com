@@ -26,14 +26,14 @@ The 3.0.4 release provides the same features as 3.0.3, but the code was updated 
 ### Requirements
 {% include requirements-juno-kepler.txt %}
 
-#### For Scala 2.10.x
+#### For Scala 2.10.4
 
 {% assign divId = 'download-210-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/stable' %}
 
 {% include download-box.txt %}
 
-#### For Scala 2.11.x
+#### For Scala 2.11.1
 
 {% assign divId = 'download-211-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala211/stable' %}
