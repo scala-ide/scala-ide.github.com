@@ -28,7 +28,7 @@ title: Download the Latest Nightly Build
 
 {% include download-box.txt %}
 
-#### For Scala 2.11.x (next major Scala release)
+#### For Scala 2.11.1
 
 {% assign divId = 'download-40-211' %}
 {% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-4.0.x-211x' %}
@@ -37,7 +37,21 @@ title: Download the Latest Nightly Build
 {% include download-box.txt %}
 
 
+## [Eclipse Luna][luna] (upcoming release)
+
+This is a version of the Scala IDE that works with the upcoming release of the Eclipse IDE (codenamed Luna). It is known to work with Milestone 7.
+
+#### For Scala 2.11.1
+
+{% assign divId = 'download-luna-40-211' %}
+{% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-luna-211x' %}
+{% assign zipUrl = 'http://download.scala-ide.org/nightly-scala-ide-luna-211x.zip' %}
+
+{% include download-box.txt %}
+
+
 [Older versions](prev-nightlies.html)
 
 [juno]: http://eclipse.org/juno/
 [kepler]: http://eclipse.org/kepler/
+[luna]: https://projects.eclipse.org/releases/luna
