@@ -16,9 +16,9 @@ We wanted to make this release available to our users as soon as
 possible, to get you the many improvements of the last few
 months, but also because we need your help: we are going to
 implement the possibility to work with projects set to build with
-two different Scala versions (2.11 and 2.10 are supported for
-now), and we would like your help working out the kinks of this
-feature.
+[two different Scala versions](/blog/Xsource-compatibility.html) (2.11
+and 2.10 are supported for now), and we would like your help working
+out the kinks of this feature.
 
 So download the milestone, try out the feature, and [let us](https://groups.google.com/forum/#!forum/scala-ide-dev) [know](https://www.assembla.com/spaces/scala-ide/tickets)
 what you think!
@@ -28,6 +28,7 @@ what you think!
 This release fixes many bugs, and we invite you to read the
 Changelog for a full description. Here are some interesting
 excerpts:
+
 -   new and improved menus, with cleaner refactoring choices, and
     clearer preferences
 -   reactivated, improved [Scala templates](http://scala-ide.org/docs/current-user-doc/features/typingviewing/code-templates.html)
@@ -41,9 +42,12 @@ excerpts:
 -   more robust integration with the sbt incremental compiler,
     classfiles, virtual files, all yielding performance
     improvements
--   support for several versions of Scala ! This brand-new
+-   QuickFix for auto-generating method stubs for inherited abstract members
+-   support for the new name hashing algorithm in the Sbt incremental compiler. This feature improves build times by making smarter decisions about what source files require recompilation. It is still experimental (and disabled by default), but we'd like to hear back about any issues  you encounter!
+-   [support for several versions of Scala](/blog/Xsource-compatibility.html)! This brand-new
     experimental feature is released early to get help from
     beta-testers. Please read the blog post, and [report](https://www.assembla.com/spaces/scala-ide/tickets/) any issues.
+-   see the full [changelog](docs/changelog.html) for a complete list of changes.
 
 # Thanks
 
@@ -58,7 +62,7 @@ their invaluable help.
 # Installation
 
 This release is available for both Eclipse Juno (4.2) and Kepler
-(4.3) using the following update-site: 
+(4.3), so head down to the [download page](/downloads/milestone.html) or just use the following update site:
 
 <http://download.scala-ide.org/sdk/e38/scala211/dev/site/>
 

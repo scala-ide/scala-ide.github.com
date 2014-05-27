@@ -66,20 +66,32 @@ project-specific settings" to turn on project-specific
 configuration (you'll have to repeat those steps for every
 project for which you want to use the compatibility mode).
 
-![img]({{ site.baseurl }}/resources/images/xsource-screenshots/project-settings.jpg "Turning on project-pecific settings")
+<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/project-settings.jpg">
+	<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/project-settings.jpg" 
+		width="100%"
+		alt="Turning on project-pecific settings"/>
+</a>
 
 Second, click on the source-level option, setting the source for
 this project to 2.10. This will automatically add `-Xsource:2.10
 -Ymacro-expand:none` to your compiler settings.
 
-![img]({{ site.baseurl }}/resources/images/xsource-screenshots/2.11-sourcelevel-before.jpg "Turning on the source level")
+<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/2.11-sourcelevel-before.jpg">
+	<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/2.11-sourcelevel-before.jpg"
+		width="100%"
+		alt="Turning on the source level"/>
+</a>
 
 After you close the project, any errors about the classpath in
 the problems view should disappear. If you reopen properties,
 you'll see the `-Xsource` and `-Ymacro-expand` options have been
 added to compiler options.
 
-![img]({{ site.baseurl }}/resources/images/xsource-screenshots/2.11-sourcelevel-after.jpg "Turning on the source level")
+<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/2.11-sourcelevel-after.jpg">
+	<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/2.11-sourcelevel-after.jpg"
+		width="100%"
+		alt="Turning on the source level"/>
+</a>
 
 ## Detecting projects which could use the 2.10 flag
 
@@ -89,7 +101,11 @@ library, it will prompt you about it, asking whether you want to
 turn on the 2.10 source level configuration using the following
 dialog:
 
-![img]({{ site.baseurl }}/resources/images/xsource-screenshots/error-message.jpg "The error message on seeing a previous classpath.")
+<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/error-message.jpg">
+	<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/error-message.jpg"
+		width="100%" 
+	 	alt="The error message on seeing a previous classpath."/>
+</a>
 
 Clicking 'Yes' on this dialog has the same effect as setting the
 source Level to 2.10 above.
