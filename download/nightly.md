@@ -39,7 +39,7 @@ title: Download the Latest Nightly Build
 
 ## [Eclipse Luna][luna] (upcoming release)
 
-This is a version of the Scala IDE that works with the upcoming release of the Eclipse IDE (codenamed Luna). It is known to work with Milestone 7.
+This is a version of the Scala IDE that works with the upcoming release of the Eclipse IDE (codenamed Luna). It is known to work with RC1.
 
 #### For Scala 2.11.1
 
