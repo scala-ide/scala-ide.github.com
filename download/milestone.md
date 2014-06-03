@@ -27,3 +27,16 @@ The second milestone has many improvements and features, including experimental 
 
 {% include download-box.txt %}
 
+
+## [Eclipse Luna][luna] (upcoming release)
+
+This is a version of the Scala IDE that works with the upcoming release of the Eclipse IDE (codenamed Luna). It is known to work with RC1.
+
+### For Scala 2.11.1
+
+{% assign divId = 'download-lithium-211-luna' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e44/scala211/dev' %}
+
+{% include download-box.txt %}
+
+[luna]: https://projects.eclipse.org/releases/luna

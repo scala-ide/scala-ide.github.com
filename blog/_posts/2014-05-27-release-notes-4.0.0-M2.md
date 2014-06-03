@@ -66,4 +66,8 @@ This release is available for both Eclipse Juno (4.2) and Kepler
 
 <http://download.scala-ide.org/sdk/e38/scala211/dev/site/>
 
+We also have experimental support for Eclipse Luna, and you can try it out from the following update site:
+
+<http://download.scala-ide.org/sdk/e44/scala211/dev/site/>
+
 Happy Scala coding!
