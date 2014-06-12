@@ -19,11 +19,11 @@ and is based on *Eclipse 4.3 (Kepler)*.
 ### Requirements
 {% include jdk-requirements-kepler.txt %}
 
-## For Scala 2.10.4
-{% include sdk-download-box-2-10.txt %}
-
 ## For Scala 2.11.1
 {% include sdk-download-box-2-11.txt %}
+
+## For Scala 2.10.4
+{% include sdk-download-box-2-10.txt %}
 
 ## Get Started
 

@@ -26,17 +26,17 @@ The 3.0.4 release provides the same features as 3.0.3, but the code was updated 
 ### Requirements
 {% include requirements-juno-kepler.txt %}
 
-#### For Scala 2.10.4
-
-{% assign divId = 'download-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/stable' %}
-
-{% include download-box.txt %}
-
 #### For Scala 2.11.1
 
 {% assign divId = 'download-211-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala211/stable' %}
+
+{% include download-box.txt %}
+
+#### For Scala 2.10.4
+
+{% assign divId = 'download-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/stable' %}
 
 {% include download-box.txt %}
 
@@ -101,7 +101,7 @@ Scala 2.10, we recommend you to use the [3.0.0 release](#300_release)
 
 * Eclipse, including the JDT. "Eclipse Classic" is sufficient, but [any Eclipse package can be used][eclipse-package-to-use].
 
-	* Both [Eclipse 3.6 (Helios)][eclipse-helios] and [Eclipse 3.7 (Indigo)][eclipse-indigo] are supported.
+        * Both [Eclipse 3.6 (Helios)][eclipse-helios] and [Eclipse 3.7 (Indigo)][eclipse-indigo] are supported.
 
 [jdk5]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html
 [jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
