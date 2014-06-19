@@ -2,7 +2,7 @@
 
 <div id="download-link-2-11" class="download-link">
 <a href="#" id="downloadIDE211">
-    Download SDK
+    Download IDE
     <small></small>
 </a>
 </div>
