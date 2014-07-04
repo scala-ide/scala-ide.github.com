@@ -8,7 +8,7 @@ up to date with the latest developments in the Scala compiler and the Scala IDE 
 
 ## Scala IDE 4.0.0 Milestone 2
 
-The second milestone has many improvements and features, including experimental support for multiple versions of Scala in the same Eclipse workspace (only for the 2.11 download). Check the [release notes](/blog/2014-05-27-release-notes-4.0.0-M2.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
+The second milestone has many improvements and features, including experimental support for multiple versions of Scala in the same Eclipse workspace (only for the 2.11 download). Check the [release notes](/blog/release-notes-4.0.0-M2.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
 
 #### Requirements
 {% include requirements-juno-kepler.txt %}
