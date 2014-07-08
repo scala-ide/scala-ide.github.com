@@ -5,6 +5,14 @@ author: Scala IDE team
 disqus: false
 ---
 
+We are thinking of uniting the development of the Scala IDE to
+just a scala 2.11 branch, while still supporting 2.10
+projects. For that, we need rock-solid support for 2.10, and
+**you** can make a difference. This blog post is here to give you
+news about the development — up to the latest nightly — and
+enlist your contributions in reporting possible problems or
+errors. More details on [how to contribute](#contributing) below.
+
 ## Developments in multi-version support
 
 As you [may have heard]({{ site.baseurl }}/blog/Xsource-compatibility.html), the
