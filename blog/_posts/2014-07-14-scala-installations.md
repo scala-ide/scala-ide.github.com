@@ -286,9 +286,14 @@ workspace.
 
 <a href="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/scala-installations.png">
 <img src="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/scala-installations.png"
- width="80%" alt=/>
+ width="80%" alt="Scala Installations Preference page" />
 </a>
 
+Notice how there is no notion of *dynamic* or *fixed* represented
+here: those notions are relevant for a *choice* of Scala
+Installation when you configure a project (dictating how that
+choice will be realized accross upgrades). Those are just the
+installations that are available to your IDE at the moment.
 
 There you can add and remove an installation according to your
 needs. So far, the dialog prompts you for a directory, which
