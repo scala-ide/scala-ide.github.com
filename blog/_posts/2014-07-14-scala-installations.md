@@ -149,37 +149,38 @@ jar, in which we know where to look for a version, or other,
 external jar files which filename might hint at a Scala version.
 
 If we detect a 2.10 scala library, you'll see the following
-dialog:
+error marker appear in the Problems view:
 
-<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/scala-library-dialog.png">
-<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/scala-library-dialog.png"
- width="80%" alt="The dialog for a misconfigured 2.10 project"/>
+<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/error-marker.png">
+<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/error-markerpng"
+ width="100%" alt="The error marker for a misconfigured 2.10 project"/>
 </a>
 
 
-If you choose yes, you'll see the following dialog:
+If you try to quick-fix this error (by pressing Ctrl+1 or right-clicking and selecting *Quickfix*), you'll see the following dialog:
 
-<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/choose-installation.png">
-<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/choose-installation.png"
- width="80%" alt="The Scala Installation choice window"/>
+<a href="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/quickfix.png">
+<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/quickfix.png"
+ width="100%" alt="The Scala Version Marker Quickfix window"/>
 </a>
 
+Opening Project Properties here (by clicking *Finish*) is
+equivalent to doing it through menus, It will toggle
+project-specific compiler settings if necessary, and set the
+correct compiler flags.
 
-Choosing a Scala Installation here is equivalent to doing it in
-the Preferences window, It will toggle project-specific compiler
-settings if necessary, and set the correct compiler flags.
-
-A similar dialog will pop up if you have external 2.10 libraries
-popping up in your classpath.
+A similar error marker will pop up if you have external 2.10 libraries
+in your classpath (e.g. if they were brought there by sbteclipse with cutom options).
 
 Now, if you have a project that was created in Eclipse, or if you
 are working on a project which Eclipse configuration has been
-generated in the past with
-[sbteclipse](https://github.com/typesafehub/sbteclipse), you may
-notice that those dialogs do not appear. This is because your
-project is using a Classpath Container.
+generated in the past with a vanilla
+[sbteclipse](https://github.com/typesafehub/sbteclipse) (with no
+particular options), you may notice that those error markers do not
+appear. This is because your project is using a Classpath
+Container.
 
-# <a id="Classpath-Containers"></a><a id="sec-5"></a>
+# <a id="Classpath-Containers"></a>Classpath Containers<a id="sec-5"></a>
 
 Basically, classpath containers are an indirection in your
 classpath that is elaborated by the platform Eclipse using
@@ -252,7 +253,7 @@ not get out of sync, we had to make sure that classpath container
 edition should not fire if you have both Scala-library and
 Scala-compiler on classpath. In you do the best way to proceed is
 from a project's choice of Scala Installation, which cascades to
-classpath containers — and a dialog will guide you there if you
+classpath containers — and a quickfix will guide you there if you
 try to modify such a classpath container directly anyway.<a id="fnr.9" href="#fn.9">⁹</a>
 
 This will let you have a project whose classpath is managed the
@@ -266,7 +267,7 @@ embedded versions of the scala library and compiler. How about
 dealing with custom, personal installations of Scala that you
 may want to use in conjunction with your project ?
 
-# <a id="BYOS"></a> (Bring Your Own Scala)<a id="sec-6"></a>
+# <a id="BYOS"></a>BYOS (Bring Your Own Scala)<a id="sec-6"></a>
 
 If you want to use a custom version of Scala with your project,
 there has always been the option of having a manually-managed
@@ -281,7 +282,7 @@ setting a custom, workspace-wide installation that your projects
 can then reuse ?
 
 This is what you can do from the Scala Installations preference
-page. You will find it in the preference dialog for the
+page. You will find it in the preference page for the
 workspace.
 
 <a href="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/scala-installations.png">
