@@ -1,6 +1,6 @@
 ---
 layout: sdk-download
-title: Download the Bundle of the Scala IDE for Eclipse
+title: Download Scala IDE for Eclipse
 ---
 
 The bundle contains the lastest release version of the Scala IDE for Eclipse and it comes pre-configured
@@ -14,17 +14,19 @@ Whether you are a seasoned Scala developer, or just picking up the language, thi
 # 3.0.3/3.0.4 Release
 
 This release is available for *Scala 2.10* and *Scala 2.11*,
-and is based on *Eclipse 4.3 (Kepler)*.
+and is based on *Eclipse 4.3 (Kepler)*. See [Changelog][clog] for a detailed list of changes.
 
-### Requirements
-{% include jdk-requirements-kepler.txt %}
-
-## For Scala 2.11.1
+## For Scala 2.11.2
 {% include sdk-download-box-2-11.txt %}
 
 ## For Scala 2.10.4
 {% include sdk-download-box-2-10.txt %}
 
+### Requirements
+{% include jdk-requirements-kepler.txt %}
+
 ## Get Started
 
 Get started by watching the [videos]({{ site.baseurl }}/docs/videos.html) or reading the [docs and tutorials]({{ site.baseurl }}/documentation.html)
+
+[clog]: /docs/changelog.html

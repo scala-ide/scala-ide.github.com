@@ -4,6 +4,7 @@
     <ul>
       <li>Eclipse 4.3.1 (Kepler)</li>
       <li>Scala IDE 3.0.3/3.0.4</li>
+      <li>Sbt 0.13.2</li>
       <li>Scala Worksheet 0.2.3</li>
       <li>Play Framework support 0.4.3 (Scala 2.10 only)</li>
       <li>m2eclipse-scala Maven connector 0.4.3</li>
