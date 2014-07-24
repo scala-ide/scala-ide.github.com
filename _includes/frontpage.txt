@@ -10,7 +10,7 @@
           <div class="release-text">
 		    <p>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.</p>
 		    <p>Now with a shiny Scala debugger, semantic highlight, more reliable JUnit test finder, an ecosystem of related plugins, and <a href="{{ site.baseurl }}/docs/current-user-doc/features.html">much more</a>.</p>
-	        <a href="{{ site.baseurl }}/download/sdk.html" class="btn large success"><b>Get the Bundle</b></a><div class="flat large">or use the<h3><a href="{{ site.baseurl }}/download/current.html"><b>update sites</b></a></h3></div>
+	        <a href="{{ site.baseurl }}/download/sdk.html" class="btn large success"><b>Download IDE</b></a><div class="flat large">or use the<h3><a href="{{ site.baseurl }}/download/current.html"><b>update sites</b></a></h3></div>
 	      </div>
 	    </div>
 	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>

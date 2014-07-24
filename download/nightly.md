@@ -20,7 +20,7 @@ title: Download the Latest Nightly Build
 
 * Scala IDE Lithium works with [Eclipse 4.2][juno] and [4.3][kepler] ([Juno][juno] and [Kepler][kepler]).
 
-#### For Scala 2.11.1
+#### For Scala 2.11.2
 
 {% assign divId = 'download-40-211' %}
 {% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-4.0.x-211x' %}
@@ -40,7 +40,7 @@ title: Download the Latest Nightly Build
 
 This is a version of the Scala IDE that works with the upcoming release of the Eclipse IDE (codenamed Luna). It is known to work with RC1.
 
-#### For Scala 2.11.1
+#### For Scala 2.11.2
 
 {% assign divId = 'download-luna-40-211' %}
 {% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-luna-211x' %}
