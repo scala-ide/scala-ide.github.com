@@ -38,7 +38,7 @@ Also, note have an [updated documentation section]({{site.baseurl}}/docs/4.0.x/i
 # Other Highlights
 
 This release fixes many bugs, and we invite you to read the
-[Changelog](http://scala-ide.org/docs/changelog.html#m3-unreleased) for a full description. Here are some interesting
+[Changelog](http://scala-ide.org/docs/changelog.html#m3-2014-07-25) for a full description. Here are some interesting
 excerpts:
 
 - a redesigned Bug Report Dialog
