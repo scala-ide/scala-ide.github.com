@@ -58,7 +58,7 @@ contributions, and to Pouria Mellati
 # Installation
 
 This release is available for both Eclipse Juno (4.2) and Kepler
-(4.3), so head down to the [download page](/downloads/milestone.html) or just use the following update site:
+(4.3), so head down to the [download page](/download/milestone.html) or just use the following update site:
 
 <http://download.scala-ide.org/sdk/lithium/e38/scala211/dev/site/>
 
