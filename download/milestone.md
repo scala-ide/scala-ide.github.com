@@ -6,37 +6,38 @@ title: Milestones
 Here you can find the update sites for milestone releases. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 4.0.0 Milestone 2
+## Scala IDE 4.0.0 Milestone 3
 
-The second milestone has many improvements and features, including experimental support for multiple versions of Scala in the same Eclipse workspace (only for the 2.11 download). Check the [release notes](/blog/release-notes-4.0.0-M2.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
+The third milestone has many improvements and features, including experimental support for multiple versions of Scala in the same Eclipse workspace and a [New File Wizard][filewiz] interface. Check the [release notes](/blog/release-notes-4.0.0-M3.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
 
-#### Requirements
-{% include requirements-juno-kepler.txt %}
-
-### For Scala 2.11.1
+### For Scala 2.11.2
 
 {% assign divId = 'download-lithium-211-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala211/dev' %}
 
 {% include download-box.txt %}
 
-### For Scala 2.10.4
+#### Requirements
+{% include requirements-juno-kepler.txt %}
 
-{% assign divId = 'download-lithium-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala210/dev' %}
+## [Eclipse Luna][luna]
 
-{% include download-box.txt %}
+This is a version of the Scala IDE that works with Eclipse Luna (version 4.4).
 
-
-## [Eclipse Luna][luna] (upcoming release)
-
-This is a version of the Scala IDE that works with the upcoming release of the Eclipse IDE (codenamed Luna). It is known to work with RC1.
-
-### For Scala 2.11.1
+### For Scala 2.11.2
 
 {% assign divId = 'download-lithium-211-luna' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e44/scala211/dev' %}
 
 {% include download-box.txt %}
 
+
+#### Also included:
+
+* Scala 2.11.2
+* Sbt 0.13.2
+* Scalariform 0.1.5
+* Scala Refactoring 0.6.2
+
 [luna]: https://projects.eclipse.org/releases/luna
+[filewiz]: /docs/4.0.x/features/wizards/index.html
