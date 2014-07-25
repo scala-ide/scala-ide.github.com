@@ -5,6 +5,11 @@ author: Scala IDE team
 disqus: false
 ---
 
+![Beware]({{ site.baseurl }}/resources/images/arrow.png) **The
+ contents of this blog post have been superseded by the most
+ recent nightly. Go [there]({{ site.baseurl}}/blog/scala-installations.html)
+ for the latest documentation.**
+
 ## Using the IDE with a 2.10 project
 
 As you probably know, [Scala 2.11 was released last month](https://typesafe.com/blog/scala-211-has-arrived)! All

@@ -5,6 +5,11 @@ author: Scala IDE team
 disqus: false
 ---
 
+![Beware]({{ site.baseurl }}/resources/images/arrow.png) **The
+ contents of this blog post have been superseded by the most
+ recent nightly. Go [there]({{ site.baseurl}}/blog/scala-installations.html)
+ for the latest documentation.**
+
 We are thinking of uniting the development of the Scala IDE to
 just a scala 2.11 branch, while still supporting 2.10
 projects. For that, we need rock-solid support for 2.10, and
