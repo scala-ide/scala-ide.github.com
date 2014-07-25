@@ -152,7 +152,7 @@ If we detect a 2.10 scala library, you'll see the following
 error marker appear in the Problems view:
 
 <a href="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/error-marker.png">
-<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/error-markerpng"
+<img src="{{ site.baseurl }}/resources/images/xsource-screenshots/installations/error-marker.png"
  width="100%" alt="The error marker for a misconfigured 2.10 project"/>
 </a>
 
