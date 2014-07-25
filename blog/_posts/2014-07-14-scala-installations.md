@@ -400,7 +400,7 @@ mode, that <a href="https://github.com/typesafehub/sbteclipse">sbteclipse</a> ge
 want sbteclipse to generate an explicit classpath, preserving
 the scala version sbt would have chosen for you, you can set the option
 `withBundledScalaContainers` to false. More details on using it
-<a href="../Xsource-compatibility.html#using-sbteclipse">there</a>.</div>
+<a href="{{ site.baseurl }}/blog/Xsource-compatibility.html#using-sbteclipse">there</a>.</div>
 
 <div class="footdef"><sup><a id="fn.9" class="footnum" href="#fnr.9">9</a></sup> If you need to know, the issue here is on refreshing the
 Java Build Path window, rather than modifying both classpath
