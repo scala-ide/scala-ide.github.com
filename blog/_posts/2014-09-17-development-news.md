@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Development news : Towards Luna-M4 !
+title: Development news - Towards Luna-M4 !
 author: Scala IDE Team
 disqus: false
 ---
