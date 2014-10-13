@@ -14,6 +14,18 @@
             document.getElementById(div_id).innerHTML = video
           }
 
+		/**
+		* Function that tracks a click on an outbound link in Google Analytics.
+		* This function takes a valid URL string as an argument, and uses that URL string
+		* as the event label.
+		*/
+		var trackDownloadLink = function(url) {
+		   ga('send', 'event', 'download', 'click', url, {'hitCallback':
+		     function () {
+		     document.location = url;
+		     }
+		   });
+		}
 	</script>
 </head>
 <body>
