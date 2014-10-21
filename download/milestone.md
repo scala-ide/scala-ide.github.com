@@ -1,30 +1,31 @@
 ---
 layout: milestone-download
-title: Milestones
+title: Milestones & Release Candidates
 ---
 
-Here you can find the update sites for milestone releases. Use this stream if you want to stay
+Here you can find the update sites for milestone or release candidates. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 4.0.0 Milestone 3
+## Scala IDE 4.0.0 Release Candidate 1!
 
-The third milestone has many improvements and features, including experimental support for multiple versions of Scala in the same Eclipse workspace and a [New File Wizard][filewiz] interface. Check the [release notes](/blog/release-notes-4.0.0-M3.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
+The first release candidate for Scala IDE 4.0.0 has many improvements and features, including support for multiple versions of Scala in the same Eclipse workspace and a ScalaDoc support. Check the [release notes](/blog/release-notes-4.0.0-RC1.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
 
-### For Scala 2.11.2
+## Scala IDE download
 
-{% assign divId = 'download-lithium-211-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala211/dev' %}
+This bundle contains the Scala IDE for Eclipse and it comes pre-configured
+for optimal performance. No need to configure update sites, and *Check for updates* will keep your
+development environment up to date.
 
-{% include download-box.txt %}
+Whether you are a seasoned Scala developer or just picking up the language, this is the fastest way to get productive.
 
-#### Requirements
-{% include requirements-juno-kepler.txt %}
+{% include sdk-download-box-2-11-40-rc1.txt %}
 
-## [Eclipse Luna][luna]
 
-This is a version of the Scala IDE that works with Eclipse Luna (version 4.4).
+### Update sites
 
-### For Scala 2.11.2
+If you prefer to use an existing Eclipse installation, you can use the following update sites to upgrade or install the Scala IDE plugin.
+
+#### For Eclipse Luna (version 4.4)
 
 {% assign divId = 'download-lithium-211-luna' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e44/scala211/dev' %}
@@ -32,12 +33,22 @@ This is a version of the Scala IDE that works with Eclipse Luna (version 4.4).
 {% include download-box.txt %}
 
 
+#### For Eclipse Kepler (version 4.3)
+
+{% assign divId = 'download-lithium-211-kepler' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala211/dev' %}
+
+{% include download-box.txt %}
+
+#### Requirements
+{% include requirements-juno-kepler.txt %}
+
+
 #### Also included:
 
 * Scala 2.11.2
-* Sbt 0.13.2
+* Sbt 0.13.6
 * Scalariform 0.1.5
 * Scala Refactoring 0.6.2
 
 [luna]: https://projects.eclipse.org/releases/luna
-[filewiz]: /docs/4.0.x/features/wizards/index.html

@@ -6,10 +6,7 @@ disqus: false
 ---
 
 
-After almost one and a half years of development, the next major release of the Scala IDE for Eclipse is almost out! This is the biggest release so far, packed with new features and improvements, so make sure to try it out right away:
-
-Scala IDE download:
-Eclipse update site:
+After almost one and a half years of development, the next major release of the Scala IDE for Eclipse is almost out! This is the biggest release so far, packed with new features and improvements, so make sure to try it out right away by checking out our [download page](/download/milestone.html).
 
 This is the first release candidate, and if no blockers are found during the next week or so, it will become the final release. We'll probably try to synchronize the release with the upcoming Scala 2.11.4 release.
 
@@ -39,7 +36,7 @@ In addition to that, unused compilers are shutdown after a configurable amount o
 
 ### Editor improvements
 
-Many changes went into making the Scala editor more convenient. From better handling of spaces and TABs, to [smarter code completion][code-completion] patterns, auto-indentation and template hanlding or [indentation guides][indent-guides].
+Many changes went into making the Scala editor more convenient. From better handling of spaces and TABs, to [smarter code completion][code-completion] patterns, auto-indentation and template handling or [indentation guides][indent-guides].
 
 Hovers have been revamped, and now you can change the font and rendering of anything displayed in the Scala hover window using CSS or the usual preferences window. Debug hovers now let you inspect a variable when debugging, just like the *Variables* view does.
 
@@ -48,6 +45,11 @@ A few more [quickfixes][quickfixes], like *Implement Abstract Member*, *Create M
 ### Scala color theme
 
 The Scala IDE packaged download now comes with better defaults (UTF-8, auto-refresh, building in the background), and with a special edition of [Solarized Light][color-theme], better suited for Scala code. Make sure to try it out by selecting it from **General -> Appearance -> Eclipse Color Theme**.
+
+<a href="{{ site.baseurl }}/resources/images/blog/scala-color-theme.png">
+    <img src="{{ site.baseurl }}/resources/images/blog/scala-color-theme.png" align="center" />
+</a>
+
 
 ## Stats
 
@@ -85,7 +87,7 @@ Tickets fixed:
 
 The large number of unassigned tickets can be explained by having tickets that stand for bugs in upstream projects, like the presentation compiler or scala-refactoring. In other cases the person that fixed the bug stopped watching the Assembla repository, so we couldn't assign the ticket to them anymore (thanks Assembla!). In other cases we simply couldn't identify who fixed the problem: typically an old bug that was fixed as a side-effect of fixing another issue. 
 
-Lastly, we looked at the distribution of the day of the week when a ticket was fixed or created. It seems that Monday is the least productive day (not counting weeekends), while tickets are created rather evenly throughout the week, with a signifficant drop during weekends.
+Lastly, we looked at the distribution of the day of the week when a ticket was fixed or created. It seems that Monday is the least productive day (not counting weeekends), while tickets are created rather evenly throughout the week, with a significant drop during weekends.
 
 <a href="{{ site.baseurl }}/resources/images/blog/tickets-closed-created.png">
 	<img src="{{ site.baseurl }}/resources/images/blog/tickets-closed-created.png" width="100%"/>
