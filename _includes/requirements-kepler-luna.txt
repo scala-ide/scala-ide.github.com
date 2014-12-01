@@ -1,0 +1,9 @@
+* [JDK 6][jdk6], [JDK 7][jdk7] or [JDK 8][jdk8].
+* [Eclipse 4.3 (Kepler)][eclipse-kepler] or [Eclipse 4.4 (Luna)][eclipse-luna]. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages.
+
+[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
+[jdk7]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-se-jdk-7-download-432154.html
+[jdk8]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[eclipse-package-to-use]: http://scala-ide.org/docs/current-user-doc/faq/index.html#what-eclipse-package-should-i-use
+[eclipse-kepler]: http://www.eclipse.org/kepler/
+[eclipse-luna]: http://www.eclipse.org/luna/
