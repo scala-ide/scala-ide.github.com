@@ -6,9 +6,9 @@ title: Milestones & Release Candidates
 Here you can find the update sites for milestone or release candidates. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 4.0.0 Release Candidate 2!
+## Scala IDE 4.0.0 Release Candidate 3!
 
-The second release candidate for Scala IDE 4.0.0 has many improvements and features, including support for multiple versions of Scala in the same Eclipse workspace and a ScalaDoc support. Check the [release notes](/blog/release-notes-4.0.0-RC1.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
+The third release candidate for Scala IDE 4.0.0 has many improvements and features, including support for multiple versions of Scala in the same Eclipse workspace and a ScalaDoc support. Check the [release notes](/blog/release-notes-4.0.0-RC1.html) for additional information or the [changelog](/docs/changelog.html) for all the gory details!
 
 ## Scala IDE download
 
@@ -41,7 +41,7 @@ If you prefer to use an existing Eclipse installation, you can use the following
 {% include download-box.txt %}
 
 #### Requirements
-{% include requirements-juno-kepler.txt %}
+{% include requirements-kepler-luna.txt %}
 
 
 #### Also included:
