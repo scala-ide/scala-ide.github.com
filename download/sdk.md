@@ -11,7 +11,7 @@ Whether you are a seasoned Scala developer, or just picking up the language, thi
 
 {% include sdk-download-content.txt %}
 
-## Try out [4.0 Release Candidate 3]({{ site.baseurl }}/download/milestone.html)!
+## Try out [4.0 Release Candidate 4]({{ site.baseurl }}/download/milestone.html)!
 
   ... or go for the tried and true.
 
