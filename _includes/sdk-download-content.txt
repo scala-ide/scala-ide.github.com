@@ -2,17 +2,17 @@
   <div class="span5">
     <h2>Content</h2>
     <ul>
-      <li>Eclipse 4.3.1 (Kepler)</li>
-      <li>Scala IDE 3.0.3/3.0.4</li>
-      <li>Sbt 0.13.2</li>
-      <li>Scala Worksheet 0.2.3</li>
-      <li>Play Framework support 0.4.3 (Scala 2.10 only)</li>
+      <li>Eclipse 4.4.1 (Luna)</li>
+      <li>Scala IDE 4.0.0</li>
+      <li>Sbt 0.13.6</li>
+      <li>Scala Worksheet 0.2.6</li>
+      <li>Play Framework support 0.4.6</li>
       <li>m2eclipse-scala Maven connector 0.4.3</li>
       <li>access to the full Scala IDE ecosystem</li>
     </ul>
   </div>
   <div class="span6 offset1">
-  <a href="{{ site.baseurl }}/resources/images/sdk-3.0.0.png"><img style="width: 100%;" src ="{{ site.baseurl }}/resources/images/sdk-3.0.0.png"></a>
+  <a href="{{ site.baseurl }}/resources/images/sdk-4.0.0.png"><img style="width: 100%;" src ="{{ site.baseurl }}/resources/images/sdk-4.0.0.png"></a>
   </div>
 </div>
 
