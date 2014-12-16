@@ -6,7 +6,7 @@ disqus: false
 ---
 
 
-After almost one and a half years of development, the next major release of the Scala IDE for Eclipse is almost out! This is the biggest release so far, packed with new features and improvements, so make sure to try it out right away by checking out our [download page](/download/milestone.html).
+After almost one and a half years of development, the next major release of the Scala IDE for Eclipse is out! This is the biggest release so far, packed with new features and improvements, so make sure to try it out right away by checking out our [download page](/download/current.html).
 
 ## New and noteworthy
 
