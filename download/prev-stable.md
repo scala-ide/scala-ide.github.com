@@ -3,6 +3,28 @@ layout: current-download
 title: Older releases of the Scala IDE for Eclipse
 ---
 
+# 3.0.3 / 3.0.4 Release
+
+The 3.0.3 release is the third maintenance release of the 3.0 version. It is available
+for Scala 2.10, on Eclipse 3.8/4.2/4.3 (Juno & Kepler). The 3.0.4 release provides the same features as 3.0.3, but the code was updated to support Scala
+2.11. See the [Changelog][clog] for a complete list of changes.
+
+### Eclipse 3.8-4.3 (Juno and Kepler)
+
+#### For Scala 2.11.2
+
+{% assign divId = 'download-211-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala211/stable' %}
+
+{% include download-box.txt %}
+
+#### For Scala 2.10.4
+
+{% assign divId = 'download-210-juno' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/helium/e38/scala210/stable' %}
+
+{% include download-box.txt %}
+
 # 3.0.1 Release
 
 The 3.0.1 release is the first maintenance release of the 3.0 version, and is the last one
@@ -64,7 +86,7 @@ Scala 2.10, we recommend you to use the [3.0.0 release](#300_release)
 
 * Eclipse, including the JDT. "Eclipse Classic" is sufficient, but [any Eclipse package can be used][eclipse-package-to-use].
 
-        * Both [Eclipse 3.6 (Helios)][eclipse-helios] and [Eclipse 3.7 (Indigo)][eclipse-indigo] are supported.
+* Both [Eclipse 3.6 (Helios)][eclipse-helios] and [Eclipse 3.7 (Indigo)][eclipse-indigo] are supported.
 
 [jdk5]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase5-419410.html
 [jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
