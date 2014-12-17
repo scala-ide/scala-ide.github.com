@@ -111,7 +111,7 @@ Commits:
      4  Jerzy Müller
      4  Grzegorz Kossakowski
      4  Jedd Haberstro
-     4  Luegg
+     4  Lukas Wegmann
      4  VladimirNik
      3  Trond Bjerkestrand
      2  Alden Torres
