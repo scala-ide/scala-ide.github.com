@@ -25,7 +25,6 @@ The simplest way to get started is to download a pre-configured version of Eclip
 
 {% include download-box.txt %}
 
-<!--
 ### Eclipse 3.8-4.3 (Juno and Kepler)
 
 #### For Scala 2.11.4
@@ -44,7 +43,6 @@ Also included:
 
 ### Requirements
 {% include requirements-juno-kepler.txt %}
--->
 
 ### [Older versions](prev-stable.html)
 
