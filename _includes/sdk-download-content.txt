@@ -7,6 +7,7 @@
       <li>Sbt 0.13.6</li>
       <li>Scala Worksheet 0.2.6</li>
       <li>Play Framework support 0.4.6</li>
+      <li>ScalaTest support 2.9.3</li>
       <li>m2eclipse-scala Maven connector 0.4.3</li>
       <li>access to the full Scala IDE ecosystem</li>
     </ul>
