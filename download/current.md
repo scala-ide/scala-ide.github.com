@@ -18,7 +18,7 @@ The simplest way to get started is to download a pre-configured version of Eclip
 
 ### Eclipse 4.4 (Luna)
 
-#### For Scala 2.11.5
+#### For Scala 2.11.6
 
 {% assign divId = 'download-210-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e44/scala211/stable' %}
@@ -27,7 +27,7 @@ The simplest way to get started is to download a pre-configured version of Eclip
 
 ### Eclipse 3.8-4.3 (Juno and Kepler)
 
-#### For Scala 2.11.5
+#### For Scala 2.11.6
 
 {% assign divId = 'download-211-juno' %}
 {% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e38/scala211/stable' %}
@@ -36,7 +36,7 @@ The simplest way to get started is to download a pre-configured version of Eclip
 
 Also included:
 
-* Scala 2.11.5
+* Scala 2.11.6
 * Sbt 0.13.6
 * Scalariform 0.1.6
 * Scala Refactoring 0.6.2
