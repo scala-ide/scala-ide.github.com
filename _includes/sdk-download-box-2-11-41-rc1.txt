@@ -1,40 +1,11 @@
 <div class="download-section">
 
-<div id="download-link-2-10" class="download-link">
+<div id="download-link-2-11" class="download-link">
 <a href="#" id="downloadIDE211">
     Download IDE
     <small></small>
 </a>
 </div>
-
-<script type="text/javascript">
-var urls_211 = {
-  prefix: "http://downloads.typesafe.com/scalaide-pack/4.0.0-rc4-luna-211-20141210/scala-SDK-4.0.0-rc4-2.11",
-};
-
-urls_211.win32  = urls_211.prefix + "-win32.win32.x86.zip"
-urls_211.win64  = urls_211.prefix + "-win32.win32.x86_64.zip"
-urls_211.mac32  = urls_211.prefix + "-macosx.cocoa.x86.zip"
-urls_211.mac64  = urls_211.prefix + "-macosx.cocoa.x86_64.zip"
-urls_211.linux32= urls_211.prefix + "-linux.gtk.x86.tar.gz"
-urls_211.linux64= urls_211.prefix + "-linux.gtk.x86_64.tar.gz"
-
-var osTuple = [];
-if (navigator.appVersion.indexOf("Win")!=-1) osTuple =          ["Windows - 64 bit" , urls_211.win64];
-else if (navigator.appVersion.indexOf("Mac")!=-1) osTuple =     ["Mac - 64 bit"     , urls_211.mac64];
-else if (navigator.appVersion.indexOf("X11")!=-1) osTuple =     ["Linux - 64 bit"   , urls_211.linux64];
-else if (navigator.appVersion.indexOf("Linux")!=-1) osTuple =   ["Linux - 64 bit"   , urls_211.linux64];
-else $("#downloadIDE211").hide();
-$("#downloadIDE211").attr("href", osTuple[1]).find("small").html(osTuple[0]);
-$("#downloadIDE211").attr("onclick", "trackDownloadLink('" + osTuple[1] + "')");
-
-$("#win64_211").attr("href", urls_211.win64);
-$("#win32_211").attr("href", urls_211.win32);
-$("#mac64_211").attr("href", urls_211.mac64);
-$("#mac32_211").attr("href", urls_211.mac32);
-$("#linux64_211").attr("href", urls_211.linux64);
-$("#linux32_211").attr("href", urls_211.linux32);
-</script>
 
 <div class="row">
   <div class="span4 offset1">
@@ -62,5 +33,34 @@ $("#linux32_211").attr("href", urls_211.linux32);
     <a id="linux32_211" onclick="trackDownloadLink(urls_211.linux32)" href="#">Linux GTK 32 bit</a>
   </div>
 </div>
+
+<script type="text/javascript">
+var urls_211 = {
+  prefix: "http://downloads.typesafe.com/scalaide-pack/4.1.0-rc1-luna-211-20150511/scala-SDK-4.1.0-rc1-2.11",
+};
+
+urls_211.win32  = urls_211.prefix + "-win32.win32.x86.zip"
+urls_211.win64  = urls_211.prefix + "-win32.win32.x86_64.zip"
+urls_211.mac32  = urls_211.prefix + "-macosx.cocoa.x86.zip"
+urls_211.mac64  = urls_211.prefix + "-macosx.cocoa.x86_64.zip"
+urls_211.linux32= urls_211.prefix + "-linux.gtk.x86.tar.gz"
+urls_211.linux64= urls_211.prefix + "-linux.gtk.x86_64.tar.gz"
+
+var osTuple = [];
+if (navigator.appVersion.indexOf("Win")!=-1) osTuple =          ["Windows - 64 bit" , urls_211.win64];
+else if (navigator.appVersion.indexOf("Mac")!=-1) osTuple =     ["Mac - 64 bit"     , urls_211.mac64];
+else if (navigator.appVersion.indexOf("X11")!=-1) osTuple =     ["Linux - 64 bit"   , urls_211.linux64];
+else if (navigator.appVersion.indexOf("Linux")!=-1) osTuple =   ["Linux - 64 bit"   , urls_211.linux64];
+else $("#downloadIDE211").hide();
+$("#downloadIDE211").attr("href", osTuple[1]).find("small").html(osTuple[0]);
+$("#downloadIDE211").attr("onclick", "trackDownloadLink('" + osTuple[1] + "')");
+
+$("#win64_211").attr("href", urls_211.win64);
+$("#win32_211").attr("href", urls_211.win32);
+$("#mac64_211").attr("href", urls_211.mac64);
+$("#mac32_211").attr("href", urls_211.mac32);
+$("#linux64_211").attr("href", urls_211.linux64);
+$("#linux32_211").attr("href", urls_211.linux32);
+</script>
 
 </div>
