@@ -19,9 +19,8 @@ and is based on *Eclipse 4.4 (Luna)*. See [Release Notes][relnotes] and the [Cha
 ### For Scala 2.11.6
 {% include sdk-download-box-2-11.txt %}
 
-
 ### Requirements
-{% include jdk-requirements-kepler.txt %}
+{% include jdk-requirements-luna.txt %}
 
 ## Get Started
 
