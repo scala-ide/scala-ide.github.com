@@ -94,6 +94,7 @@ Scala 2.10, we recommend you to use the [3.0.0 release](#300_release)
 [eclipse-package-to-use]: http://scala-ide.org/docs/current-user-doc/faq/index.html#what-eclipse-package-should-i-use
 [eclipse-helios]: http://www.eclipse.org/downloads/packages/release/helios/sr2
 [eclipse-indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
+[clog]: http://scala-ide.org/docs/changelog.html
 
 #### For Scala 2.8.x
 

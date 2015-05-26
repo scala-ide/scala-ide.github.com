@@ -33,7 +33,7 @@ Also included:
 * Scala Refactoring 0.6.2
 
 ### Requirements
-{% include requirements-juno-kepler.txt %}
+{% include requirements-stable.txt %}
 
 ### [Older versions](prev-stable.html)
 
