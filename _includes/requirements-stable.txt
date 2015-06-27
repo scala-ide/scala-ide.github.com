@@ -1,5 +1,5 @@
 * [JDK 6][jdk6], [JDK 7][jdk7], or [JDK 8][jdk8] can be used.
-* [Eclipse 4.2 (Juno)][eclipse-juno]. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages.
+* Eclipse 4.4 or Eclipse 4.5. Read [here][eclipse-package-to-use] if you have questions about the supported Eclipse packages.
 
 [jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
 [jdk7]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-se-jdk-7-download-432154.html

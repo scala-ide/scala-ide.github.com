@@ -18,11 +18,11 @@ title: Download the Latest Nightly Build
 
 ### Requirements
 
-* Scala IDE Lithium works with [Eclipse 4.4][luna], and [Eclipse 4.2][juno],[4.3][kepler]. Because of binary incompatibilities between these releases, Juno and Kepler builds use a different update site.
+* Scala IDE Lithium works with [Eclipse 4.5][mars], [Eclipse 4.4][luna] and [Eclipse 4.2][juno],[4.3][kepler]. Because of binary incompatibilities between these releases, Juno and Kepler builds use a different update site.
 
-## [Eclipse Luna][luna]
+## Eclipse Luna (4.4) and Eclipse Mars (4.5)
 
-This is a version of the Scala IDE that works with the most recent version of the Eclipse IDE (code-named Luna).
+This is a version of the Scala IDE that works with the most recent versions of Eclipse.
 
 #### For Scala 2.11.x
 
@@ -44,4 +44,5 @@ This is a version of the Scala IDE that works with the most recent version of th
 
 [juno]: http://eclipse.org/juno/
 [kepler]: http://eclipse.org/kepler/
-[luna]: https://projects.eclipse.org/releases/luna
+[luna]: https://www.eclipse.org/luna/
+[mars]: https://www.eclipse.org/mars/

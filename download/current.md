@@ -16,7 +16,7 @@ This is the most recent release of Scala IDE for Eclipse. See the [release notes
 
 The simplest way to get started is to download a pre-configured version of Eclipse by going to the [download page][sdkpage]. Here we provide update sites for those who want to continue using their existing Eclipse installation and add the Scala plugin.
 
-### Eclipse 4.4 (Luna)
+### Eclipse 4.4 (Luna) and Eclipse 4.5 (Mars)
 
 #### For Scala 2.11.6
 
