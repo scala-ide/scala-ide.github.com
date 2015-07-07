@@ -4,6 +4,7 @@
     <ul>
       <li>Eclipse 4.4.2 (Luna)</li>
       <li>Scala IDE 4.1.0</li>
+      <li>Scala 2.11.7</li>
       <li>Sbt 0.13.6</li>
       <li>Scala Worksheet 0.3.0</li>
       <li>Play Framework support 0.4.6</li>

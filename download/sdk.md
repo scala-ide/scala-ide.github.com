@@ -16,7 +16,7 @@ Whether you are a seasoned Scala developer, or just picking up the language, thi
 This release is available for *Scala 2.11* (with support for Scala 2.10 projects in the same workspace)
 and is based on *Eclipse 4.4 (Luna)*. See [Release Notes][relnotes] and the [Changelog][clog] for a detailed list of changes.
 
-### For Scala 2.11.6
+### For Scala 2.11.7
 {% include sdk-download-box-2-11.txt %}
 
 ### Requirements
