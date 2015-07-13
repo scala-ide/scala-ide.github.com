@@ -3,6 +3,14 @@ layout: current-download
 title: Older releases of the Scala IDE for Eclipse
 ---
 
+# 4.1.0 Release for Scala 2.11.6
+
+This release is only available for Eclipse 4.x and can be retrieved as [zipfile][410_2116_zip].
+
+# 4.0.0 Release for Scala 2.11.6
+
+This release is only available for Eclipse 4.x and can be retrieved as [zipfile][400_2116_zip].
+
 # 3.0.3 / 3.0.4 Release
 
 The 3.0.3 release is the third maintenance release of the 3.0 version. It is available
@@ -95,6 +103,8 @@ Scala 2.10, we recommend you to use the [3.0.0 release](#300_release)
 [eclipse-helios]: http://www.eclipse.org/downloads/packages/release/helios/sr2
 [eclipse-indigo]: http://www.eclipse.org/downloads/packages/release/indigo/sr2
 [clog]: http://scala-ide.org/docs/changelog.html
+[400_2116_zip]: http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site_assembly-20150305-1905.zip
+[410_2116_zip]: http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site_assembly-20150525-1654.zip
 
 #### For Scala 2.8.x
 
