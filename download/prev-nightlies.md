@@ -3,6 +3,16 @@ layout: nightly-download
 title: Download the Older Nightly Build
 ---
 
+# Scala IDE Version 4.0.x, Nightly
+
+#### For Eclipse Kepler (4.3) and Scala 2.11.x
+
+{% assign divId = 'download-40-211' %}
+{% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-4.0.x-211x' %}
+{% assign zipUrl = 'http://download.scala-ide.org/nightly-scala-ide-4.0.x-211x.zip' %}
+
+{% include download-box.txt %}
+
 # Scala IDE Version 3.0.x, Nightly
 The Scala IDE 3.0.x build contains fixes to be included in future maintenance releases of the 3.0 release.
 
