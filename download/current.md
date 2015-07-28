@@ -9,7 +9,7 @@ If you are new to Eclipse or Scala, watch the *Getting Started with the Scala ID
 
 If you already know Eclipse and you want to find out more about features available in the Scala IDE, make sure not to miss the [Scala IDE Features Overview]({{ site.baseurl }}/index.html), on the front page. A complete list of features is available in the expandable menu on the [front page]({{ site.baseurl }}/index.html#features).
 
-## 4.1.0 Release
+## 4.1.1 Release
 
 This is the most recent release of Scala IDE for Eclipse. See the [release notes][relnotes] or the complete
 [Changelog][clog] for a complete list of changes.
@@ -38,5 +38,5 @@ Also included:
 ### [Older versions](prev-stable.html)
 
 [clog]: /docs/changelog.html
-[relnotes]: /blog/release-notes-4.1.0-vfinal.html
+[relnotes]: /blog/release-notes-4.1.1-vfinal.html
 [sdkpage]:/download/sdk.html
