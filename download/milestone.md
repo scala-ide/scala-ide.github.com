@@ -35,7 +35,9 @@ If you prefer to use an existing Eclipse installation, you can use the following
 * Scala 2.11.7
 * Sbt 0.13.8
 * Scalariform 0.1.5
-* Scala Refactoring 0.6.3
+* Scala Refactoring 0.7
+* Scala Worksheet 0.4.0
+* Play Framework support 0.5.0
 
 # No milestones for Scala IDE 5.0 yet
 
