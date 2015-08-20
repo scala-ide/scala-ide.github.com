@@ -29,6 +29,8 @@ For the beginning there is the "Async Stack View" introduced. It allows you to j
 
 A new major version of Scala is coming and Scala IDE should of course be able to handle it well. If you want to check out the latest [2.12.0-M1][s212] you can do so. The only thing you have to do in order to make Scala IDE happy is to add it as a Scala installation to your workspace. Read [this article][inst] if you don't know how to add such a Scala installation.
 
+For the full list of changes, see the [changelog][cl].
+
 
 ## Stats
 
@@ -66,8 +68,8 @@ The following statistics contains the accumulated commits of the following repos
 <pre>
 Commits:
    185  Simon Schäfer
-    26  Iulian Dragos
     34  Matthias Langer
+    26  Iulian Dragos
     17  Jerzy Müller
     12  Wieslaw Popielarski
      2  Mirco Dotta
@@ -78,3 +80,4 @@ Commits:
 [s212]: http://www.scala-lang.org/news/2.12.0-M1
 [inst]: http://scala-ide.org/blog/scala-installations.html#BYOS
 [talk]: https://www.parleys.com/tutorial/rethinking-debugger
+[cl]: http://scala-ide.org/docs/changelog.html
