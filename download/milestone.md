@@ -23,7 +23,7 @@ If you prefer to use an existing Eclipse installation, you can use the following
 #### For Eclipse Luna (version 4.4)
 
 {% assign divId = 'download-lithium-211-luna' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e44/scala211/dev' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/next/lithium/e44/scala211/dev' %}
 
 {% include download-box.txt %}
 
