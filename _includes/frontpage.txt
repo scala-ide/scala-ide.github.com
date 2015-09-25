@@ -8,27 +8,27 @@
             <h2>Now Available!</h2>
           </div>
           <div class="release-text">
-		    <p>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.</p>
-		    <p>Now with a shiny Scala debugger, semantic highlight, more reliable JUnit test finder, an ecosystem of related plugins, and <a href="{{ site.baseurl }}/docs/current-user-doc/features.html">much more</a>.</p>
-	        <a href="{{ site.baseurl }}/download/sdk.html" class="btn large success"><b>Download IDE</b></a><div class="flat large">or use the<h3><a href="{{ site.baseurl }}/download/current.html"><b>update sites</b></a></h3></div>
-	      </div>
-	    </div>
-	    <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
-	  </div>
+        <p>Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.</p>
+        <p>Now with a shiny Scala debugger, semantic highlight, more reliable JUnit test finder, an ecosystem of related plugins, and <a href="{{ site.baseurl }}/docs/current-user-doc/features.html">much more</a>.</p>
+          <a href="{{ site.baseurl }}/download/sdk.html" class="btn large success"><b>Download IDE</b></a><div class="flat large">or use the<h3><a href="{{ site.baseurl }}/download/current.html"><b>update sites</b></a></h3></div>
+        </div>
+      </div>
+      <span class="arrow"><img src="{{ site.baseurl }}/resources/images/arrow.png" /></span>
+    </div>
       <div class="span8">
          <div id="overview_video" class="website_video">
          <img class="website_video" src="{{ site.baseurl }}/resources/images/splash-overview-video.png" onclick="startVideo('overview_video', 'hmzgEUBwgSI', 'website_video')"/>
          </div>
-		  </div>
-		</div>
+      </div>
+    </div>
 <!--div>
-		<div class="rounded-corner-box" style="min-height: 0px; float: left; padding: 10px; margin-top: 10px; width: 778px; background-color: rgba(0,0,0,0.5);">
-			<span class="news-box-text">
-				Or... Walk on the wild side. <span class="emphasize"><a href="{{ site.baseurl }}/download/milestone.html">Try version 4.2.0 RC3!</a></span>
-			</span>
-		</div>
-		<span class="news-arrow"><img src="{{ site.baseurl }}/resources/images/news-arrow.png"></span>
-		<a href="{{ site.baseurl }}/download/milestone.html"><img style="float: right; margin-top: 5px; margin-bottom: -15px; margin-right: 35px;" src="{{ site.baseurl }}/resources/images/tools.png"></a>
+    <div class="rounded-corner-box" style="min-height: 0px; float: left; padding: 10px; margin-top: 10px; width: 778px; background-color: rgba(0,0,0,0.5);">
+      <span class="news-box-text">
+        Or... Walk on the wild side. <span class="emphasize"><a href="{{ site.baseurl }}/download/milestone.html">Try version 4.2.0 RC3!</a></span>
+      </span>
+    </div>
+    <span class="news-arrow"><img src="{{ site.baseurl }}/resources/images/news-arrow.png"></span>
+    <a href="{{ site.baseurl }}/download/milestone.html"><img style="float: right; margin-top: 5px; margin-bottom: -15px; margin-right: 35px;" src="{{ site.baseurl }}/resources/images/tools.png"></a>
 </div-->
 </div>
 </div>
@@ -37,65 +37,65 @@
   <div class="container">
     <div class="row">
       <div class="span11">
-	    <h1 id="features">Features</h1>
-	    <div class="row">
-	      <div class="span11">
-	        <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-java-scala.png" align="left"></div>
-	        <h4>Support for Mixed Scala/Java Projects</h4>
-	        Support for mixed Scala/Java projects and any combination of Scala/Java project dependencies, allowing straightforward references from Scala to Java and vice versa.
-	      </div>
-	    </div>
-	    <h2>Editing</h2>
-	    <div class="row">
-	      <div class="span6">
-	        <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/code-completion.html"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></a></div>
-	        <h4>Code Completion</h4>
-	        Now with implicits resolved on the fly and all available methods in a list to choose from.
-	      </div>
-	      <div class="span5">
+      <h1 id="features">Features</h1>
+      <div class="row">
+        <div class="span11">
+          <div class="frame"><img src ="{{ site.baseurl }}/resources/images/thumbnail-java-scala.png" align="left"></div>
+          <h4>Support for Mixed Scala/Java Projects</h4>
+          Support for mixed Scala/Java projects and any combination of Scala/Java project dependencies, allowing straightforward references from Scala to Java and vice versa.
+        </div>
+      </div>
+      <h2>Editing</h2>
+      <div class="row">
+        <div class="span6">
+          <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/code-completion.html"><img src ="{{ site.baseurl }}/resources/images/codecompletion.jpg" align="left"></a></div>
+          <h4>Code Completion</h4>
+          Now with implicits resolved on the fly and all available methods in a list to choose from.
+        </div>
+        <div class="span5">
             <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/semantic-highlighting/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-semantic.png" align="left"></a></div>
-	        <h4>Semantic Highlight</h4>
-	        Identifiers are colored based on their meaning.
-	      </div>
-	    </div>
-	    <div class="row">
-	      <div class="span6">
-	        <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/navigating/index"><img src ="{{ site.baseurl }}/resources/images/definitionlinking.jpg" align="left"></a></div>
-	        <h4>Definition/Implicit Hyperlinking</h4>
-	        Hold down <span class="keystroke">Ctrl/Cmd</span> and hover over a member to bring up a link, and click to navigate through the source.
-	      </div>
-	      <div class="span5">
-	        <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/errors-as-you-type.html"><img src ="{{ site.baseurl }}/resources/images/errormarkers.jpg" align="left"></a></div>
-	        <h4>Error Markers</h4>
-	        Catch compilation errors as you type.
-	      </div>
-	    </div>
-	    <h2>Debugging</h2>
-	    <div class="row">
-	      <div class="span11">
-	        <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/scaladebugger/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-debugger.png" align="left"></a></div>
-	        <h4>Scala Debugger</h4>
-	        Stepping through closures and Scala-aware display of debugging information.
-	      </div>
-	    </div>
+          <h4>Semantic Highlight</h4>
+          Identifiers are colored based on their meaning.
+        </div>
+      </div>
+      <div class="row">
+        <div class="span6">
+          <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/navigating/index"><img src ="{{ site.baseurl }}/resources/images/definitionlinking.jpg" align="left"></a></div>
+          <h4>Definition/Implicit Hyperlinking</h4>
+          Hold down <span class="keystroke">Ctrl/Cmd</span> and hover over a member to bring up a link, and click to navigate through the source.
+        </div>
+        <div class="span5">
+          <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/typingviewing/errors-as-you-type.html"><img src ="{{ site.baseurl }}/resources/images/errormarkers.jpg" align="left"></a></div>
+          <h4>Error Markers</h4>
+          Catch compilation errors as you type.
+        </div>
+      </div>
+      <h2>Debugging</h2>
+      <div class="row">
+        <div class="span11">
+          <div class="frame"><a href="{{ site.baseurl }}/docs/current-user-doc/features/scaladebugger/index.html"><img src ="{{ site.baseurl }}/resources/images/thumbnail-debugger.png" align="left"></a></div>
+          <h4>Scala Debugger</h4>
+          Stepping through closures and Scala-aware display of debugging information.
+        </div>
+      </div>
 
-	    <div class="row">
-	      <div class="span11">
-			{% include more-features.txt %}
-	      </div>
-	    </div>
+      <div class="row">
+        <div class="span11">
+      {% include more-features.txt %}
+        </div>
+      </div>
 
-	  </div>
+    </div>
       <div class="span5">
-	    <h1>Twitter</h1>
-	    <p class="before-twitter">Latest <a href="https://twitter.com/#!/scalaide">@ScalaIDE</a> buzz:</p>
-			<div id="tweets" class="tweets">
+      <h1>Twitter</h1>
+      <p class="before-twitter">Latest <a href="https://twitter.com/#!/scalaide">@ScalaIDE</a> buzz:</p>
+      <div id="tweets" class="tweets">
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ScalaIDE" data-widget-id="471309554727133186">Tweets by @ScalaIDE</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
-			</div>
-	  </div>
+      </div>
+    </div>
     </div>
   </div>
 </div>
