@@ -39,6 +39,12 @@ The 4.1 release added a new feature: [Scopes Building][scopes]. The purpose of t
 
 Beside from some new features, especially the Refactoring support of Scala IDE got better in this release. Moving files around in your project or renaming classes and methods is now safer than ever. If you want to know more about which concrete bugs have been fixed, have a look at the [changelog][cl]. Most of the bug fixes were done by [Matthias Langer][mlangc], thank you Matthias!
 
+Together with this Scala IDE release, there is also a new version of scala-refactoring released, which can be consumed as a standalone library. The library is available for 2.10 and 2.11 under the following artifact ID:
+
+<pre>
+"org.scala-refactoring" %% "org.scala-refactoring.library" % "0.7.0"
+</pre>
+
 ## Stats
 
 As for every release, we'll take a look at some statistics from our bug database.
