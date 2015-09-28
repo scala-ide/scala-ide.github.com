@@ -27,8 +27,6 @@ For the beginning there is the "Async Stack View" introduced. It allows you to j
 
 A new major version of Scala is coming and Scala IDE should of course be able to handle it well. If you want to check out the latest [2.12.0-M2][s212] you can do so. The only thing you have to do in order to make Scala IDE happy is to add it as a Scala installation to your workspace. Read [this article][inst] if you don't know how to add such a Scala installation.
 
-For the full list of changes, see the [changelog][cl].
-
 ### Configurable Scopes Building
 
 The 4.1 release added a new feature: [Scopes Building][scopes]. The purpose of this feature was to make building of your projects faster by splitting them up in the three different scopes `main`, `tests` and `macros`. This feature is hardwired to source folders, whose names had to match exactly the name of one of the scopes. With this release we lifted this requirement. It is now possible to assign every source folder any build scope you want. This can be done in the project configurations:
@@ -44,6 +42,8 @@ Together with this Scala IDE release, there is also a new version of scala-refac
 <pre>
 "org.scala-refactoring" %% "org.scala-refactoring.library" % "0.7.0"
 </pre>
+
+For the full list of changes, see the [changelog][cl].
 
 ## Stats
 
