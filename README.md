@@ -40,11 +40,20 @@ object Stats extends App {
 
   val sortedNames = names.toList.sortBy(-_._2)
 
-  println("Tickets fixed:")
-  sortedNames foreach {
-    case (name, nr) =>
-      println(s"    $nr\t${if (name.isEmpty) "(unassigned)" else name}")
-  }
+  println(s"""|
+    |As for every release, we'll take a look at some statistics from our bug database.
+    |
+    |<pre>
+    |${data.length} tickets closed:
+    |${
+      val strs = sortedNames map {
+        case (name, nr) ⇒
+          s"    $nr\t${if (name.isEmpty) "(unassigned)" else name}"
+      }
+      strs.mkString("\n")
+    }
+    |</pre>
+    """.stripMargin)
 }
 ```
 
