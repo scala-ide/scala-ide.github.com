@@ -38,7 +38,7 @@
 
 <script type="text/javascript">
 var urls_211 = {
-  prefix: "http://downloads.typesafe.com/scalaide-pack/4.2.0-vfinal-luna-211-20150928/scala-SDK-4.2.0-vfinal-2.11",
+  prefix: "http://downloads.typesafe.com/scalaide-pack/4.3.0-vfinal-luna-211-20151201/scala-SDK-4.3.0-vfinal-2.11",
 };
 
 urls_211.win32  = urls_211.prefix + "-win32.win32.x86.zip"
