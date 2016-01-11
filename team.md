@@ -9,11 +9,15 @@ The Scala IDE for Eclipse could not be where it is today without the continued s
 
 {% include current-team.txt %}
 
-Former contributors also deserve credit. Thanks to Miles Sabin (former Project Leader), David Bernard, Matthew Farwell, Donna Malayeri, Joshua Suereth, Eugene Vigdorchik, and all other contributors.
+Further thanks goes to [all other contributors](https://github.com/scala-ide/scala-ide/graphs/contributors) who helped to make Scala IDE to what it is today.
 
 ## Sponsors
 We would also like to take the opportunity to thank our biggest, and most fun supporter, [Typesafe](http://www.typesafe.com)
 
-<center><a href="http://www.typesafe.com"><img src="{{ site.baseurl }}/resources/images/typesafe.png"></a></center>
+<center><a href="http://www.typesafe.com"><img src="{{ site.baseurl }}/resources/images/typesafe.png" width="50%" height="50%"></a></center>
+
+Additionally, many thanks go to the [VirtusLab](http://virtuslab.com/) team for their contributions and insights.
+
+<center><a href="http://virtuslab.com/"><img src="{{ site.baseurl }}/resources/images/virtuslab.png"></a></center>
 
 If you are interested in sponsoring the Scala IDE for Eclipse, contact us at [info@scala-ide.org](mailto:info@scala-ide.org).

@@ -6,63 +6,30 @@
     <div><a href="http://www.typesafe.com">Typesafe</a></div>
   </div>
   <div class="span5">
-    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/martin.jpg" align="left"></div>
-    <h4>Martin Odersky</h4>
-    <div><a href="https://github.com/odersky">@odersky</a></div>
-    <div><a href="http://www.typesafe.com">Typesafe</a></div>
-  </div>	
-</div> 
-<div class="row">
-  <div class="span6">
-    <div class="frame"><img src ="http://www.gravatar.com/avatar/666f48df52a763fb714f3ab59eae7de4" align="left"></div>
-    <h4>Luc Bourlier</h4>
-    <div><a href="https://github.com/skyluc">@skyluc</a></div>
-    <div><a href="http://www.typesafe.com">Typesafe</a></div>
-  </div>
-  <div class="span5">
-    <div class="frame"><img src ="http://www.gravatar.com/avatar/a20e94bcdbd6613506c752e72209b584" align="left"></div>
-    <h4>Mirco Dotta</h4>
-    <div><a href="https://github.com/dotta">@dotta</a></div>
-    <div><a href="http://www.typesafe.com">Typesafe</a></div>
-  </div>
-</div>
-<div class="row">
-  <div class="span6">
-    <div class="frame"><img src ="http://www.gravatar.com/avatar/54d0b6494927c0040b96ed327202e8dc" align="left"></div>
-    <h4>Heather Miller</h4>
-    <div><a href="https://github.com/heathermiller">@heathermiller</a></div>
-    <div><a href="http://www.epfl.ch">EPFL</a></div>
-  </div>
-  <div class="span5">
-    <div class="frame"><img src ="http://www.gravatar.com/avatar/4c20e091494d7672177625e3b9e116b3" align="left"></div>
-    <h4>Eric Molitor</h4>
-    <div><a href="https://github.com/emolitor">@emolitor</a></div>    
-  </div>	
-</div>
-<div class="row">
-  <div class="span6">
-    <div class="frame"><img src ="http://www.gravatar.com/avatar/e0dec64f93778e5c689c3873078a406f" align="left"></div>
-    <h4>Hubert Plociniczak</h4>
-    <div><a href="https://github.com/hubertp">@hubertp</a></div>
-    <div><a href="http://www.epfl.ch">EPFL</a></div>
-  </div>
-  <div class="span5">
-    <div class="frame"><img src ="http://www.gravatar.com/avatar/ee1c3825567027539786b9993fff9b44" align="left"></div>
-    <h4>Matt Russell</h4>
-    <div><a href="https://github.com/mdr">@mdr</a></div>
-  </div>	
-</div>
-<div class="row">
-  <div class="span6">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/dd80aab570fdb5f37e62de5422f44ed4" align="left"></div>
     <h4>Simon Schäfer</h4>
     <div><a href="https://github.com/sschaef">@sschaef</a></div>
-    <div><a href="http://kit.edu">KIT</a></div>
+    <div><a href="http://virtuslab.com/">VirtusLab</a></div>
+  </div>
+</div>
+<div class="row">
+  <div class="span6">
+    <div class="frame"><img src ="https://avatars0.githubusercontent.com/u/11613003?s=80" align="left"></div>
+    <h4>Wiesław Popielarski</h4>
+    <div><a href="https://github.com/wpopielarski">@wpopielarski</a></div>
+    <div><a href="http://virtuslab.com/">VirtusLab</a></div>
   </div>
   <div class="span5">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/7c1bfcefe11cb78162dad7f506095640" align="left"></div>
     <h4>Mirko Stocker</h4>
     <div><a href="https://github.com/misto">@misto</a></div>
     <div><a href="http://ifs.hsr.ch">Institute for Software</a></div>
-  </div>	
+  </div>
+</div>
+<div class="row">
+  <div class="span6">
+    <div class="frame"><img src ="https://avatars0.githubusercontent.com/u/7326646?s=80" align="left"></div>
+    <h4>Matthias Langer</h4>
+    <div><a href="https://github.com/mlangc">@mlangc</a></div>
+  </div>
 </div>
