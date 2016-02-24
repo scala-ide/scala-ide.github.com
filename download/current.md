@@ -18,6 +18,12 @@ The simplest way to get started is to download a pre-configured version of Eclip
 
 ### Eclipse 4.4 (Luna) and Eclipse 4.5 (Mars)
 
+<h3>
+<font color="red">
+  !!! The update site is temporarily not available. We are working on solving the problem. In the meantime, please install the current Scala IDE version from <a href="https://downloads.typesafe.com/scalaide/sdk/lithium/e44/scala211/stable/update-site.zip">the archive</a>.
+</font>
+</h3>
+
 #### Update site installation
 
 {% assign divId = 'download-210-juno' %}
