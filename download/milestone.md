@@ -3,11 +3,10 @@ layout: milestone-download
 title: Milestones & Release Candidates
 ---
 
-<!--
 Here you can find the update sites for milestone or release candidates. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 4.3.0-RC1 download
+## Scala IDE 4.4.0-RC1 download
 
 This bundle contains the Scala IDE for Eclipse and it comes pre-configured
 for optimal performance. No need to configure update sites, and *Check for updates* will keep your
@@ -36,7 +35,6 @@ If you prefer to use an existing Eclipse installation, you can use the following
 * Scala 2.11.7 and Scala 2.10.5
 * Sbt 0.13.8
 * Scalariform 0.1.5
-* Scala Refactoring 0.8.0
--->
+* Scala Refactoring 0.9.1
 
 # No milestones for Scala IDE 5.0 yet
