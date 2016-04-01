@@ -10,7 +10,7 @@
     {% unless zipUrl %}
       {% capture zipUrl %}{{ downloadUrl }}/update-site.zip{% endcapture %}
     {% endunless %}
-    (If you cannot use the update site, a downloadable local update site is available: <a href="{{ zipUrl }}">zipfile</a>, <a href="{{ zipUrl }}.sha1">sha1sum</a>)
+    (If you cannot use the update site, a downloadable local update site is available: <a href="{{ zipUrl }}">zipfile</a>)
   </div>
 </div>
 

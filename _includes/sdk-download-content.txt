@@ -3,14 +3,14 @@
     <h2>Content</h2>
     <ul>
       <li>Eclipse 4.4.2 (Luna)</li>
-      <li>Scala IDE 4.3.0</li>
-      <li>Scala 2.11.7 and Scala 2.10.6</li>
+      <li>Scala IDE 4.4.0</li>
+      <li>Scala 2.11.8 and Scala 2.10.6</li>
       <li>Sbt 0.13.8</li>
       <li>Scala Worksheet 0.4.0</li>
-      <li>Play Framework support 0.5.2</li>
-      <li>ScalaTest support 2.9.3</li>
-      <li>Scala Refactoring 0.8.0</li>
-      <li>Scala Search 0.2.5</li>
+      <li>Play Framework support 0.6.0</li>
+      <li>ScalaTest support 2.10.0</li>
+      <li>Scala Refactoring 0.9.1</li>
+      <li>Scala Search 0.3.0</li>
       <li>Access to the full Scala IDE ecosystem</li>
     </ul>
   </div>

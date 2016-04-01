@@ -3,6 +3,10 @@ layout: current-download
 title: Older releases of the Scala IDE for Eclipse
 ---
 
+# 4.3.0 Release for Scala 2.11.7
+
+This release is only available for Eclipse 4.x and can be retrieved as [zipfile][430_2117_zip].
+
 # 4.2.0 Release for Scala 2.11.7
 
 This release is only available for Eclipse 4.x and can be retrieved as [zipfile][420_2117_zip].
@@ -120,6 +124,7 @@ Scala 2.10, we recommend you to use the [3.0.0 release](#300_release)
 [410_2117_zip]: http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site_assembly-20150709-0701.zip
 [411_2117_zip]: http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site_assembly-20150729-0028.zip
 [420_2117_zip]: http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site_assembly-20150928-2314.zip
+[430_2117_zip]: http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site_assembly-20151202-0007.zip
 
 #### For Scala 2.8.x
 

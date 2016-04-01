@@ -3,6 +3,7 @@ layout: milestone-download
 title: Milestones & Release Candidates
 ---
 
+<!--
 Here you can find the update sites for milestone or release candidates. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
@@ -36,5 +37,6 @@ If you prefer to use an existing Eclipse installation, you can use the following
 * Sbt 0.13.8
 * Scalariform 0.1.5
 * Scala Refactoring 0.9.1
+-->
 
 # No milestones for Scala IDE 5.0 yet
