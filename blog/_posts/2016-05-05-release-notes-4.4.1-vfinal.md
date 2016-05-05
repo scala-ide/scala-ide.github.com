@@ -13,6 +13,12 @@ This release contains a few bug fixes and one new feature: organize imports on c
 
 <img src="{{site.url}}/resources/images/organize-imports-on-class-level.png" alt="Organize imports on class and method level" style="width: 100%;" />
 
+Together with this Scala IDE release, there is also a new version of scala-refactoring released, which can be consumed as a standalone library. The library is available for 2.10 and 2.11 under the following artifact ID:
+
+<pre>
+"org.scala-refactoring" %% "org.scala-refactoring.library" % "0.10.0"
+</pre>
+
 As usual, this build is available as an [all-in-one bundle](/download/sdk.html) and through the [update sites](/download/current.html), for new installations.
 
 Existing installations can be updated using the `Help -> Check For Updates` feature.
