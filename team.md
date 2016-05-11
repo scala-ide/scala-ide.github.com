@@ -12,9 +12,9 @@ The Scala IDE for Eclipse could not be where it is today without the continued s
 Further thanks goes to [all other contributors](https://github.com/scala-ide/scala-ide/graphs/contributors) who helped to make Scala IDE to what it is today.
 
 ## Sponsors
-We would also like to take the opportunity to thank our biggest, and most fun supporter, [Typesafe](http://www.typesafe.com)
+We would also like to take the opportunity to thank our biggest, and most fun supporter, [Lightbend](https://www.lightbend.com/)
 
-<center><a href="http://www.typesafe.com"><img src="{{ site.baseurl }}/resources/images/typesafe.png" width="50%" height="50%"></a></center>
+<center><a href="https://www.lightbend.com"><img src="{{ site.baseurl }}/resources/images/typesafe.png" width="50%" height="50%"></a></center>
 
 Additionally, many thanks go to the [VirtusLab](http://virtuslab.com/) team for their contributions and insights.
 
