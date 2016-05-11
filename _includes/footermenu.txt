@@ -20,7 +20,7 @@
       <li><a href="{{ site.baseurl }}/docs/dev/index.html">Developer Documentation</a></li>
       <li><a href="http://groups.google.com/group/scala-ide-dev">Developer Mailing List</a></li>
       <li><a href="http://scala-ide-portfolio.assembla.com/spaces/scala-ide/support/tickets">Report a Bug</a></li>
-      <li><a href="http://www.typesafe.com/contribute/cla">Individual CLA</a></li>
+      <li><a href="https://www.lightbend.com/contribute/cla">Individual CLA</a></li>
       <li><a href="resources/pdfs/cla-org.pdf">Organization CLA</a></li>
     </ul>
     <ul>

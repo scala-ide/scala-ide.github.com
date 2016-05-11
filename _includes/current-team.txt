@@ -3,7 +3,7 @@
     <div class="frame"><img src ="{{ site.baseurl }}/resources/images/iuli.png" align="left"></div>
     <h4>Iulian Dragos</h4>
     <div>(Project Leader), <a href="https://github.com/dragos">@dragos</a></div>
-    <div><a href="http://www.typesafe.com">Typesafe</a></div>
+    <div><a href="https://www.lightbend.com">Lightbend</a></div>
   </div>
   <div class="span5">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/dd80aab570fdb5f37e62de5422f44ed4" align="left"></div>
