@@ -13,37 +13,28 @@
       <h4 class="inline">Windows</h4>
     </div>
     <a id="win64_211" onclick="trackDownloadLink(urls_211.win64)" href="#">Windows 64 bit</a>
-    <br/>
-    <a id="win32_211" onclick="trackDownloadLink(urls_211.win32)" href="#">Windows 32 bit</a>
   </div>
   <div class="span4">
     <div>
       <h4 class="inline">Mac</h4>
     </div>
     <a id="mac64_211" onclick="trackDownloadLink(urls_211.mac64)" href="#">Mac OS X Cocoa 64 bit</a>
-    <br/>
-    <a id="mac32_211" onclick="trackDownloadLink(urls_211.mac32)" href="#">Mac OS X Cocoa 32 bit</a>
   </div>
   <div class="span4">
     <div>
       <h4 classs="inline">Linux</h4>
     </div>
     <a id="linux64_211" onclick="trackDownloadLink(urls_211.linux64)" href="#">Linux GTK 64 bit</a>
-    <br/>
-    <a id="linux32_211" onclick="trackDownloadLink(urls_211.linux32)" href="#">Linux GTK 32 bit</a>
   </div>
 </div>
 
 <script type="text/javascript">
 var urls_211 = {
-  prefix: "http://downloads.typesafe.com/scalaide-pack/4.4.0-rc2-luna-211-20160325/scala-SDK-4.4.0-rc2-2.11",
+  prefix: "http://downloads.typesafe.com/scalaide-pack/4.5.0-rc1-neon-211-20161123/scala-SDK-4.5.0-rc1-2.11",
 };
 
-urls_211.win32  = urls_211.prefix + "-win32.win32.x86.zip"
 urls_211.win64  = urls_211.prefix + "-win32.win32.x86_64.zip"
-urls_211.mac32  = urls_211.prefix + "-macosx.cocoa.x86.zip"
 urls_211.mac64  = urls_211.prefix + "-macosx.cocoa.x86_64.zip"
-urls_211.linux32= urls_211.prefix + "-linux.gtk.x86.tar.gz"
 urls_211.linux64= urls_211.prefix + "-linux.gtk.x86_64.tar.gz"
 
 var osTuple = [];
@@ -56,11 +47,8 @@ $("#downloadIDE211").attr("href", osTuple[1]).find("small").html(osTuple[0]);
 $("#downloadIDE211").attr("onclick", "trackDownloadLink('" + osTuple[1] + "')");
 
 $("#win64_211").attr("href", urls_211.win64);
-$("#win32_211").attr("href", urls_211.win32);
 $("#mac64_211").attr("href", urls_211.mac64);
-$("#mac32_211").attr("href", urls_211.mac32);
 $("#linux64_211").attr("href", urls_211.linux64);
-$("#linux32_211").attr("href", urls_211.linux32);
 </script>
 
 </div>
