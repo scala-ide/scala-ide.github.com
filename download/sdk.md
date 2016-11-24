@@ -20,7 +20,7 @@ and is based on *Eclipse 4.4 (Luna)*. See [Release Notes][relnotes] and the [Cha
 {% include sdk-download-box-2-11.txt %}
 
 ### Requirements
-{% include jdk-requirements-luna.txt %}
+{% include jdk-requirements.txt %}
 
 ## Get Started
 
