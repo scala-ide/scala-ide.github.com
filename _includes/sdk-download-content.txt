@@ -2,15 +2,15 @@
   <div class="span5">
     <h2>Content</h2>
     <ul>
-      <li>Eclipse 4.4.2 (Luna)</li>
-      <li>Scala IDE 4.4.1</li>
+      <li>Eclipse 4.6.1 (Neon)</li>
+      <li>Scala IDE 4.5.0</li>
       <li>Scala 2.11.8 and Scala 2.10.6</li>
-      <li>Sbt 0.13.8</li>
-      <li>Scala Worksheet 0.4.0</li>
-      <li>Play Framework support 0.6.0</li>
+      <li>Zinc 1.0.0-X6</li>
+      <li>Scala Worksheet 0.6.0</li>
+      <li>Play 2 Framework support 0.9.0</li>
       <li>ScalaTest support 2.10.0</li>
-      <li>Scala Refactoring 0.10.0</li>
-      <li>Scala Search 0.3.0</li>
+      <li>Scala Refactoring 0.11.0</li>
+      <li>Scala Search 0.5.0</li>
       <li>Access to the full Scala IDE ecosystem</li>
     </ul>
   </div>
