@@ -1,5 +1,5 @@
 title: "Scala IDE for Eclipse"
-keywords: 
+keywords:
 - Scala
 - IDE
 - Eclipse
@@ -11,4 +11,5 @@ permalink: /:categories/:title.html
 baseurl: "http://scala-ide.org"
 
 markdown: kramdown
+regenerate: true
 
