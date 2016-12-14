@@ -1,5 +1,3 @@
-* [JDK 6][jdk6], [JDK 7][jdk7] or [JDK 8][jdk8]
+* [JDK 8][jdk8]
 
-[jdk6]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html
-[jdk7]: http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-se-jdk-7-download-432154.html
 [jdk8]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
