@@ -1,7 +1,3 @@
----
-layout: default
----
-
 {% include headertop.txt %}
 <!-- Stylesheet for doc-like pages -->
 <link rel="stylesheet" href="{{ site.baseurl }}/resources/stylesheets/doc.css" type="text/css" />
@@ -19,7 +15,7 @@ layout: default
 	padding: 20px;
 	margin-bottom: -60px;
 	margin-left: 30px;
-	margin-top: 30px;		
+	margin-top: 30px;
 	vertical-align: middle;
 }
 .video-box h2 {
@@ -42,21 +38,21 @@ layout: default
 <div class="slider">
   <div class="container">
     <div class="row">
-      <div class="span16">        
+      <div class="span16">
         <h1>{{ page.title }}</h1>
 	  </div>
 	</div>
     <div class="row">
       <div class="span8">
-	    <div class="video">	
+	    <div class="video">
               <div id="getting_started_video" class="doc_video">
                 <img class="doc_video" src="{{ site.baseurl }}/resources/images/splash-getting-started-video.png" onclick="startVideo('getting_started_video', 'dGI04efb6hg', 'doc_video')"/>
               </div>
 
-		  <span class="left-arrow"><img src="/resources/images/left-arrow.png" /></span>	
+		  <span class="left-arrow"><img src="/resources/images/left-arrow.png" /></span>
 		</div>
 	  </div>
-      <div class="span5">        		
+      <div class="span5">
 		<div class="video-box">
 			<h2 id="me" title="A title" data-content="And here's some amazing content. It's very engaging. right?">Let's get started!</h2>
 			If you are new to Eclipse or Scala, watch the “Getting Started with the Scala IDE”. This screencast will guide you through the installation of the Scala IDE for Eclipse, and you will also learn how to create and run your first Scala project.
@@ -69,7 +65,7 @@ layout: default
 <div class="bottom">
   <div class="container">
     <div class="row">
-      <div class="span13">        
+      <div class="span13">
         {{ content }}
 	  </div>
     </div>
