@@ -1,0 +1,54 @@
+<div class="download-section">
+
+<div id="download-link-2-12" class="download-link">
+<a href="#" id="downloadIDE212">
+    Download IDE
+    <small></small>
+</a>
+</div>
+
+<div class="row">
+  <div class="span4 offset1">
+    <div>
+      <h4 class="inline">Windows</h4>
+    </div>
+    <a id="win64_212" onclick="trackDownloadLink(urls_212.win64)" href="#">Windows 64 bit</a>
+  </div>
+  <div class="span4">
+    <div>
+      <h4 class="inline">Mac</h4>
+    </div>
+    <a id="mac64_212" onclick="trackDownloadLink(urls_212.mac64)" href="#">Mac OS X Cocoa 64 bit</a>
+  </div>
+  <div class="span4">
+    <div>
+      <h4 classs="inline">Linux</h4>
+    </div>
+    <a id="linux64_212" onclick="trackDownloadLink(urls_212.linux64)" href="#">Linux GTK 64 bit</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+var urls_212 = {
+  prefix: "http://downloads.typesafe.com/scalaide-pack/4.6.0-rc1-neon-212-20170406/scala-SDK-4.6.0-rc1-2.12",
+};
+
+urls_212.win64  = urls_212.prefix + "-win32.win32.x86_64.zip"
+urls_212.mac64  = urls_212.prefix + "-macosx.cocoa.x86_64.zip"
+urls_212.linux64= urls_212.prefix + "-linux.gtk.x86_64.tar.gz"
+
+var osTuple = [];
+if (navigator.appVersion.indexOf("Win")!=-1) osTuple =          ["Windows - 64 bit" , urls_212.win64];
+else if (navigator.appVersion.indexOf("Mac")!=-1) osTuple =     ["Mac - 64 bit"     , urls_212.mac64];
+else if (navigator.appVersion.indexOf("X11")!=-1) osTuple =     ["Linux - 64 bit"   , urls_212.linux64];
+else if (navigator.appVersion.indexOf("Linux")!=-1) osTuple =   ["Linux - 64 bit"   , urls_212.linux64];
+else $("#downloadIDE212").hide();
+$("#downloadIDE212").attr("href", osTuple[1]).find("small").html(osTuple[0]);
+$("#downloadIDE212").attr("onclick", "trackDownloadLink('" + osTuple[1] + "')");
+
+$("#win64_212").attr("href", urls_212.win64);
+$("#mac64_212").attr("href", urls_212.mac64);
+$("#linux64_212").attr("href", urls_212.linux64);
+</script>
+
+</div>
