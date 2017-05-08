@@ -6,7 +6,7 @@ title: Milestones & Release Candidates
 Here you can find the update sites for milestone or release candidates. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 4.6.0-RC1 download
+## Scala IDE 4.6.0-RC2 download
 
 This bundle contains the Scala IDE for Eclipse and it comes pre-configured
 for optimal performance. No need to configure update sites, and *Check for updates* will keep your
@@ -32,8 +32,8 @@ If you prefer to use an existing Eclipse installation, you can use the following
 
 #### Also included:
 
-* Scala 2.12.1
-* Zinc 1.0.0-X10
+* Scala 2.12.2
+* Zinc 1.0.0-X14
 * Scalariform 0.1.5
 * Scala Refactoring 0.13.0
 * Scala Worksheet 0.7.0

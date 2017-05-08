@@ -18,13 +18,13 @@ title: Download the Latest Nightly Build
 
 ### Requirements
 
-* Scala IDE Lithium works with [Eclipse 4.5][mars] and [Eclipse 4.4][luna].
+* Scala IDE Lithium works with [Eclipse 4.6][neon].
 
-#### For Scala 2.11.x
+#### For Scala 2.12.x
 
 {% assign divId = 'download-luna-40-211' %}
-{% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly-scala-ide-luna-211x' %}
-{% assign zipUrl = 'http://download.scala-ide.org/nightly-scala-ide-luna-211x.zip' %}
+{% assign fullDownloadUrl = 'http://download.scala-ide.org/nightly' %}
+{% assign zipUrl = 'http://download.scala-ide.org/nightly.zip' %}
 
 {% include download-box.txt %}
 
@@ -34,3 +34,4 @@ title: Download the Latest Nightly Build
 [kepler]: http://eclipse.org/kepler/
 [luna]: https://www.eclipse.org/luna/
 [mars]: https://www.eclipse.org/mars/
+[neon]: https://www.eclipse.org/neon/
