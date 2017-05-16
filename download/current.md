@@ -1,6 +1,6 @@
 ---
 layout: current-download
-title: Download the 4.5 Release of the Scala IDE for Eclipse
+title: Download the 4.6 Release of the Scala IDE for Eclipse
 ---
 
 # Get Started
@@ -9,7 +9,7 @@ If you are new to Eclipse or Scala, watch the *Getting Started with the Scala ID
 
 If you already know Eclipse and you want to find out more about features available in the Scala IDE, make sure not to miss the [Scala IDE Features Overview]({{ site.baseurl }}/index.html), on the front page. A complete list of features is available in the expandable menu on the [front page]({{ site.baseurl }}/index.html#features).
 
-## 4.5.0 Release
+## 4.6.0 Release
 
 This is the most recent release of Scala IDE for Eclipse. See the [release notes][relnotes] or the complete
 [Changelog][clog] for a complete list of changes.
@@ -21,7 +21,7 @@ The simplest way to get started is to download a pre-configured version of Eclip
 #### Update site installation
 
 {% assign divId = 'download-210-juno' %}
-{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e46/scala211/stable' %}
+{% assign downloadUrl = 'http://download.scala-ide.org/sdk/lithium/e46/scala212/stable' %}
 
 {% include download-box.txt %}
 
@@ -31,10 +31,13 @@ The simplest way to get started is to download a pre-configured version of Eclip
 
 This Scala IDE release includes:
 
-* Scala 2.11.8 and Scala 2.10.6
-* Zinc 1.0.0-X6
-* Scalariform 0.1.6
-* Scala Refactoring 0.11.0
+* Scala 2.12.2 with Scala 2.11.8 and Scala 2.10.6
+* Zinc 1.0.0-X14
+* Scalariform 0.1.5
+* Scala Refactoring 0.13.0
+* Scala Worksheet 0.7.0
+* Scala Search 0.6.0
+* ScalaTest 2.10.0.v-4-2_12
 
 ### Requirements
 {% include requirements-stable.txt %}
@@ -42,5 +45,5 @@ This Scala IDE release includes:
 ### [Older versions](prev-stable.html)
 
 [clog]: /docs/changelog.html
-[relnotes]: /blog/release-notes-4.5.0-vfinal.html
+[relnotes]: /blog/release-notes-4.6.0-vfinal.html
 [sdkpage]:/download/sdk.html
