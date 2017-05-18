@@ -15,6 +15,10 @@ Enjoy.
 
 Scala 2.12.2 mostly!
 
+## Stats
+
+For the full list of all changes, see the [changelog][cl].
+
 ## Thanks
 
 The following statistic contains the accumulated commits of the following repositories:

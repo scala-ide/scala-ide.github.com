@@ -4,7 +4,7 @@
       <div class="span8">
         <div class="rounded-corner-box">
           <div class="release-title">
-            <h2>Version 4.5.0</h2>
+            <h2>Version 4.6.0</h2>
             <h2>Now Available!</h2>
           </div>
           <div class="release-text">
@@ -23,7 +23,7 @@
     </div>
 
 <!-- Uncomment this section for a RC release -->
-
+<!--
 <div>
     <div class="rounded-corner-box" style="min-height: 0px; float: left; padding: 10px; margin-top: 10px; width: 778px; background-color: rgba(0,0,0,0.5);">
       <span class="news-box-text">
@@ -33,7 +33,7 @@
     <span class="news-arrow"><img src="{{ site.baseurl }}/resources/images/news-arrow.png"></span>
     <a href="{{ site.baseurl }}/download/milestone.html"><img style="float: right; margin-top: 5px; margin-bottom: -15px; margin-right: 35px;" src="{{ site.baseurl }}/resources/images/tools.png"></a>
 </div>
-
+-->
 </div>
 </div>
 
