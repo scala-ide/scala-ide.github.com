@@ -3,13 +3,14 @@
     <h2>Content</h2>
     <ul>
       <li>Eclipse 4.6.3 (Neon)</li>
-      <li>Scala IDE 4.6.0</li>
+      <li>Scala IDE 4.6.1</li>
       <li>Scala 2.12.2 with Scala 2.11.8 and Scala 2.10.6</li>
       <li>Zinc 1.0.0-X14</li>
       <li>Scala Worksheet 0.7.0</li>
       <li>ScalaTest 2.10.0.v-4-2_12</li>
       <li>Scala Refactoring 0.13.0</li>
       <li>Scala Search 0.6.0</li>
+      <li>Scala IDE Play2 Plugin 0.10.0</li>
     </ul>
   </div>
   <div class="span6 offset1">
