@@ -1,33 +1,25 @@
 <div class="row">
   <div class="span6">
-    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/iuli.png" align="left"></div>
-    <h4>Iulian Dragos</h4>
-    <div>(Project Leader), <a href="https://github.com/dragos">@dragos</a></div>
-    <div><a href="https://www.lightbend.com">Lightbend</a></div>
-  </div>
-  <div class="span5">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/dd80aab570fdb5f37e62de5422f44ed4" align="left"></div>
     <h4>Simon Schäfer</h4>
     <div><a href="https://github.com/sschaef">@sschaef</a></div>
     <div><a href="http://virtuslab.com/">VirtusLab</a></div>
   </div>
-</div>
-<div class="row">
-  <div class="span6">
+  <div class="span5">
     <div class="frame"><img src ="https://avatars0.githubusercontent.com/u/11613003?s=80" align="left"></div>
     <h4>Wiesław Popielarski</h4>
     <div><a href="https://github.com/wpopielarski">@wpopielarski</a></div>
     <div><a href="http://virtuslab.com/">VirtusLab</a></div>
   </div>
-  <div class="span5">
+</div>
+<div class="row">
+  <div class="span6">
     <div class="frame"><img src ="http://www.gravatar.com/avatar/7c1bfcefe11cb78162dad7f506095640" align="left"></div>
     <h4>Mirko Stocker</h4>
     <div><a href="https://github.com/misto">@misto</a></div>
     <div><a href="http://ifs.hsr.ch">Institute for Software</a></div>
   </div>
-</div>
-<div class="row">
-  <div class="span6">
+  <div class="span5">
     <div class="frame"><img src ="https://avatars0.githubusercontent.com/u/7326646?s=80" align="left"></div>
     <h4>Matthias Langer</h4>
     <div><a href="https://github.com/mlangc">@mlangc</a></div>
