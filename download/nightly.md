@@ -4,7 +4,7 @@ title: Download the Latest Nightly Build
 ---
 
 # Scala IDE Lithium (4.x), Nightly
-*Lithium* is the codename for the current Scala IDE release. If you like staying on the cutting edge, make sure to install this nightly.
+Lithium is the codename for the current Scala IDE release. If you like staying on the cutting edge, make sure to install this nightly.
 
 <!--
 ## New Features
@@ -18,7 +18,7 @@ title: Download the Latest Nightly Build
 
 ### Requirements
 
-* Scala IDE Lithium works with [Eclipse 4.6][neon].
+* Scala IDE Lithium works with [Eclipse 4.7][oxygen].
 
 #### For Scala 2.12.x
 
@@ -30,8 +30,4 @@ title: Download the Latest Nightly Build
 
 [Older versions](prev-nightlies.html)
 
-[juno]: http://eclipse.org/juno/
-[kepler]: http://eclipse.org/kepler/
-[luna]: https://www.eclipse.org/luna/
-[mars]: https://www.eclipse.org/mars/
-[neon]: https://www.eclipse.org/neon/
+[oxygen]: https://www.eclipse.org/oxygen/
