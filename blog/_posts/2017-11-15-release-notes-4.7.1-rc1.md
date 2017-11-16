@@ -13,6 +13,8 @@ Scala Worksheet allows for running the code in any Scala version! This is, as we
 
 Scala IDE Play2 plugin supports syntax coloring for .scala.html templates which makes work little bit more comfortable.
 
+Scalariform library updgraded to 0.2.6.
+
 ## Stats & Thanks
 
 The following statistic contains the accumulated commits of the following repositories:

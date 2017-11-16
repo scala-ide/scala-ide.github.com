@@ -34,7 +34,7 @@ If you prefer to use an existing Eclipse installation, you can use the following
 
 * Scala 2.12.3
 * Zinc 1.0.0
-* Scalariform 0.2.3
+* Scalariform 0.2.6
 * Scala Refactoring 0.13.0
 * Scala IDE Play2 Plugin 0.11.0
 * Scala Worksheet 0.8.0
