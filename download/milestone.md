@@ -6,7 +6,7 @@ title: Milestones & Release Candidates
 Here you can find the update sites for milestone or release candidates. Use this stream if you want to stay
 up to date with the latest developments in the Scala compiler and the Scala IDE itself.
 
-## Scala IDE 4.7.1-RC2 download
+## Scala IDE 4.7.1-RC3 download
 
 This bundle contains the Scala IDE for Eclipse and it comes pre-configured
 for optimal performance. No need to configure update sites, and *Check for updates* will keep your
